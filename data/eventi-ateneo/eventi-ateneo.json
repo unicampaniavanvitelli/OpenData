@@ -1,0 +1,1227 @@
+[
+  {
+    "idEvento": 1123,
+    "nome": "MISSIONE AL MUSEO DI SANT'EULALIA DI CAGLIARI",
+    "tipo": "Evento generico",
+    "data": "2024-02-24",
+    "sede": "Museo di Sant'Eulalia - Cagliari"
+  },
+  {
+    "idEvento": 1124,
+    "nome": "PRESENTAZIONE LIBRO PAPA A RUVO DI PUGLIA",
+    "tipo": "Evento pubblico",
+    "data": "2024-02-24",
+    "sede": "Palazzo Caputi - Ruvo di Puglia"
+  },
+  {
+    "idEvento": 1121,
+    "nome": "VISITA STUDENTI I ANNO CdS MEDICINE AND SURGERY UNICAMPANIA",
+    "tipo": "Evento generico",
+    "data": "2024-01-17",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 1122,
+    "nome": "VISITA STUDENTI DI ARCHITETTURA CORSO DI MUSEOGRAFIA V ANNO UNICAMPANIA",
+    "tipo": "Evento generico",
+    "data": "2024-01-10",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 1101,
+    "nome": "VISITA CESTEV FEDERICO II CON DELEGAZIONE CANADESE",
+    "tipo": "Apertura Straordinaria",
+    "data": "2023-12-15",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 1102,
+    "nome": "CO.MA CONVEGNO MEDICINA DI PRECISIONE",
+    "tipo": "Convegno",
+    "data": "2023-12-15",
+    "sede": "Complesso di S. Patrizia"
+  },
+  {
+    "idEvento": 1084,
+    "nome": "VISITA TEATRALIZZATA",
+    "tipo": "Apertura Straordinaria",
+    "data": "2023-12-06",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 1082,
+    "nome": "DELEGAZIONE CINESE OSPITE DELL'ATENEO",
+    "tipo": "Apertura Straordinaria",
+    "data": "2023-12-04",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 1083,
+    "nome": "CONVEGNO SYNERGY-COVID L'INTELLIGENZA ARTIFICIALE NELLA GESTIONE DELLA PANDEMIE",
+    "tipo": "Convegno",
+    "data": "2023-11-24",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 1081,
+    "nome": "ALLA SCOPERTA DEI TESORI DELLA VANVITELLI 2023",
+    "tipo": "Promozione dell'Ateneo",
+    "data": "2023-11-18",
+    "sede": "Museo Anatomico - Sezione Farmacologia MUSA - Complesso di S. Gaudioso"
+  },
+  {
+    "idEvento": 1063,
+    "nome": "VISITA TEATRALIZZATA",
+    "tipo": "Apertura Straordinaria",
+    "data": "2023-11-04",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 1062,
+    "nome": "GIORNATE EUROPEE DEL PATRIMONIO 2023",
+    "tipo": "Apertura Straordinaria",
+    "data": "2023-09-23",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 1061,
+    "nome": "LIFE SCIENCES MEDITERRANEAN MEETING",
+    "tipo": "Convegno",
+    "data": "2023-09-14",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 1051,
+    "nome": "VISITA FONDAZIONE MORRA GRECO - ARTISTI STATUNITENSI",
+    "tipo": "Evento generico",
+    "data": "2023-07-27",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 1049,
+    "nome": "PROGETTO ARTE CONTEMPORANEA COLLISION",
+    "tipo": "Evento generico",
+    "data": "2023-06-22",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 1046,
+    "nome": "ITALY BIRTHPLACE OF ANATOMY",
+    "tipo": "Apertura Straordinaria",
+    "data": "2023-06-17",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 1048,
+    "nome": "VISITA ASSOCIAZIONE ARCHEOCLUB ",
+    "tipo": "Evento pubblico",
+    "data": "2023-06-17",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 1050,
+    "nome": "VISITA CORSO GISS UROGINECOLOGIA",
+    "tipo": "Evento generico",
+    "data": "2023-06-15",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 1054,
+    "nome": "PIERO LISSONI: ALLESTIMENTI E CULTURA DEL DESIGN",
+    "tipo": "Convegno",
+    "data": "2023-06-06",
+    "sede": "Officina Vanvitelli"
+  },
+  {
+    "idEvento": 1053,
+    "nome": "L'AVVENIRE DELLA MEMORIA",
+    "tipo": "Convegno",
+    "data": "2023-05-29",
+    "sede": "Officina Vanvitelli"
+  },
+  {
+    "idEvento": 1047,
+    "nome": "CONVEGNO CIRLAM",
+    "tipo": "Evento pubblico",
+    "data": "2023-05-25",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 1045,
+    "nome": "MAGGIO DEI MONUMENTI 2023",
+    "tipo": "Apertura Straordinaria",
+    "data": "2023-05-20",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 1052,
+    "nome": "FERRAGAMO MUSEO: HERITAGE E CULTURA CONTEMPORANEA",
+    "tipo": "Convegno",
+    "data": "2023-04-14",
+    "sede": "Officina Vanvitelli"
+  },
+  {
+    "idEvento": 1042,
+    "nome": " HIGH SCHOOL GAME ",
+    "tipo": "Promozione dell'Ateneo",
+    "data": "2023-04-05",
+    "sede": "Aulario S. Maria Capua Vetere "
+  },
+  {
+    "idEvento": 1044,
+    "nome": "ARTICOLO \"IL MATTINO\" - IL MUSEO ANATOMICO DI NAPOLI: UNA WONDERKAMMER CUSTODITA NEL CUORE DELLA CITTA'",
+    "tipo": "Divulgazione scientifica",
+    "data": "2023-04-05",
+    "sede": "WEB"
+  },
+  {
+    "idEvento": 1043,
+    "nome": "V:ORIENTA",
+    "tipo": "Promozione dell'Ateneo",
+    "data": "2023-03-30",
+    "sede": "Polo Scientifico di Caserta"
+  },
+  {
+    "idEvento": 1041,
+    "nome": "CORPOREA - CITTA' DELLA SCIENZA",
+    "tipo": "Mostra",
+    "data": "2023-01-02",
+    "sede": "Citta della Scienza Napoli"
+  },
+  {
+    "idEvento": 932,
+    "nome": "PROGETTO \"ALLA SCOPERTA DEI TESORI VANVITELLI\"",
+    "tipo": "Apertura Straordinaria",
+    "data": "2022-12-17",
+    "sede": "Museo Anatomico - Sezione Farmacologia MUSA - Complesso di S. Gaudioso"
+  },
+  {
+    "idEvento": 931,
+    "nome": "VISITA STUDENTI DISTABIF",
+    "tipo": "Evento generico",
+    "data": "2022-12-16",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 930,
+    "nome": "XXXII CONVEGNO NAZIONALE GISN",
+    "tipo": "Apertura Straordinaria",
+    "data": "2022-11-25",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 929,
+    "nome": "RIPRESE TELEVISIVE TELE A",
+    "tipo": "Evento generico",
+    "data": "2022-11-10",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 979,
+    "nome": "Societa' Italiana Chirurgia, Ludovico Docimo eletto presidente",
+    "tipo": "Evento pubblico",
+    "data": "2022-11-02",
+    "sede": "WEB"
+  },
+  {
+    "idEvento": 980,
+    "nome": "NEWS VG21 H 14.00 (Ora: 14:14:20 Sec: 37)",
+    "tipo": "Evento pubblico",
+    "data": "2022-11-02",
+    "sede": "TV"
+  },
+  {
+    "idEvento": 968,
+    "nome": "OBIETTIVO SALUTE (Ora: 12:09:58 Min: 4:02)",
+    "tipo": "Evento pubblico",
+    "data": "2022-10-31",
+    "sede": "TV"
+  },
+  {
+    "idEvento": 967,
+    "nome": "TG2 ITALIA (Ora: 10:46:47 Min: 1:47)",
+    "tipo": "Evento pubblico",
+    "data": "2022-10-26",
+    "sede": "TV"
+  },
+  {
+    "idEvento": 928,
+    "nome": "APERTURA STRAORDINARIA \"BICENTENARIO DALLA MORTE DI DOMENICO COTUGNO\"",
+    "tipo": "Apertura Straordinaria",
+    "data": "2022-10-22",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 927,
+    "nome": "CONVEGNO - IN MEMORIA DI DOMENICO COTUGNO",
+    "tipo": "Convegno",
+    "data": "2022-10-20",
+    "sede": "Complesso di S. Patrizia"
+  },
+  {
+    "idEvento": 926,
+    "nome": "VISITA TEATRALIZZATA",
+    "tipo": "Evento generico",
+    "data": "2022-09-26",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 924,
+    "nome": "MANIFESTAZIONE GIORNATE EUROPEE DEL PATRIMONIO 2022",
+    "tipo": "Apertura Straordinaria",
+    "data": "2022-09-24",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 941,
+    "nome": "RIPRODUZIONE FOTOGRAFICA PER ARCHIVIO DI STATO DI NAPOLI - RIVISTA GRAND'A",
+    "tipo": "Evento Locale",
+    "data": "2022-09-23",
+    "sede": "Archivio di Stato di Napoli"
+  },
+  {
+    "idEvento": 966,
+    "nome": "Giornata nazionale della neurologia: l'Emicrania",
+    "tipo": "Evento pubblico",
+    "data": "2022-09-23",
+    "sede": "Social"
+  },
+  {
+    "idEvento": 925,
+    "nome": "INTERVISTA PAPA AFITT",
+    "tipo": "Evento generico",
+    "data": "2022-08-29",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 969,
+    "nome": "#EstateinSalute: Centro Cefalee",
+    "tipo": "Evento pubblico",
+    "data": "2022-07-31",
+    "sede": "Social"
+  },
+  {
+    "idEvento": 972,
+    "nome": "Collaborazione con l’Associazione Parkinson Parthenope",
+    "tipo": "Evento pubblico",
+    "data": "2022-07-31",
+    "sede": "Social"
+  },
+  {
+    "idEvento": 923,
+    "nome": "INTERVISTA DOCUFILM - D. COTUGNO",
+    "tipo": "Evento generico",
+    "data": "2022-07-05",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 970,
+    "nome": "Società Italiana per lo Studio delle Cefalee ",
+    "tipo": "Evento pubblico",
+    "data": "2022-06-26",
+    "sede": "Social"
+  },
+  {
+    "idEvento": 964,
+    "nome": "Vimeo: XXI Congresso SIRN",
+    "tipo": "Evento pubblico",
+    "data": "2022-06-25",
+    "sede": "WEB"
+  },
+  {
+    "idEvento": 965,
+    "nome": "XXI Congresso SIRN, le nuove frontiere della neuroriabilitazione",
+    "tipo": "Evento pubblico",
+    "data": "2022-06-25",
+    "sede": "WEB"
+  },
+  {
+    "idEvento": 922,
+    "nome": "VISITA FEDERAGIT CAMPANIA",
+    "tipo": "Evento generico",
+    "data": "2022-06-24",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 973,
+    "nome": "Protocolli di cura della fase avanzata della malattia di Parkinson",
+    "tipo": "Evento pubblico",
+    "data": "2022-06-23",
+    "sede": "Social"
+  },
+  {
+    "idEvento": 921,
+    "nome": "VISITA ARTISTA PARIGINA SYLVIE LOBATO",
+    "tipo": "Evento generico",
+    "data": "2022-06-20",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 906,
+    "nome": "INTERVISTA FACEBOOK PROF. PAPA",
+    "tipo": "Evento generico",
+    "data": "2022-06-05",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 901,
+    "nome": "MANIFESTAZIONE MAGGIO DEI MONUMENTI 2022",
+    "tipo": "Apertura Straordinaria",
+    "data": "2022-05-21",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 974,
+    "nome": "MAGAZINE INBLU2000",
+    "tipo": "Evento pubblico",
+    "data": "2022-05-20",
+    "sede": "TV"
+  },
+  {
+    "idEvento": 977,
+    "nome": "Al Policlinico Vanvitelli di Napoli straordinario intervento multidisciplinare: ernia jatale gigante",
+    "tipo": "Evento pubblico",
+    "data": "2022-05-19",
+    "sede": "TV"
+  },
+  {
+    "idEvento": 978,
+    "nome": "Intervento straordinario al Policlinico, tolto tumore al polmone: ernia jatale ne impediva la rimozione",
+    "tipo": "Evento pubblico",
+    "data": "2022-05-19",
+    "sede": "TV"
+  },
+  {
+    "idEvento": 971,
+    "nome": "Le diverse fasi della malattia di Parkinson",
+    "tipo": "Evento pubblico",
+    "data": "2022-05-18",
+    "sede": "Social"
+  },
+  {
+    "idEvento": 903,
+    "nome": "VISITA SCUOLA MILITARE NUNZIATELLA",
+    "tipo": "Apertura Straordinaria",
+    "data": "2022-05-17",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 885,
+    "nome": "VISITA STUDENTI DELLA FACOLTA' DI MEDICINA E CHIRURGIA DELL'UNIVERSITA' DI FOGGIA",
+    "tipo": "Evento generico",
+    "data": "2022-05-13",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 963,
+    "nome": "Elisir: mi dica dottore",
+    "tipo": "Evento pubblico",
+    "data": "2022-05-12",
+    "sede": "TV"
+  },
+  {
+    "idEvento": 904,
+    "nome": "VISITA STUDENTI UNIVERSITA' OLANDESE DI NIMENJEN",
+    "tipo": "Evento generico",
+    "data": "2022-05-09",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 883,
+    "nome": "VISITA I.S.T. NATTA DI BERGAMO",
+    "tipo": "Apertura Straordinaria",
+    "data": "2022-05-05",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 902,
+    "nome": "VISITA STUDENTI I.S.T. NATTA DI BERGAMO",
+    "tipo": "Apertura Straordinaria",
+    "data": "2022-05-05",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 982,
+    "nome": "Pensa alla salute",
+    "tipo": "Evento pubblico",
+    "data": "2022-04-13",
+    "sede": "TV"
+  },
+  {
+    "idEvento": 884,
+    "nome": "INTERVISTA PER IL QUOTIDIANO \"IL MATTINO\" - COLLEZIONE PIETRIFICAZIONI ",
+    "tipo": "Evento generico",
+    "data": "2022-04-11",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 962,
+    "nome": "Il Mio Medico - Le terapie innovative per curare il mal di testa",
+    "tipo": "Evento pubblico",
+    "data": "2022-04-11",
+    "sede": "TV"
+  },
+  {
+    "idEvento": 882,
+    "nome": "VISITA SCUOLA GYMNASIUM DANIMARCA ",
+    "tipo": "Evento generico",
+    "data": "2022-04-05",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 881,
+    "nome": "VISITA STUDENTI DI ARCHEOLOGIA DOTT.SSA TORINO",
+    "tipo": "Evento generico",
+    "data": "2022-03-30",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 961,
+    "nome": "TG2 MEDICINA 33 (Ora: 13:51:11 Min: 4:58)",
+    "tipo": "Evento pubblico",
+    "data": "2022-03-29",
+    "sede": "TV"
+  },
+  {
+    "idEvento": 861,
+    "nome": "VISITA ASSOCIAZIONE \"AMICI DELLE CHIESE NAPOLETANE\"",
+    "tipo": "Evento generico",
+    "data": "2022-03-23",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 862,
+    "nome": "VISITA GEKO VIAGGI",
+    "tipo": "Evento generico",
+    "data": "2022-03-22",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 981,
+    "nome": "Giornata Mondiale del Rene: la Simg propone un nuovo ruolo per il medico di famiglia",
+    "tipo": "Evento pubblico",
+    "data": "2022-03-09",
+    "sede": "WEB"
+  },
+  {
+    "idEvento": 844,
+    "nome": "RIPRESE PER PROGRAMMA VASCOS - TELEVISIONE BASCA ",
+    "tipo": "Apertura Straordinaria",
+    "data": "2022-02-07",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 843,
+    "nome": "INTERVISTA PER IL QUOTIDIANO \"IL MATTINO\" - ARTICOLO SU EFISIO MARINI",
+    "tipo": "Evento generico",
+    "data": "2022-01-24",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 845,
+    "nome": "ARTICOLO CORRIERE DELLA SERA - SEZIONE ONLINE DEI VIAGGI ",
+    "tipo": "Evento generico",
+    "data": "2022-01-19",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 842,
+    "nome": "RIPRESE TVA CAMPANIA",
+    "tipo": "Evento generico",
+    "data": "2022-01-14",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 975,
+    "nome": "GR REGIONE CAMPANIA H 12.10 (Ora: 12:13:37 Min: 3:05)",
+    "tipo": "Evento pubblico",
+    "data": "2022-01-13",
+    "sede": "TV"
+  },
+  {
+    "idEvento": 976,
+    "nome": "TGR CAMPANIA H 14.00 (Ora: 14:05:00 Min: 2:14)",
+    "tipo": "Evento pubblico",
+    "data": "2022-01-13",
+    "sede": "TV"
+  },
+  {
+    "idEvento": 841,
+    "nome": "CORPOREA - CITTA' DELLA SCIENZA",
+    "tipo": "Mostra",
+    "data": "2022-01-01",
+    "sede": "Citta della Scienza Napoli"
+  },
+  {
+    "idEvento": 825,
+    "nome": "VISITA ASSOCIAZIONE 31SALVATUTTI",
+    "tipo": "Apertura Straordinaria",
+    "data": "2021-10-11",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 823,
+    "nome": "RIPRESE PROGRAMMA VALERE Prof. Cesaro",
+    "tipo": "Evento generico",
+    "data": "2021-10-07",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 824,
+    "nome": "CONVEGNO VIRTULE prof.ssa Mucci",
+    "tipo": "Evento generico",
+    "data": "2021-10-07",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 822,
+    "nome": "GIORNATE EUROPEE DEL PATRIMONIO 2021",
+    "tipo": "Apertura Straordinaria",
+    "data": "2021-09-25",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 821,
+    "nome": "PRESENTAZIONE LIBRO PAPA EFISIO MARINI",
+    "tipo": "Evento Locale",
+    "data": "2021-09-16",
+    "sede": "Archivio di Stato di Napoli"
+  },
+  {
+    "idEvento": 803,
+    "nome": "PRESENTAZIONE LIBRO HANDMADE IN ITALY",
+    "tipo": "Evento Locale",
+    "data": "2021-07-23",
+    "sede": "Castel Sant'Elmo"
+  },
+  {
+    "idEvento": 802,
+    "nome": "PRESTITO - CITTA' DELLA SCIENZA (MOSTRA CORPOREA)",
+    "tipo": "Mostra",
+    "data": "2021-06-01",
+    "sede": "Citta della Scienza Napoli"
+  },
+  {
+    "idEvento": 801,
+    "nome": "PRESTITO MASCAGNI - MUSEO DI CAPODIMONTE",
+    "tipo": "Mostra",
+    "data": "2021-05-13",
+    "sede": "Museo di Capodimonte"
+  },
+  {
+    "idEvento": 781,
+    "nome": "CONVEGNO FRENOLOGIA",
+    "tipo": "Convegno",
+    "data": "2020-12-07",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 764,
+    "nome": "HIGH SCHOOL GAME",
+    "tipo": "Open Day",
+    "data": "2020-02-13",
+    "sede": "Aulario S. Maria Capua Vetere "
+  },
+  {
+    "idEvento": 763,
+    "nome": "INTERVISTA OTTO CHANNEL",
+    "tipo": "Evento generico",
+    "data": "2020-02-12",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 762,
+    "nome": "VISITA STUDENTI MASTER CRIMINOLOGIA",
+    "tipo": "Apertura Straordinaria",
+    "data": "2020-02-10",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 761,
+    "nome": "VISITA PROF. ROTONDO",
+    "tipo": "Evento generico",
+    "data": "2020-01-27",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 741,
+    "nome": "VISITA STUDENTI MEDICINA NAPOLI E CASERTA",
+    "tipo": "Evento generico",
+    "data": "2019-12-16",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 721,
+    "nome": "VISITA DELEGAZIONE DEL MUSME DI PADOVA",
+    "tipo": "Evento generico",
+    "data": "2019-12-12",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 701,
+    "nome": "STUDENTI DI MEDICINA UNIVERSITA' DI BARI ",
+    "tipo": "Evento generico",
+    "data": "2019-11-29",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 683,
+    "nome": "CORPOREA - PRESTITO REPERTI",
+    "tipo": "Evento generico",
+    "data": "2019-11-25",
+    "sede": "Citta della Scienza Napoli"
+  },
+  {
+    "idEvento": 682,
+    "nome": "VISITA ASSOCIAZIONE STUDENTESCA \"STUDENTI PER\"",
+    "tipo": "Evento generico",
+    "data": "2019-11-22",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 681,
+    "nome": "PRESENTAZIONE LIBRO ASSOCIAZIONE OLTRE I RESTI",
+    "tipo": "Apertura Straordinaria",
+    "data": "2019-11-15",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 661,
+    "nome": "VISITA SCUOLA SVIZZERA SSPSS",
+    "tipo": "Evento generico",
+    "data": "2019-11-08",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 641,
+    "nome": "VISITA CURATORE MUSEO DUPUYTREN DI PARIGI",
+    "tipo": "Apertura Straordinaria",
+    "data": "2019-11-04",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 624,
+    "nome": "VISITA STUDENTI BELGA ISTITUTO H.GRAF",
+    "tipo": "Evento generico",
+    "data": "2019-10-24",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 623,
+    "nome": "PRIMOPIANO VIAGGI VISITA STUDENTI FRANCESI",
+    "tipo": "Apertura Straordinaria",
+    "data": "2019-10-16",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 622,
+    "nome": "SECONDO V.AR.CO",
+    "tipo": "Convegno",
+    "data": "2019-10-10",
+    "sede": "Aulario S. Maria Capua Vetere "
+  },
+  {
+    "idEvento": 601,
+    "nome": "RIPRESE TELEVISIVE CANALE 21",
+    "tipo": "Evento generico",
+    "data": "2019-09-16",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 581,
+    "nome": "ESMO-ESO Course on Medical Oncology for Medical Students",
+    "tipo": "Apertura Straordinaria",
+    "data": "2019-09-02",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 562,
+    "nome": "DALLE FILIPPINE ALLA VANVITELLI PER STUDIARE OTORINOLARINGOIATRIA ",
+    "tipo": "Evento generico",
+    "data": "2019-07-09",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 561,
+    "nome": "CONVEGNO HANDMADE IN ITALY",
+    "tipo": "Convegno",
+    "data": "2019-07-08",
+    "sede": "Museo Duca di Martina - Polo Museale della Campania"
+  },
+  {
+    "idEvento": 541,
+    "nome": "OVID OPEN DAY ",
+    "tipo": "Open Day",
+    "data": "2019-06-12",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 521,
+    "nome": "STUDENTI NORTHEASTERN UNIVERSITY OF BOSTON",
+    "tipo": "Evento generico",
+    "data": "2019-05-21",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 621,
+    "nome": "STUDENTI UNIVERSITA' DI FOGGIA",
+    "tipo": "Evento generico",
+    "data": "2019-05-20",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 522,
+    "nome": "XXV EDIZIONE MAGGIO DEI MONUMENTI ",
+    "tipo": "Apertura Straordinaria",
+    "data": "2019-05-18",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 507,
+    "nome": "CONGRESSO NIKE ",
+    "tipo": "Apertura Straordinaria",
+    "data": "2019-05-07",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 506,
+    "nome": "UNIVERSITA CHIETI-PESCARA",
+    "tipo": "Evento generico",
+    "data": "2019-05-03",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 505,
+    "nome": "STUDENTI ALTERNANZA SCUOLA-LAVORO PROF.CAPPABIANCA ",
+    "tipo": "Evento generico",
+    "data": "2019-04-03",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 504,
+    "nome": "ROSBORG GYMNASIUM",
+    "tipo": "Evento generico",
+    "data": "2019-04-02",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 503,
+    "nome": "VANVITELLI ORIENTA 2019",
+    "tipo": "Open Day",
+    "data": "2019-03-28",
+    "sede": "Aulario S. Maria Capua Vetere "
+  },
+  {
+    "idEvento": 502,
+    "nome": "STUDENTI ALTERNANZA SCUOLA-LAVORO PROF. ANTONIO ARNESE",
+    "tipo": "Evento generico",
+    "data": "2019-02-27",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 501,
+    "nome": "STUDENTI CORSO MEDICINA INFERMIERISTICA PROF. TROJANIELLO",
+    "tipo": "Evento generico",
+    "data": "2019-02-21",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 441,
+    "nome": "FUTURO REMOTO 2018",
+    "tipo": "Evento generico",
+    "data": "2018-11-08",
+    "sede": "Citta della Scienza Napoli"
+  },
+  {
+    "idEvento": 425,
+    "nome": "RIPRESE TELEVISIVE RAI2 LA PORTA SEGRETA",
+    "tipo": "Evento generico",
+    "data": "2018-10-10",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 424,
+    "nome": "DOTT. JAKOB FUCHS STUDIO SULLE INEZIONI INTRAVASALI",
+    "tipo": "Apertura Straordinaria",
+    "data": "2018-10-08",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 423,
+    "nome": "PROF. CHRISTINE PRATT E BALWANT TUANA DELLA OTTAWA UNIVERSITY",
+    "tipo": "Apertura Straordinaria",
+    "data": "2018-10-01",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 422,
+    "nome": "CORSO ESMO",
+    "tipo": "Apertura Straordinaria",
+    "data": "2018-09-07",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 421,
+    "nome": "CONVEGNO IL RUOLO DELLO SPECIALISTA IN FORMAZIONE IN CHIRURGIA GENERALE ",
+    "tipo": "Apertura Straordinaria",
+    "data": "2018-09-05",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 382,
+    "nome": "CONVEGNO - THE INFLUENCE OF POST-MORTEM CHANGES IN FORENSIC PATHOLOGY AND TOXICOLOGY (PROF. CAMPOBASSO)",
+    "tipo": "Apertura Straordinaria",
+    "data": "2018-07-13",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 362,
+    "nome": "MAGGIO DEI MONUMENTI 2018 IL 12-13-19-20 MAGGIO",
+    "tipo": "Apertura Straordinaria",
+    "data": "2018-05-12",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 482,
+    "nome": "CONGRESSO NAZIONALE ROTARACT",
+    "tipo": "Evento generico",
+    "data": "2018-05-11",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 364,
+    "nome": "VISITA AL MUSA DEL SINDACO DI TARSIA E SCUOLA MARCO AURELIO SEVERINO",
+    "tipo": "Evento generico",
+    "data": "2018-05-04",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 481,
+    "nome": "VISITA ASSOCIAZIONE CULTURALE BACOLI-KYMI",
+    "tipo": "Evento generico",
+    "data": "2018-04-27",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 363,
+    "nome": "INTERNATIONAL CONGRESS SINEC",
+    "tipo": "Evento generico",
+    "data": "2018-04-27",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 361,
+    "nome": "VISITA STUDENTI DI MEDICINA DELL' UNIVERSITA' DI FOGGIA",
+    "tipo": "Evento generico",
+    "data": "2018-03-16",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 381,
+    "nome": "CORPOREA - CITTA' DELLA SCIENZA",
+    "tipo": "Evento generico",
+    "data": "2018-03-04",
+    "sede": "Citta della Scienza Napoli"
+  },
+  {
+    "idEvento": 341,
+    "nome": "BELGIO, SAINT LUCAS ANTWERPEN SCUOLA  SUPERIORE DI BELLE ARTI",
+    "tipo": "Evento generico",
+    "data": "2018-02-23",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 321,
+    "nome": "RIUNIONE SEMESTRALE  CONSORZIO Horizon 2020 My-AHA",
+    "tipo": "Apertura Straordinaria",
+    "data": "2017-12-05",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 301,
+    "nome": "CONVEGNO (PROF CAMPOBASSO) - Colpi d’arma da fuoco e dintorni",
+    "tipo": "Apertura Straordinaria",
+    "data": "2017-11-24",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 284,
+    "nome": "ASSOCIAZIONE DIES ARTIS",
+    "tipo": "Apertura Straordinaria",
+    "data": "2017-11-18",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 285,
+    "nome": "LORO DI NAPOLI",
+    "tipo": "Apertura Straordinaria",
+    "data": "2017-11-18",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 261,
+    "nome": "HISTORICAL SECTION MEETING",
+    "tipo": "Apertura Straordinaria",
+    "data": "2017-11-03",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 283,
+    "nome": "VISITA DELEGAZIONE DA U.S. NAVAL HOSPITAL - NAPLES",
+    "tipo": "Apertura Straordinaria",
+    "data": "2017-10-12",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 282,
+    "nome": "RIPRESE PER VIDEOCLIP MUSICALE \"MALATA IMMAGINARIA\"",
+    "tipo": "Apertura Straordinaria",
+    "data": "2017-10-04",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 281,
+    "nome": "CASACORRIERE - LA COMUNITA' DELLE IDEE",
+    "tipo": "Apertura Straordinaria",
+    "data": "2017-09-28",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 241,
+    "nome": "RIPRESE AL MUSA PER FILMATO SULLA STORIA DELLA NEUROLOGIA A NAPOLI",
+    "tipo": "Evento generico",
+    "data": "2017-09-25",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 221,
+    "nome": "VIII CONGRESSO AISU",
+    "tipo": "Apertura Straordinaria",
+    "data": "2017-09-08",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 181,
+    "nome": "VISITA STUDIOSI ANATOMISTI AMERICANI - SAN DIEGO MIRAMAR COLLEGE (KEVIN PETTI)",
+    "tipo": "Evento Locale",
+    "data": "2017-06-20",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 175,
+    "nome": "CONVEGNO (PROF RENATO FRANCO)",
+    "tipo": "Apertura Straordinaria",
+    "data": "2017-05-30",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 174,
+    "nome": "VISITA AL MUSEO IN OCCASIONE DEL CONCERTO IN RICORDO DEL PROF. GIOVANNI DELRIO",
+    "tipo": "Apertura Straordinaria",
+    "data": "2017-05-29",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 163,
+    "nome": "FUTURO REMOTO 2017",
+    "tipo": "Evento generico",
+    "data": "2017-05-24",
+    "sede": "Piazza del Plebiscito – Napoli"
+  },
+  {
+    "idEvento": 173,
+    "nome": "VISITA SCUOLA ESTETISTE",
+    "tipo": "Apertura Straordinaria",
+    "data": "2017-05-17",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 164,
+    "nome": "MAGGIO DEI MONUMENTI 2017 - O' MAGGIO A TOTO'",
+    "tipo": "Apertura Straordinaria",
+    "data": "2017-05-13",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 168,
+    "nome": "MEETING NAZIONALE E CONFRONTO TRA ESPERTI CHIRURGIA MININVASIVA PERCUTANEA DEL PIEDE",
+    "tipo": "Apertura Straordinaria",
+    "data": "2017-05-12",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 169,
+    "nome": "ORG. PROF. CUCCURULLO - TRACCIANTI PET NON FDG",
+    "tipo": "Apertura Straordinaria",
+    "data": "2017-05-12",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 171,
+    "nome": "VISITA FAI GIOVANI",
+    "tipo": "Apertura Straordinaria",
+    "data": "2017-05-05",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 172,
+    "nome": "VISITA STUDIOSI - D'YOUVILLE COLLEGE DI BUFFALO",
+    "tipo": "Apertura Straordinaria",
+    "data": "2017-05-05",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 170,
+    "nome": "CONVEGNO IAHR",
+    "tipo": "Apertura Straordinaria",
+    "data": "2017-04-07",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 201,
+    "nome": "VISITA ASSOCIAZIONE PER IL MONDO UNITO",
+    "tipo": "Apertura Straordinaria",
+    "data": "2017-04-01",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 101,
+    "nome": "GIORNATE FAI DI PRIMAVERA",
+    "tipo": "Apertura Straordinaria",
+    "data": "2017-03-25",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 167,
+    "nome": "SEMINARIO DI DOTTORATO -I GIOVEDI' DEL DOTTORATO",
+    "tipo": "Evento Locale",
+    "data": "2017-03-23",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 165,
+    "nome": "RIPRESE VIDEO - LICEO ARTISTICO DI NAPOLI",
+    "tipo": "Evento Locale",
+    "data": "2017-03-10",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 166,
+    "nome": "ICOM_SCUOLA OSTEOPATIA",
+    "tipo": "Evento Locale",
+    "data": "2017-03-10",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 103,
+    "nome": "CORPOREA - CITTA' DELLA SCIENZA",
+    "tipo": "Mostra",
+    "data": "2017-03-04",
+    "sede": "Citta della Scienza Napoli"
+  },
+  {
+    "idEvento": 102,
+    "nome": "MUSICA AL MUSEO",
+    "tipo": "Concerto",
+    "data": "2017-03-03",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 104,
+    "nome": "LE CROCEROSSINE IN VISITA AL MUSEO ANATOMICO",
+    "tipo": "Evento Locale",
+    "data": "2017-02-15",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 162,
+    "nome": "RICHIESTA VISITA PER GRUPPI DI STUDIOSI",
+    "tipo": "Evento Locale",
+    "data": "2017-02-04",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 150,
+    "nome": "RIPRESE VIDEO AL MUSEO DI ANATOMIA PER SERIE WEB CON REGIA DI LELLO ARENA",
+    "tipo": "Evento Locale",
+    "data": "2016-10-25",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 149,
+    "nome": "TOURING CLUB ITALIANO - NAPOLI: MUSEO ANATOMICO E REFETTORIO S. ANDREA DELLE DAME",
+    "tipo": "Evento Locale",
+    "data": "2016-10-15",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 141,
+    "nome": "XXX EDIZIONE DI FUTURO REMOTO: COSTRUIRE",
+    "tipo": "Evento generico",
+    "data": "2016-10-07",
+    "sede": "Piazza del Plebiscito – Napoli"
+  },
+  {
+    "idEvento": 148,
+    "nome": "VISITA GUIDATA DEI PARTECIPANTI AL \"CORSO SULLE INFEZIONI PERIPROTESICHE DELL'ANCA\"",
+    "tipo": "Evento Locale",
+    "data": "2016-09-23",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 147,
+    "nome": "RIPRESE VIDEO DAL CENTRO FEDERICA WEB LEARNING AL MUSEO DI ANATOMIA",
+    "tipo": "Evento Locale",
+    "data": "2016-07-29",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 146,
+    "nome": "VISITA DEL FOTOGRAFO INTERNAZIONALE MICHAEL ACKERMAN",
+    "tipo": "Evento Locale",
+    "data": "2016-07-20",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 145,
+    "nome": "CESARO AL MUSEO ANATOMICO DELLA SUN",
+    "tipo": "Evento Locale",
+    "data": "2016-07-04",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 143,
+    "nome": "VISITA AL MUSEO IN OCCASIONE DELL’EVENTO CONGRESSUALE 'NEWS AND UPDATE OF UROPATHOLOGY'",
+    "tipo": "Evento Locale",
+    "data": "2016-06-18",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 142,
+    "nome": "IN VIAGGIO CON LA ZIA",
+    "tipo": "Evento Locale",
+    "data": "2016-06-13",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 161,
+    "nome": "MAGGIO DEI MONUMENTI 2016 - “DAL MUSEO BORBONICO AL MUSEO PER LA CITTÀ DI NAPOLI”",
+    "tipo": "Apertura Straordinaria",
+    "data": "2016-05-21",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 144,
+    "nome": "VISITA AL MUSEO IN OCCASIONE DELL’EVENTO CONGRESSUALE TECNICHE DI RAPPRESENTAZIONE AVANZATA|LM12",
+    "tipo": "Evento Locale",
+    "data": "2016-05-10",
+    "sede": "MUSA- Museo Anatomico"
+  },
+  {
+    "idEvento": 121,
+    "nome": "IL MUSEO ANATOMICO TESTIMONE DI NAPOLI DAL MITO ALLA SCIENZA",
+    "tipo": "Convegno",
+    "data": "2016-03-14",
+    "sede": "MUSA- Museo Anatomico"
+  }
+]
