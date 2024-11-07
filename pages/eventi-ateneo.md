@@ -5,7 +5,7 @@
 # Eventi di Ateneo / Events
 |IT|EN|
 |-|-|
-|Fornisce dati in merito agli eventi organizzati dall'Ateneo.|Provides data on events organized by the University.|
+|Fornisce dati in merito agli eventi organizzati dall'Ateneo|Provides data on events organized by the University.|
 
 
 ## Processo / Process
