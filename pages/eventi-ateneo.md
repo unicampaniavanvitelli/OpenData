@@ -1,3 +1,7 @@
+
+<img src="../assets/images/Universita_Vanvitelli_Logo_pos.png" alt="Universit&agrave; degli Studi della Campania L. Vanvitelli" data-canonical-src="../assets/images/Universita_Vanvitelli_Logo_pos.png" width="300" />
+
+
 # Eventi di Ateneo / Events
 |IT|EN|
 |-|-|
