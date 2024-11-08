@@ -1,0 +1,162 @@
+[
+  {
+    "codiceMiur": "14735",
+    "denominazione": "Dipartimento Multidisciplinare di Specialità Medico-Chirurgiche e Odontoiatriche",
+    "sede": {
+      "indirizzo": "Via L. De Crecchio, n. 6",
+      "cap": "80138",
+      "comune": "NAPOLI"
+    },
+    "email": "dip.mdsmco@unicampania.it"
+  },
+  {
+    "codiceMiur": "14734",
+    "denominazione": "Dipartimento della Donna, del Bambino e di Chirurgia Generale e Specialistica",
+    "sede": {
+      "indirizzo": "Via L. De Crecchio, n. 2",
+      "cap": "80138",
+      "comune": "NAPOLI"
+    },
+    "email": "dip.donnabambinoechirurgia@unicampania.it"
+  },
+  {
+    "codiceMiur": "32603",
+    "denominazione": "Dipartimento di Architettura e Disegno Industriale",
+    "sede": {
+      "indirizzo": "Via San Lorenzo - Monastero S.Lorenzo ad Septimum",
+      "cap": "81031",
+      "comune": "AVERSA"
+    },
+    "email": "dip.architettura@unicampania.it"
+  },
+  {
+    "codiceMiur": "13816",
+    "denominazione": "Dipartimento di Economia",
+    "sede": {
+      "indirizzo": "Corso Gran Priorato di Malta, n. 1 - ex Caserma Fieramosca",
+      "cap": "81043",
+      "comune": "CAPUA"
+    },
+    "email": "dip.economia@unicampania.it"
+  },
+  {
+    "codiceMiur": "13820",
+    "denominazione": "Dipartimento di Giurisprudenza",
+    "sede": {
+      "indirizzo": "Via Mazzocchi, n. 5 - Palazzo Melzi",
+      "cap": "81055",
+      "comune": "SANTA MARIA CAPUA VETERE"
+    },
+    "email": "dip.giurisprudenza@unicampania.it"
+  },
+  {
+    "codiceMiur": "35436",
+    "denominazione": "Dipartimento di Ingegneria",
+    "sede": {
+      "indirizzo": "Via Roma, n. 29 - Real Casa dell'Annunziata",
+      "cap": "81031",
+      "comune": "AVERSA"
+    },
+    "email": "dip.ingegneria@unicampania.it"
+  },
+  {
+    "codiceMiur": "13819",
+    "denominazione": "Dipartimento di Lettere e Beni Culturali (DiLBEC)",
+    "sede": {
+      "indirizzo": "Corso A. Moro, n. 236 - ex Convento di San Francesco",
+      "cap": "81055",
+      "comune": "SANTA MARIA CAPUA VETERE"
+    },
+    "email": "dip.lettereebeniculturali@unicampania.it"
+  },
+  {
+    "codiceMiur": "14304",
+    "denominazione": "Dipartimento di Matematica e Fisica (DMF)",
+    "sede": {
+      "indirizzo": "Via A. Vivaldi, n. 43",
+      "cap": "81100",
+      "comune": "CASERTA"
+    },
+    "email": "dip.matematicaefisica@unicampania.it"
+  },
+  {
+    "codiceMiur": "14727",
+    "denominazione": "Dipartimento di Medicina Sperimentale",
+    "sede": {
+      "indirizzo": "Via L. De Crecchio, n. 7 - Complesso Sant'Andrea delle Dame",
+      "cap": "80138",
+      "comune": "NAPOLI"
+    },
+    "email": "dip.medicinasperimentale@unicampania.it"
+  },
+  {
+    "codiceMiur": "35745",
+    "denominazione": "Dipartimento di Medicina di Precisione",
+    "sede": {
+      "indirizzo": "Via L. De Crecchio, n. 7 - Complesso Sant'Andrea delle Dame",
+      "cap": "80138",
+      "comune": "NAPOLI"
+    },
+    "email": "dip.medicinadiprecisione@unicampania.it"
+  },
+  {
+    "codiceMiur": "13810",
+    "denominazione": "Dipartimento di Psicologia",
+    "sede": {
+      "indirizzo": "Via A. Vivaldi, n. 43",
+      "cap": "81100",
+      "comune": "CASERTA"
+    },
+    "email": "dip.psicologia@unicampania.it"
+  },
+  {
+    "codiceMiur": "14729",
+    "denominazione": "Dipartimento di Salute Mentale e Fisica e Medicina Preventiva",
+    "sede": {
+      "indirizzo": "Largo Madonna delle Grazie",
+      "cap": "80138",
+      "comune": "NAPOLI"
+    },
+    "email": "dip.salutementaleefisica@unicampania.it"
+  },
+  {
+    "codiceMiur": "37630",
+    "denominazione": "Dipartimento di Scienze Mediche Traslazionali",
+    "sede": {
+      "indirizzo": "Via Leonardo Bianchi - c/o Ospedale Monaldi",
+      "cap": "80131",
+      "comune": "NAPOLI"
+    },
+    "email": "dip.scienzecardiotoraciche@unicampania.it"
+  },
+  {
+    "codiceMiur": "38533",
+    "denominazione": "Dipartimento di Scienze Mediche e Chirurgiche Avanzate (DAMSS)",
+    "sede": {
+      "indirizzo": "Piazza L. Miraglia, n. 2",
+      "cap": "80138",
+      "comune": "NAPOLI"
+    },
+    "email": "dip.scienzemed@unicampania.it"
+  },
+  {
+    "codiceMiur": "50010",
+    "denominazione": "Dipartimento di Scienze Politiche",
+    "sede": {
+      "indirizzo": "Viale Ellittico, n. 31 - Ex Palazzo delle Poste",
+      "cap": "81100",
+      "comune": "CASERTA"
+    },
+    "email": "dip.scienzepolitiche@unicampania.it"
+  },
+  {
+    "codiceMiur": "14305",
+    "denominazione": "Dipartimento di Scienze e Tecnologie Ambientali Biologiche e Farmaceutiche (DISTABiF)",
+    "sede": {
+      "indirizzo": "Via A. Vivaldi, n. 43",
+      "cap": "81100",
+      "comune": "CASERTA"
+    },
+    "email": "dip.scienzeetecnologieabf@unicampania.it"
+  }
+]
