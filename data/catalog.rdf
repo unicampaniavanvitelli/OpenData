@@ -163,13 +163,13 @@
     <dcat:distribution rdf:resource="https://github.com/unicampaniavanvitelli/OpenData/tree/main/data/eventi-di-ateneo/json4"/>
   </dcatapit:Dataset>
 
-<dcatapit:Dataset rdf:about="https://github.com/unicampaniavanvitelli/OpenData/tree/main/data/serie-storica-iscritti-cds">
+<dcatapit:Dataset rdf:about="https://github.com/unicampaniavanvitelli/OpenData/tree/main/data/serie-storica-iscritti">
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
     <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
     <dct:license/>
     <dct:title>Serie Storica degli Iscritti ai Corsi di Studio</dct:title>
-    <dcat:landingPage rdf:resource="https://github.com/unicampaniavanvitelli/OpenData/blob/main/pages/serie-storica-iscritti-cds.md/"/>
+    <dcat:landingPage rdf:resource="https://github.com/unicampaniavanvitelli/OpenData/blob/main/pages/serie-storica-iscritti.md/"/>
     <dct:description>Fornisce la serie storica degli iscritti ai corsi di studio</dct:description>
     <dct:identifier>SEUNSTNA:serie-storica-iscritti-cds</dct:identifier>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/ANNUAL"/>
@@ -203,7 +203,7 @@
     <dcat:keyword>Unicampania</dcat:keyword>
     <dcat:keyword>eventi</dcat:keyword>
     <dcat:keyword>cultura</dcat:keyword>
-    <dcat:distribution rdf:resource="https://github.com/unicampaniavanvitelli/OpenData/tree/main/data/eventi-di-ateneo/json4"/>
+    <dcat:distribution rdf:resource="https://github.com/unicampaniavanvitelli/OpenData/tree/main/data/serie-storica-iscritti/json5"/>
   </dcatapit:Dataset>
 
 
@@ -253,8 +253,8 @@
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
 
-<dcatapit:Distribution rdf:about="https://github.com/unicampaniavanvitelli/OpenData/tree/main/data/serie-storica-iscritti-cds/json5">
-    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicampaniavanvitelli/OpenData/refs/heads/main/data/serie-storica-iscritti-cds/serie-storica-iscritti-cds.json"/>    <dct:license>
+<dcatapit:Distribution rdf:about="https://github.com/unicampaniavanvitelli/OpenData/tree/main/data/serie-storica-iscritti/json5">
+    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicampaniavanvitelli/OpenData/refs/heads/main/data/serie-storica-iscritti/serie-storica-iscritti.json"/>    <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/licenses/by/4.0/">
         <rdf:type rdf:resource="dct:LicenseDocument"/>
         <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
