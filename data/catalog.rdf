@@ -207,6 +207,50 @@
   </dcatapit:Dataset>
 
 
+<dcatapit:Dataset rdf:about="https://github.com/unicampaniavanvitelli/OpenData/tree/main/data/serie-storica-titoli-conseguiti">
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+    <dct:license/>
+    <dct:title>Serie storica dei titoli di studio conseguiti dagli studenti</dct:title>
+    <dcat:landingPage rdf:resource="https://github.com/unicampaniavanvitelli/OpenData/blob/main/pages/serie-storica-titoli-conseguiti.md/"/>
+    <dct:description>Fornisce la serie storica dei titoli conseguiti dagli studenti iscritti ai corsi di studio dell'Ateneo</dct:description>
+    <dct:identifier>SEUNSTNA:serie-storica-titoli-conseguiti</dct:identifier>
+    <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/ANNUAL"/>
+    <dcat:contactPoint rdf:resource="https://www.unicampania.it"/>
+    <dct:rightsHolder>
+      <dcatapit:Agent rdf:about="SEUNSTNA">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+        <dct:identifier>SEUNSTNA</dct:identifier>
+        <foaf:name>Universita' degli Studi della Campania "L. Vanvitelli"</foaf:name>
+      </dcatapit:Agent>
+    </dct:rightsHolder>
+    <dct:publisher>
+      <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+        <dct:identifier>SEUNSTNA</dct:identifier>
+        <foaf:name>Universita' degli Studi della Campania "L. Vanvitelli"</foaf:name>
+      </dcatapit:Agent>
+    </dct:publisher>
+    <dct:subject>
+      <skos:Concept rdf:about="http://eurovoc.europa.eu/100213">
+        <rdf:type rdf:resource="http://dati.gov.it/onto/dcatapit#subTheme"/>
+        <skos:prefLabel xml:lang="it">2831 cultura e religione</skos:prefLabel>
+      </skos:Concept>
+    </dct:subject>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+    <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-11-15</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-11-15</dct:issued>
+    <dcat:contactPoint rdf:resource="https://www.unicampania.it"/>
+    <dcat:keyword>Unicampania</dcat:keyword>
+    <dcat:keyword>eventi</dcat:keyword>
+    <dcat:keyword>cultura</dcat:keyword>
+    <dcat:distribution rdf:resource="https://github.com/unicampaniavanvitelli/OpenData/tree/main/data/serie-storica-titoli-conseguiti/json6"/>
+  </dcatapit:Dataset>
+
+
   <dcatapit:Distribution rdf:about="https://github.com/unicampaniavanvitelli/OpenData/tree/main/data/eventi-di-ateneo/json2">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicampaniavanvitelli/OpenData/refs/heads/main/data/eventi-ateneo/eventi-ateneo.json"/>
     <dct:license>
@@ -265,6 +309,22 @@
     <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
     <dct:description>File in formato JSON per l'interoperabilità</dct:description>
     <dct:title>Serie storica degli iscritti ai corsi di studio in formato JSON</dct:title>
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+  </dcatapit:Distribution>
+
+
+<dcatapit:Distribution rdf:about="https://github.com/unicampaniavanvitelli/OpenData/tree/main/data/serie-storica-titoli-conseguiti/json6">
+    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicampaniavanvitelli/OpenData/refs/heads/main/data/serie-storica-titoli-conseguiti/serie-storica-titoli-conseguiti.json"/>    <dct:license>
+      <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/licenses/by/4.0/">
+        <rdf:type rdf:resource="dct:LicenseDocument"/>
+        <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+        <foaf:name>Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)</foaf:name>
+      </dcatapit:LicenseDocument>
+    </dct:license>
+    <dct:format rdf:resource="JSON"/>
+    <dct:rights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+    <dct:title>Serie storica dei titoli di studio conseguiti dagli studenti in formato JSON</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
 
