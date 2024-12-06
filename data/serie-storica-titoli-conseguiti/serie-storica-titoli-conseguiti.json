@@ -1,0 +1,3620 @@
+[
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DELLA DONNA, DEL BAMBINO E DI CHIRURGIA GENERALE E SPECIALISTICA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 1,
+    "femmine": 54,
+    "totali": 55
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 63,
+    "femmine": 115,
+    "totali": 178
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 35,
+    "femmine": 25,
+    "totali": 60
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "LAUREA CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 11,
+    "femmine": 13,
+    "totali": 24
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 89,
+    "femmine": 58,
+    "totali": 147
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 270,
+    "femmine": 219,
+    "totali": 489
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 4,
+    "maschi": 2,
+    "femmine": 4,
+    "totali": 6
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 131,
+    "femmine": 124,
+    "totali": 255
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "tipo_corso_studio": "CORSO DI LAUREA SPECIALISTICA",
+    "durata_corso_studio": 2,
+    "maschi": 1,
+    "femmine": 2,
+    "totali": 3
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 21,
+    "femmine": 27,
+    "totali": 48
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 4,
+    "maschi": 9,
+    "femmine": 13,
+    "totali": 22
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 1,
+    "femmine": 1,
+    "totali": 2
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "tipo_corso_studio": "CORSO DI LAUREA SPECIALISTICA",
+    "durata_corso_studio": 2,
+    "maschi": 2,
+    "femmine": 0,
+    "totali": 2
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 109,
+    "femmine": 190,
+    "totali": 299
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 105,
+    "femmine": 27,
+    "totali": 132
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 63,
+    "femmine": 14,
+    "totali": 77
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "tipo_corso_studio": "CORSO DI LAUREA SPECIALISTICA",
+    "durata_corso_studio": 2,
+    "maschi": 3,
+    "femmine": 0,
+    "totali": 3
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA CIVILE, DESIGN, EDILIZIA E AMBIENTE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 53,
+    "femmine": 34,
+    "totali": 87
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA CIVILE, DESIGN, EDILIZIA E AMBIENTE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 5,
+    "maschi": 4,
+    "femmine": 0,
+    "totali": 4
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA CIVILE, DESIGN, EDILIZIA E AMBIENTE",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 39,
+    "femmine": 18,
+    "totali": 57
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA CIVILE, DESIGN, EDILIZIA E AMBIENTE",
+    "tipo_corso_studio": "CORSO DI LAUREA SPECIALISTICA",
+    "durata_corso_studio": 2,
+    "maschi": 4,
+    "femmine": 0,
+    "totali": 4
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI INTERNISTICA CLINICA E SPERIMENTALE \"F. MAGRASSI\"",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 26,
+    "femmine": 17,
+    "totali": 43
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 4,
+    "maschi": 0,
+    "femmine": 1,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 31,
+    "femmine": 154,
+    "totali": 185
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 14,
+    "femmine": 96,
+    "totali": 110
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 13,
+    "femmine": 35,
+    "totali": 48
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 4,
+    "maschi": 0,
+    "femmine": 1,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 4,
+    "femmine": 21,
+    "totali": 25
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 10,
+    "femmine": 21,
+    "totali": 31
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 11,
+    "femmine": 28,
+    "totali": 39
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 6,
+    "maschi": 2,
+    "femmine": 3,
+    "totali": 5
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 15,
+    "femmine": 25,
+    "totali": 40
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "LAUREA CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 7,
+    "femmine": 10,
+    "totali": 17
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 96,
+    "femmine": 93,
+    "totali": 189
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 65,
+    "femmine": 234,
+    "totali": 299
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 5,
+    "maschi": 0,
+    "femmine": 5,
+    "totali": 5
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 33,
+    "femmine": 173,
+    "totali": 206
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "tipo_corso_studio": "CORSO DI LAUREA SPECIALISTICA",
+    "durata_corso_studio": 2,
+    "maschi": 2,
+    "femmine": 8,
+    "totali": 10
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI SALUTE MENTALE E FISICA E MEDICINA PREVENTIVA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 12,
+    "femmine": 106,
+    "totali": 118
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE ANESTESIOLOGICHE CHIRURGICHE E DELL'EMERGENZA.",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 164,
+    "femmine": 266,
+    "totali": 430
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 5,
+    "maschi": 0,
+    "femmine": 1,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 38,
+    "femmine": 135,
+    "totali": 173
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 29,
+    "femmine": 147,
+    "totali": 176
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "LAUREA CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 5,
+    "femmine": 17,
+    "totali": 22
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 5,
+    "femmine": 29,
+    "totali": 34
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE ",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 115,
+    "femmine": 112,
+    "totali": 227
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE ",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 84,
+    "femmine": 55,
+    "totali": 139
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE\t",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 71,
+    "femmine": 59,
+    "totali": 130
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE\t",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 13,
+    "femmine": 7,
+    "totali": 20
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO SCIENZE MEDICHE, CHIRURGICHE, NEUROLOGICHE, METABOLICHE E DELL'INVECCHIAMENTO",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 6,
+    "maschi": 2,
+    "femmine": 0,
+    "totali": 2
+  },
+  {
+    "anno_accademico_conseguimento": 2015,
+    "dipartimento": "DIPARTIMENTO SCIENZE MEDICHE, CHIRURGICHE, NEUROLOGICHE, METABOLICHE E DELL'INVECCHIAMENTO",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 51,
+    "femmine": 70,
+    "totali": 121
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DELLA DONNA, DEL BAMBINO E DI CHIRURGIA GENERALE E SPECIALISTICA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 2,
+    "femmine": 72,
+    "totali": 74
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 5,
+    "maschi": 1,
+    "femmine": 0,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 34,
+    "femmine": 117,
+    "totali": 151
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 23,
+    "femmine": 24,
+    "totali": 47
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "DIPLOMA UNIVERSITARIO",
+    "durata_corso_studio": 3,
+    "maschi": 1,
+    "femmine": 0,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "LAUREA CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 5,
+    "femmine": 2,
+    "totali": 7
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 68,
+    "femmine": 55,
+    "totali": 123
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 4,
+    "maschi": 1,
+    "femmine": 3,
+    "totali": 4
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 218,
+    "femmine": 187,
+    "totali": 405
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 103,
+    "femmine": 136,
+    "totali": 239
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "tipo_corso_studio": "CORSO DI LAUREA SPECIALISTICA",
+    "durata_corso_studio": 2,
+    "maschi": 1,
+    "femmine": 0,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 4,
+    "maschi": 11,
+    "femmine": 27,
+    "totali": 38
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 17,
+    "femmine": 38,
+    "totali": 55
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "tipo_corso_studio": "CORSO DI LAUREA SPECIALISTICA",
+    "durata_corso_studio": 2,
+    "maschi": 1,
+    "femmine": 0,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 122,
+    "femmine": 175,
+    "totali": 297
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 151,
+    "femmine": 34,
+    "totali": 185
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 60,
+    "femmine": 19,
+    "totali": 79
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA CIVILE, DESIGN, EDILIZIA E AMBIENTE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 82,
+    "femmine": 38,
+    "totali": 120
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA CIVILE, DESIGN, EDILIZIA E AMBIENTE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 5,
+    "maschi": 2,
+    "femmine": 0,
+    "totali": 2
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA CIVILE, DESIGN, EDILIZIA E AMBIENTE",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 84,
+    "femmine": 31,
+    "totali": 115
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI INTERNISTICA CLINICA E SPERIMENTALE \"F. MAGRASSI\"",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 27,
+    "femmine": 19,
+    "totali": 46
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 23,
+    "femmine": 117,
+    "totali": 140
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 10,
+    "femmine": 88,
+    "totali": 98
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 7,
+    "femmine": 20,
+    "totali": 27
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 3,
+    "femmine": 15,
+    "totali": 18
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "tipo_corso_studio": "CORSO DI LAUREA SPECIALISTICA",
+    "durata_corso_studio": 2,
+    "maschi": 0,
+    "femmine": 1,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 14,
+    "femmine": 24,
+    "totali": 38
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 8,
+    "femmine": 30,
+    "totali": 38
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 6,
+    "maschi": 1,
+    "femmine": 2,
+    "totali": 3
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 6,
+    "femmine": 27,
+    "totali": 33
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "LAUREA CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 6,
+    "femmine": 7,
+    "totali": 13
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 72,
+    "femmine": 93,
+    "totali": 165
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 48,
+    "femmine": 218,
+    "totali": 266
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 5,
+    "maschi": 1,
+    "femmine": 2,
+    "totali": 3
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 42,
+    "femmine": 195,
+    "totali": 237
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "tipo_corso_studio": "CORSO DI LAUREA SPECIALISTICA",
+    "durata_corso_studio": 2,
+    "maschi": 0,
+    "femmine": 2,
+    "totali": 2
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI SALUTE MENTALE E FISICA E MEDICINA PREVENTIVA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 6,
+    "femmine": 102,
+    "totali": 108
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 5,
+    "maschi": 0,
+    "femmine": 1,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 28,
+    "femmine": 113,
+    "totali": 141
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 33,
+    "femmine": 155,
+    "totali": 188
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "CORSO DI LAUREA SPECIALISTICA",
+    "durata_corso_studio": 2,
+    "maschi": 0,
+    "femmine": 1,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "LAUREA CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 8,
+    "femmine": 15,
+    "totali": 23
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 11,
+    "femmine": 32,
+    "totali": 43
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 154,
+    "femmine": 271,
+    "totali": 425
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE ",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 113,
+    "femmine": 110,
+    "totali": 223
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE ",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 64,
+    "femmine": 45,
+    "totali": 109
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE\t",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 68,
+    "femmine": 52,
+    "totali": 120
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE\t",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 10,
+    "femmine": 10,
+    "totali": 20
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO SCIENZE MEDICHE, CHIRURGICHE, NEUROLOGICHE, METABOLICHE E DELL'INVECCHIAMENTO",
+    "tipo_corso_studio": "LAUREA CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 0,
+    "femmine": 1,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2016,
+    "dipartimento": "DIPARTIMENTO SCIENZE MEDICHE, CHIRURGICHE, NEUROLOGICHE, METABOLICHE E DELL'INVECCHIAMENTO",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 81,
+    "femmine": 81,
+    "totali": 162
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DELLA DONNA, DEL BAMBINO E DI CHIRURGIA GENERALE E SPECIALISTICA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 1,
+    "femmine": 62,
+    "totali": 63
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 45,
+    "femmine": 101,
+    "totali": 146
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 5,
+    "maschi": 0,
+    "femmine": 1,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 16,
+    "femmine": 10,
+    "totali": 26
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "CORSO DI LAUREA SPECIALISTICA",
+    "durata_corso_studio": 2,
+    "maschi": 0,
+    "femmine": 1,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "LAUREA CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 3,
+    "femmine": 1,
+    "totali": 4
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 61,
+    "femmine": 67,
+    "totali": 128
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 214,
+    "femmine": 169,
+    "totali": 383
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 4,
+    "maschi": 0,
+    "femmine": 3,
+    "totali": 3
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 141,
+    "femmine": 147,
+    "totali": 288
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 21,
+    "femmine": 57,
+    "totali": 78
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 4,
+    "maschi": 13,
+    "femmine": 22,
+    "totali": 35
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 1,
+    "femmine": 1,
+    "totali": 2
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "tipo_corso_studio": "CORSO DI LAUREA SPECIALISTICA",
+    "durata_corso_studio": 2,
+    "maschi": 0,
+    "femmine": 1,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 125,
+    "femmine": 177,
+    "totali": 302
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 5,
+    "maschi": 1,
+    "femmine": 0,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 196,
+    "femmine": 65,
+    "totali": 261
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 105,
+    "femmine": 34,
+    "totali": 139
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 4,
+    "maschi": 1,
+    "femmine": 2,
+    "totali": 3
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 30,
+    "femmine": 124,
+    "totali": 154
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 24,
+    "femmine": 95,
+    "totali": 119
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 21,
+    "femmine": 25,
+    "totali": 46
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 4,
+    "femmine": 18,
+    "totali": 22
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 45,
+    "femmine": 53,
+    "totali": 98
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 8,
+    "femmine": 28,
+    "totali": 36
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 8,
+    "femmine": 26,
+    "totali": 34
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "LAUREA CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 5,
+    "femmine": 7,
+    "totali": 12
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 100,
+    "femmine": 94,
+    "totali": 194
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 50,
+    "femmine": 191,
+    "totali": 241
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 5,
+    "maschi": 0,
+    "femmine": 3,
+    "totali": 3
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 36,
+    "femmine": 176,
+    "totali": 212
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "tipo_corso_studio": "CORSO DI LAUREA SPECIALISTICA",
+    "durata_corso_studio": 2,
+    "maschi": 1,
+    "femmine": 0,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI SALUTE MENTALE E FISICA E MEDICINA PREVENTIVA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 16,
+    "femmine": 114,
+    "totali": 130
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 36,
+    "femmine": 117,
+    "totali": 153
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 5,
+    "maschi": 2,
+    "femmine": 1,
+    "totali": 3
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 40,
+    "femmine": 123,
+    "totali": 163
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "CORSO DI LAUREA SPECIALISTICA",
+    "durata_corso_studio": 2,
+    "maschi": 0,
+    "femmine": 1,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "LAUREA CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 6,
+    "femmine": 4,
+    "totali": 10
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 4,
+    "femmine": 19,
+    "totali": 23
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 151,
+    "femmine": 241,
+    "totali": 392
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 4,
+    "femmine": 11,
+    "totali": 15
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE ",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 113,
+    "femmine": 116,
+    "totali": 229
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE ",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 83,
+    "femmine": 62,
+    "totali": 145
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE\t",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 98,
+    "femmine": 91,
+    "totali": 189
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE\t",
+    "tipo_corso_studio": "LAUREA CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 3,
+    "femmine": 0,
+    "totali": 3
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE\t",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 11,
+    "femmine": 11,
+    "totali": 22
+  },
+  {
+    "anno_accademico_conseguimento": 2017,
+    "dipartimento": "DIPARTIMENTO SCIENZE MEDICHE, CHIRURGICHE, NEUROLOGICHE, METABOLICHE E DELL'INVECCHIAMENTO",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 53,
+    "femmine": 60,
+    "totali": 113
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DELLA DONNA, DEL BAMBINO E DI CHIRURGIA GENERALE E SPECIALISTICA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 0,
+    "femmine": 68,
+    "totali": 68
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 72,
+    "femmine": 156,
+    "totali": 228
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 5,
+    "maschi": 1,
+    "femmine": 1,
+    "totali": 2
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 18,
+    "femmine": 43,
+    "totali": 61
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "CORSO DI LAUREA SPECIALISTICA",
+    "durata_corso_studio": 2,
+    "maschi": 0,
+    "femmine": 1,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "LAUREA CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 7,
+    "femmine": 1,
+    "totali": 8
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 48,
+    "femmine": 79,
+    "totali": 127
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 4,
+    "maschi": 1,
+    "femmine": 1,
+    "totali": 2
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 205,
+    "femmine": 196,
+    "totali": 401
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 178,
+    "femmine": 178,
+    "totali": 356
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "tipo_corso_studio": "CORSO DI LAUREA SPECIALISTICA",
+    "durata_corso_studio": 2,
+    "maschi": 0,
+    "femmine": 1,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 4,
+    "maschi": 2,
+    "femmine": 7,
+    "totali": 9
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 17,
+    "femmine": 46,
+    "totali": 63
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 92,
+    "femmine": 180,
+    "totali": 272
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 250,
+    "femmine": 57,
+    "totali": 307
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 124,
+    "femmine": 49,
+    "totali": 173
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "tipo_corso_studio": "CORSO DI LAUREA SPECIALISTICA",
+    "durata_corso_studio": 2,
+    "maschi": 2,
+    "femmine": 0,
+    "totali": 2
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 4,
+    "maschi": 0,
+    "femmine": 1,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 28,
+    "femmine": 113,
+    "totali": 141
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 14,
+    "femmine": 116,
+    "totali": 130
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 4,
+    "maschi": 0,
+    "femmine": 1,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 23,
+    "femmine": 32,
+    "totali": 55
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 4,
+    "femmine": 23,
+    "totali": 27
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 28,
+    "femmine": 38,
+    "totali": 66
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 8,
+    "femmine": 13,
+    "totali": 21
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 6,
+    "maschi": 2,
+    "femmine": 2,
+    "totali": 4
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 9,
+    "femmine": 29,
+    "totali": 38
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 16,
+    "femmine": 21,
+    "totali": 37
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "LAUREA CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 5,
+    "femmine": 5,
+    "totali": 10
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 123,
+    "femmine": 133,
+    "totali": 256
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 46,
+    "femmine": 162,
+    "totali": 208
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 5,
+    "maschi": 0,
+    "femmine": 1,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 41,
+    "femmine": 270,
+    "totali": 311
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "tipo_corso_studio": "CORSO DI LAUREA SPECIALISTICA",
+    "durata_corso_studio": 2,
+    "maschi": 1,
+    "femmine": 4,
+    "totali": 5
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI SALUTE MENTALE E FISICA E MEDICINA PREVENTIVA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 11,
+    "femmine": 118,
+    "totali": 129
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 5,
+    "maschi": 1,
+    "femmine": 2,
+    "totali": 3
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 43,
+    "femmine": 106,
+    "totali": 149
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 35,
+    "femmine": 134,
+    "totali": 169
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "LAUREA CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 2,
+    "femmine": 8,
+    "totali": 10
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 13,
+    "femmine": 43,
+    "totali": 56
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE E CHIRURGICHE AVANZATE",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 70,
+    "femmine": 88,
+    "totali": 158
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 124,
+    "femmine": 304,
+    "totali": 428
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE ",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 107,
+    "femmine": 92,
+    "totali": 199
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE ",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 75,
+    "femmine": 71,
+    "totali": 146
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE\t",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 71,
+    "femmine": 53,
+    "totali": 124
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE\t",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 5,
+    "maschi": 1,
+    "femmine": 0,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE\t",
+    "tipo_corso_studio": "LAUREA CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 2,
+    "femmine": 0,
+    "totali": 2
+  },
+  {
+    "anno_accademico_conseguimento": 2018,
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE\t",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 18,
+    "femmine": 11,
+    "totali": 29
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DELLA DONNA, DEL BAMBINO E DI CHIRURGIA GENERALE E SPECIALISTICA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 1,
+    "femmine": 32,
+    "totali": 33
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 56,
+    "femmine": 158,
+    "totali": 214
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 14,
+    "femmine": 39,
+    "totali": 53
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "LAUREA CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 2,
+    "femmine": 0,
+    "totali": 2
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 48,
+    "femmine": 61,
+    "totali": 109
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 174,
+    "femmine": 158,
+    "totali": 332
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 116,
+    "femmine": 120,
+    "totali": 236
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "tipo_corso_studio": "CORSO DI LAUREA SPECIALISTICA",
+    "durata_corso_studio": 2,
+    "maschi": 0,
+    "femmine": 1,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 4,
+    "maschi": 3,
+    "femmine": 8,
+    "totali": 11
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 13,
+    "femmine": 31,
+    "totali": 44
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 90,
+    "femmine": 159,
+    "totali": 249
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 165,
+    "femmine": 49,
+    "totali": 214
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 126,
+    "femmine": 40,
+    "totali": 166
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "tipo_corso_studio": "CORSO DI LAUREA SPECIALISTICA",
+    "durata_corso_studio": 2,
+    "maschi": 0,
+    "femmine": 1,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 4,
+    "maschi": 0,
+    "femmine": 1,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 22,
+    "femmine": 109,
+    "totali": 131
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 11,
+    "femmine": 75,
+    "totali": 86
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 16,
+    "femmine": 35,
+    "totali": 51
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 4,
+    "maschi": 0,
+    "femmine": 1,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 5,
+    "femmine": 14,
+    "totali": 19
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 25,
+    "femmine": 33,
+    "totali": 58
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 11,
+    "femmine": 5,
+    "totali": 16
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 7,
+    "femmine": 12,
+    "totali": 19
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 6,
+    "maschi": 2,
+    "femmine": 3,
+    "totali": 5
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 9,
+    "femmine": 20,
+    "totali": 29
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "LAUREA CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 3,
+    "femmine": 6,
+    "totali": 9
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 144,
+    "femmine": 221,
+    "totali": 365
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 5,
+    "maschi": 0,
+    "femmine": 2,
+    "totali": 2
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 27,
+    "femmine": 147,
+    "totali": 174
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 44,
+    "femmine": 199,
+    "totali": 243
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI SALUTE MENTALE E FISICA E MEDICINA PREVENTIVA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 8,
+    "femmine": 88,
+    "totali": 96
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 28,
+    "femmine": 88,
+    "totali": 116
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 19,
+    "femmine": 102,
+    "totali": 121
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "LAUREA CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 1,
+    "femmine": 4,
+    "totali": 5
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 11,
+    "femmine": 46,
+    "totali": 57
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE E CHIRURGICHE AVANZATE",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 100,
+    "femmine": 118,
+    "totali": 218
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 121,
+    "femmine": 261,
+    "totali": 382
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE ",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 84,
+    "femmine": 74,
+    "totali": 158
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE ",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 60,
+    "femmine": 53,
+    "totali": 113
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE\t",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 53,
+    "femmine": 38,
+    "totali": 91
+  },
+  {
+    "anno_accademico_conseguimento": 2019,
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE\t",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 49,
+    "femmine": 32,
+    "totali": 81
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DELLA DONNA, DEL BAMBINO E DI CHIRURGIA GENERALE E SPECIALISTICA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 0,
+    "femmine": 51,
+    "totali": 51
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 70,
+    "femmine": 171,
+    "totali": 241
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 18,
+    "femmine": 56,
+    "totali": 74
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 41,
+    "femmine": 31,
+    "totali": 72
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 144,
+    "femmine": 136,
+    "totali": 280
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 4,
+    "maschi": 0,
+    "femmine": 1,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 131,
+    "femmine": 123,
+    "totali": 254
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 14,
+    "femmine": 34,
+    "totali": 48
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 4,
+    "maschi": 2,
+    "femmine": 4,
+    "totali": 6
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 0,
+    "femmine": 1,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 70,
+    "femmine": 138,
+    "totali": 208
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 139,
+    "femmine": 38,
+    "totali": 177
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 109,
+    "femmine": 28,
+    "totali": 137
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "tipo_corso_studio": "CORSO DI LAUREA SPECIALISTICA",
+    "durata_corso_studio": 2,
+    "maschi": 1,
+    "femmine": 0,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 24,
+    "femmine": 93,
+    "totali": 117
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 28,
+    "femmine": 93,
+    "totali": 121
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 29,
+    "femmine": 30,
+    "totali": 59
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 7,
+    "femmine": 13,
+    "totali": 20
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 28,
+    "femmine": 60,
+    "totali": 88
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 10,
+    "femmine": 4,
+    "totali": 14
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 15,
+    "femmine": 11,
+    "totali": 26
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 6,
+    "maschi": 1,
+    "femmine": 1,
+    "totali": 2
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 15,
+    "femmine": 25,
+    "totali": 40
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "LAUREA CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 0,
+    "femmine": 2,
+    "totali": 2
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 126,
+    "femmine": 127,
+    "totali": 253
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 5,
+    "maschi": 0,
+    "femmine": 2,
+    "totali": 2
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 30,
+    "femmine": 141,
+    "totali": 171
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 30,
+    "femmine": 164,
+    "totali": 194
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "tipo_corso_studio": "CORSO DI LAUREA SPECIALISTICA",
+    "durata_corso_studio": 2,
+    "maschi": 0,
+    "femmine": 1,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI SALUTE MENTALE E FISICA E MEDICINA PREVENTIVA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 10,
+    "femmine": 107,
+    "totali": 117
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 25,
+    "femmine": 95,
+    "totali": 120
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 17,
+    "femmine": 85,
+    "totali": 102
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "LAUREA CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 1,
+    "femmine": 3,
+    "totali": 4
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 22,
+    "femmine": 26,
+    "totali": 48
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE E CHIRURGICHE AVANZATE",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 98,
+    "femmine": 101,
+    "totali": 199
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 123,
+    "femmine": 261,
+    "totali": 384
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE ",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 57,
+    "femmine": 57,
+    "totali": 114
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE ",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 57,
+    "femmine": 45,
+    "totali": 102
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE\t",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 59,
+    "femmine": 48,
+    "totali": 107
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE\t",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 5,
+    "maschi": 0,
+    "femmine": 1,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2020,
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE\t",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 10,
+    "femmine": 6,
+    "totali": 16
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DELLA DONNA, DEL BAMBINO E DI CHIRURGIA GENERALE E SPECIALISTICA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 0,
+    "femmine": 39,
+    "totali": 39
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 81,
+    "femmine": 161,
+    "totali": 242
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 24,
+    "femmine": 86,
+    "totali": 110
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "CORSO DI LAUREA SPECIALISTICA",
+    "durata_corso_studio": 2,
+    "maschi": 1,
+    "femmine": 0,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "LAUREA CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 1,
+    "femmine": 1,
+    "totali": 2
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 36,
+    "femmine": 49,
+    "totali": 85
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 149,
+    "femmine": 139,
+    "totali": 288
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 4,
+    "maschi": 0,
+    "femmine": 2,
+    "totali": 2
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 108,
+    "femmine": 106,
+    "totali": 214
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 4,
+    "maschi": 2,
+    "femmine": 2,
+    "totali": 4
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 18,
+    "femmine": 36,
+    "totali": 54
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 62,
+    "femmine": 99,
+    "totali": 161
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 129,
+    "femmine": 34,
+    "totali": 163
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 120,
+    "femmine": 34,
+    "totali": 154
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 26,
+    "femmine": 88,
+    "totali": 114
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 10,
+    "femmine": 77,
+    "totali": 87
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 24,
+    "femmine": 34,
+    "totali": 58
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 8,
+    "femmine": 23,
+    "totali": 31
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 20,
+    "femmine": 35,
+    "totali": 55
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 10,
+    "femmine": 10,
+    "totali": 20
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 5,
+    "femmine": 10,
+    "totali": 15
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 6,
+    "maschi": 1,
+    "femmine": 1,
+    "totali": 2
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 24,
+    "femmine": 31,
+    "totali": 55
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "LAUREA CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 3,
+    "femmine": 1,
+    "totali": 4
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 110,
+    "femmine": 144,
+    "totali": 254
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 5,
+    "maschi": 0,
+    "femmine": 1,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 24,
+    "femmine": 129,
+    "totali": 153
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 22,
+    "femmine": 166,
+    "totali": 188
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "tipo_corso_studio": "CORSO DI LAUREA SPECIALISTICA",
+    "durata_corso_studio": 2,
+    "maschi": 0,
+    "femmine": 1,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI SALUTE MENTALE E FISICA E MEDICINA PREVENTIVA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 7,
+    "femmine": 103,
+    "totali": 110
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 32,
+    "femmine": 74,
+    "totali": 106
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 28,
+    "femmine": 97,
+    "totali": 125
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "LAUREA CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 1,
+    "femmine": 4,
+    "totali": 5
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 17,
+    "femmine": 32,
+    "totali": 49
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE E CHIRURGICHE AVANZATE",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 90,
+    "femmine": 100,
+    "totali": 190
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 93,
+    "femmine": 242,
+    "totali": 335
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE ",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 60,
+    "femmine": 77,
+    "totali": 137
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE ",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 44,
+    "femmine": 49,
+    "totali": 93
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE\t",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 66,
+    "femmine": 47,
+    "totali": 113
+  },
+  {
+    "anno_accademico_conseguimento": 2021,
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE\t",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 17,
+    "femmine": 12,
+    "totali": 29
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DELLA DONNA, DEL BAMBINO E DI CHIRURGIA GENERALE E SPECIALISTICA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 1,
+    "femmine": 59,
+    "totali": 60
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 5,
+    "maschi": 0,
+    "femmine": 1,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 73,
+    "femmine": 172,
+    "totali": 245
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 17,
+    "femmine": 70,
+    "totali": 87
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "LAUREA CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 1,
+    "femmine": 1,
+    "totali": 2
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 45,
+    "femmine": 39,
+    "totali": 84
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 4,
+    "maschi": 0,
+    "femmine": 2,
+    "totali": 2
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 97,
+    "femmine": 89,
+    "totali": 186
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 94,
+    "femmine": 92,
+    "totali": 186
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "tipo_corso_studio": "CORSO DI LAUREA SPECIALISTICA",
+    "durata_corso_studio": 2,
+    "maschi": 1,
+    "femmine": 0,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 16,
+    "femmine": 29,
+    "totali": 45
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 4,
+    "maschi": 1,
+    "femmine": 1,
+    "totali": 2
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 44,
+    "femmine": 116,
+    "totali": 160
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 80,
+    "femmine": 35,
+    "totali": 115
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 72,
+    "femmine": 18,
+    "totali": 90
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 19,
+    "femmine": 95,
+    "totali": 114
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 24,
+    "femmine": 89,
+    "totali": 113
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 25,
+    "femmine": 29,
+    "totali": 54
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 12,
+    "femmine": 19,
+    "totali": 31
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 19,
+    "femmine": 36,
+    "totali": 55
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 17,
+    "femmine": 18,
+    "totali": 35
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 1,
+    "femmine": 6,
+    "totali": 7
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 6,
+    "maschi": 2,
+    "femmine": 0,
+    "totali": 2
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 23,
+    "femmine": 26,
+    "totali": 49
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 80,
+    "femmine": 128,
+    "totali": 208
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 38,
+    "femmine": 132,
+    "totali": 170
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 5,
+    "maschi": 0,
+    "femmine": 1,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 25,
+    "femmine": 133,
+    "totali": 158
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "tipo_corso_studio": "CORSO DI LAUREA SPECIALISTICA",
+    "durata_corso_studio": 2,
+    "maschi": 0,
+    "femmine": 1,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI SALUTE MENTALE E FISICA E MEDICINA PREVENTIVA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 10,
+    "femmine": 103,
+    "totali": 113
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 19,
+    "femmine": 60,
+    "totali": 79
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 14,
+    "femmine": 80,
+    "totali": 94
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "CORSO DI LAUREA SPECIALISTICA",
+    "durata_corso_studio": 2,
+    "maschi": 0,
+    "femmine": 1,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "LAUREA CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 1,
+    "femmine": 2,
+    "totali": 3
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 12,
+    "femmine": 25,
+    "totali": 37
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE E CHIRURGICHE AVANZATE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 6,
+    "maschi": 1,
+    "femmine": 0,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE E CHIRURGICHE AVANZATE",
+    "tipo_corso_studio": "LAUREA CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 0,
+    "femmine": 1,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE E CHIRURGICHE AVANZATE",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 60,
+    "femmine": 106,
+    "totali": 166
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 110,
+    "femmine": 231,
+    "totali": 341
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE ",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 42,
+    "femmine": 61,
+    "totali": 103
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE ",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 73,
+    "femmine": 65,
+    "totali": 138
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE\t",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 62,
+    "femmine": 41,
+    "totali": 103
+  },
+  {
+    "anno_accademico_conseguimento": 2022,
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE\t",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 6,
+    "femmine": 9,
+    "totali": 15
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DELLA DONNA, DEL BAMBINO E DI CHIRURGIA GENERALE E SPECIALISTICA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 0,
+    "femmine": 40,
+    "totali": 40
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 37,
+    "femmine": 64,
+    "totali": 101
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 5,
+    "maschi": 1,
+    "femmine": 0,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 8,
+    "femmine": 20,
+    "totali": 28
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 13,
+    "femmine": 8,
+    "totali": 21
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 72,
+    "femmine": 63,
+    "totali": 135
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 51,
+    "femmine": 44,
+    "totali": 95
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "tipo_corso_studio": "CORSO DI LAUREA SPECIALISTICA",
+    "durata_corso_studio": 2,
+    "maschi": 0,
+    "femmine": 1,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 3,
+    "femmine": 13,
+    "totali": 16
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 4,
+    "maschi": 0,
+    "femmine": 4,
+    "totali": 4
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 17,
+    "femmine": 41,
+    "totali": 58
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 66,
+    "femmine": 15,
+    "totali": 81
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 5,
+    "maschi": 2,
+    "femmine": 0,
+    "totali": 2
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 40,
+    "femmine": 14,
+    "totali": 54
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 7,
+    "femmine": 61,
+    "totali": 68
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 5,
+    "femmine": 30,
+    "totali": 35
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 11,
+    "femmine": 23,
+    "totali": 34
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 9,
+    "femmine": 7,
+    "totali": 16
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 12,
+    "femmine": 15,
+    "totali": 27
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 28,
+    "femmine": 43,
+    "totali": 71
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 6,
+    "maschi": 2,
+    "femmine": 0,
+    "totali": 2
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 3,
+    "femmine": 5,
+    "totali": 8
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 17,
+    "femmine": 27,
+    "totali": 44
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "LAUREA CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 0,
+    "femmine": 1,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 52,
+    "femmine": 72,
+    "totali": 124
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 17,
+    "femmine": 118,
+    "totali": 135
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 14,
+    "femmine": 45,
+    "totali": 59
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "tipo_corso_studio": "CORSO DI LAUREA SPECIALISTICA",
+    "durata_corso_studio": 2,
+    "maschi": 0,
+    "femmine": 2,
+    "totali": 2
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI SALUTE MENTALE E FISICA E MEDICINA PREVENTIVA",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 1,
+    "femmine": 46,
+    "totali": 47
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 15,
+    "femmine": 48,
+    "totali": 63
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 12,
+    "femmine": 30,
+    "totali": 42
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "LAUREA CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 0,
+    "femmine": 1,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 7,
+    "femmine": 15,
+    "totali": 22
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE E CHIRURGICHE AVANZATE",
+    "tipo_corso_studio": "LAUREA CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 0,
+    "femmine": 1,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE E CHIRURGICHE AVANZATE",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 68,
+    "femmine": 87,
+    "totali": 155
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 55,
+    "femmine": 111,
+    "totali": 166
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE ",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 14,
+    "femmine": 19,
+    "totali": 33
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE ",
+    "tipo_corso_studio": "CORSO DI LAUREA MAGISTRALE",
+    "durata_corso_studio": 2,
+    "maschi": 25,
+    "femmine": 32,
+    "totali": 57
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE\t",
+    "tipo_corso_studio": "CORSO DI LAUREA",
+    "durata_corso_studio": 3,
+    "maschi": 66,
+    "femmine": 28,
+    "totali": 94
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE\t",
+    "tipo_corso_studio": "LAUREA CICLO UNICO 5 ANNI",
+    "durata_corso_studio": 5,
+    "maschi": 1,
+    "femmine": 0,
+    "totali": 1
+  },
+  {
+    "anno_accademico_conseguimento": 2023,
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE\t",
+    "tipo_corso_studio": "LAUREA MAGISTRALE CICLO UNICO 6 ANNI",
+    "durata_corso_studio": 6,
+    "maschi": 12,
+    "femmine": 8,
+    "totali": 20
+  }
+]
