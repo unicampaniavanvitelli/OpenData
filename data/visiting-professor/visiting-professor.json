@@ -1,0 +1,626 @@
+[
+  {
+    "anno": 2024,
+    "dipartimento": {
+      "id": "090100",
+      "denominazione": "Dipartimento di Matematica e Fisica (DMF)"
+    },
+    "numero_visiting_professor": 6
+  },
+  {
+    "anno": 2023,
+    "dipartimento": {
+      "id": "031663",
+      "denominazione": "Dipartimento della Donna, del Bambino e di Chirurgia Generale e Specialistica"
+    },
+    "numero_visiting_professor": 3
+  },
+  {
+    "anno": 2023,
+    "dipartimento": {
+      "id": "031739",
+      "denominazione": "Dipartimento di Salute Mentale e Fisica e Medicina Preventiva"
+    },
+    "numero_visiting_professor": 1
+  },
+  {
+    "anno": 2023,
+    "dipartimento": {
+      "id": "031783",
+      "denominazione": "Dipartimento di Scienze Politiche"
+    },
+    "numero_visiting_professor": 5
+  },
+  {
+    "anno": 2023,
+    "dipartimento": {
+      "id": "090002",
+      "denominazione": "Dipartimento di Architettura e Disegno Industriale"
+    },
+    "numero_visiting_professor": 3
+  },
+  {
+    "anno": 2023,
+    "dipartimento": {
+      "id": "090007",
+      "denominazione": "Dipartimento di Ingegneria"
+    },
+    "numero_visiting_professor": 10
+  },
+  {
+    "anno": 2023,
+    "dipartimento": {
+      "id": "090090",
+      "denominazione": "Dipartimento di Scienze e Tecnologie Ambientali Biologiche e Farmaceutiche (DISTABiF)"
+    },
+    "numero_visiting_professor": 3
+  },
+  {
+    "anno": 2023,
+    "dipartimento": {
+      "id": "090100",
+      "denominazione": "Dipartimento di Matematica e Fisica (DMF)"
+    },
+    "numero_visiting_professor": 16
+  },
+  {
+    "anno": 2023,
+    "dipartimento": {
+      "id": "090120",
+      "denominazione": "Dipartimento di Lettere e Beni Culturali (DiLBEC)"
+    },
+    "numero_visiting_professor": 6
+  },
+  {
+    "anno": 2023,
+    "dipartimento": {
+      "id": "090150",
+      "denominazione": "Dipartimento di Scienze Mediche Traslazionali"
+    },
+    "numero_visiting_professor": 2
+  },
+  {
+    "anno": 2023,
+    "dipartimento": {
+      "id": "090201",
+      "denominazione": "Dipartimento di Medicina di Precisione"
+    },
+    "numero_visiting_professor": 2
+  },
+  {
+    "anno": 2023,
+    "dipartimento": {
+      "id": "090202",
+      "denominazione": "Dipartimento Multidisciplinare di Specialità Medico-Chirurgiche e Odontoiatriche"
+    },
+    "numero_visiting_professor": 2
+  },
+  {
+    "anno": 2022,
+    "dipartimento": {
+      "id": "031661",
+      "denominazione": "Dipartimento di Scienze Mediche e Chirurgiche Avanzate (DAMSS)"
+    },
+    "numero_visiting_professor": 3
+  },
+  {
+    "anno": 2022,
+    "dipartimento": {
+      "id": "031663",
+      "denominazione": "Dipartimento della Donna, del Bambino e di Chirurgia Generale e Specialistica"
+    },
+    "numero_visiting_professor": 2
+  },
+  {
+    "anno": 2022,
+    "dipartimento": {
+      "id": "031739",
+      "denominazione": "Dipartimento di Salute Mentale e Fisica e Medicina Preventiva"
+    },
+    "numero_visiting_professor": 2
+  },
+  {
+    "anno": 2022,
+    "dipartimento": {
+      "id": "031783",
+      "denominazione": "Dipartimento di Scienze Politiche"
+    },
+    "numero_visiting_professor": 2
+  },
+  {
+    "anno": 2022,
+    "dipartimento": {
+      "id": "090002",
+      "denominazione": "Dipartimento di Architettura e Disegno Industriale"
+    },
+    "numero_visiting_professor": 3
+  },
+  {
+    "anno": 2022,
+    "dipartimento": {
+      "id": "090003",
+      "denominazione": "Dipartimento di Giurisprudenza"
+    },
+    "numero_visiting_professor": 2
+  },
+  {
+    "anno": 2022,
+    "dipartimento": {
+      "id": "090007",
+      "denominazione": "Dipartimento di Ingegneria"
+    },
+    "numero_visiting_professor": 17
+  },
+  {
+    "anno": 2022,
+    "dipartimento": {
+      "id": "090090",
+      "denominazione": "Dipartimento di Scienze e Tecnologie Ambientali Biologiche e Farmaceutiche (DISTABiF)"
+    },
+    "numero_visiting_professor": 1
+  },
+  {
+    "anno": 2022,
+    "dipartimento": {
+      "id": "090100",
+      "denominazione": "Dipartimento di Matematica e Fisica (DMF)"
+    },
+    "numero_visiting_professor": 2
+  },
+  {
+    "anno": 2022,
+    "dipartimento": {
+      "id": "090120",
+      "denominazione": "Dipartimento di Lettere e Beni Culturali (DiLBEC)"
+    },
+    "numero_visiting_professor": 4
+  },
+  {
+    "anno": 2022,
+    "dipartimento": {
+      "id": "090202",
+      "denominazione": "Dipartimento Multidisciplinare di Specialità Medico-Chirurgiche e Odontoiatriche"
+    },
+    "numero_visiting_professor": 2
+  },
+  {
+    "anno": 2021,
+    "dipartimento": {
+      "id": "031783",
+      "denominazione": "Dipartimento di Scienze Politiche"
+    },
+    "numero_visiting_professor": 1
+  },
+  {
+    "anno": 2021,
+    "dipartimento": {
+      "id": "090007",
+      "denominazione": "Dipartimento di Ingegneria"
+    },
+    "numero_visiting_professor": 3
+  },
+  {
+    "anno": 2021,
+    "dipartimento": {
+      "id": "090100",
+      "denominazione": "Dipartimento di Matematica e Fisica (DMF)"
+    },
+    "numero_visiting_professor": 1
+  },
+  {
+    "anno": 2021,
+    "dipartimento": {
+      "id": "090120",
+      "denominazione": "Dipartimento di Lettere e Beni Culturali (DiLBEC)"
+    },
+    "numero_visiting_professor": 1
+  },
+  {
+    "anno": 2019,
+    "dipartimento": {
+      "id": "031663",
+      "denominazione": "Dipartimento della Donna, del Bambino e di Chirurgia Generale e Specialistica"
+    },
+    "numero_visiting_professor": 1
+  },
+  {
+    "anno": 2019,
+    "dipartimento": {
+      "id": "031783",
+      "denominazione": "Dipartimento di Scienze Politiche"
+    },
+    "numero_visiting_professor": 2
+  },
+  {
+    "anno": 2019,
+    "dipartimento": {
+      "id": "090003",
+      "denominazione": "Dipartimento di Giurisprudenza"
+    },
+    "numero_visiting_professor": 3
+  },
+  {
+    "anno": 2019,
+    "dipartimento": {
+      "id": "090007",
+      "denominazione": "Dipartimento di Ingegneria"
+    },
+    "numero_visiting_professor": 2
+  },
+  {
+    "anno": 2019,
+    "dipartimento": {
+      "id": "090090",
+      "denominazione": "Dipartimento di Scienze e Tecnologie Ambientali Biologiche e Farmaceutiche (DISTABiF)"
+    },
+    "numero_visiting_professor": 3
+  },
+  {
+    "anno": 2019,
+    "dipartimento": {
+      "id": "090120",
+      "denominazione": "Dipartimento di Lettere e Beni Culturali (DiLBEC)"
+    },
+    "numero_visiting_professor": 4
+  },
+  {
+    "anno": 2018,
+    "dipartimento": {
+      "id": "031739",
+      "denominazione": "Dipartimento di Salute Mentale e Fisica e Medicina Preventiva"
+    },
+    "numero_visiting_professor": 2
+  },
+  {
+    "anno": 2018,
+    "dipartimento": {
+      "id": "031783",
+      "denominazione": "Dipartimento di Scienze Politiche"
+    },
+    "numero_visiting_professor": 2
+  },
+  {
+    "anno": 2018,
+    "dipartimento": {
+      "id": "090002",
+      "denominazione": "Dipartimento di Architettura e Disegno Industriale"
+    },
+    "numero_visiting_professor": 5
+  },
+  {
+    "anno": 2018,
+    "dipartimento": {
+      "id": "090003",
+      "denominazione": "Dipartimento di Giurisprudenza"
+    },
+    "numero_visiting_professor": 3
+  },
+  {
+    "anno": 2018,
+    "dipartimento": {
+      "id": "090007",
+      "denominazione": "Dipartimento di Ingegneria"
+    },
+    "numero_visiting_professor": 5
+  },
+  {
+    "anno": 2018,
+    "dipartimento": {
+      "id": "090061",
+      "denominazione": "Dipartimento di Medicina Sperimentale"
+    },
+    "numero_visiting_professor": 2
+  },
+  {
+    "anno": 2018,
+    "dipartimento": {
+      "id": "090090",
+      "denominazione": "Dipartimento di Scienze e Tecnologie Ambientali Biologiche e Farmaceutiche (DISTABiF)"
+    },
+    "numero_visiting_professor": 5
+  },
+  {
+    "anno": 2018,
+    "dipartimento": {
+      "id": "090100",
+      "denominazione": "Dipartimento di Matematica e Fisica (DMF)"
+    },
+    "numero_visiting_professor": 4
+  },
+  {
+    "anno": 2018,
+    "dipartimento": {
+      "id": "090120",
+      "denominazione": "Dipartimento di Lettere e Beni Culturali (DiLBEC)"
+    },
+    "numero_visiting_professor": 2
+  },
+  {
+    "anno": 2017,
+    "dipartimento": {
+      "id": "031366",
+      "denominazione": null
+    },
+    "numero_visiting_professor": 1
+  },
+  {
+    "anno": 2017,
+    "dipartimento": {
+      "id": "031783",
+      "denominazione": "Dipartimento di Scienze Politiche"
+    },
+    "numero_visiting_professor": 2
+  },
+  {
+    "anno": 2017,
+    "dipartimento": {
+      "id": "090002",
+      "denominazione": "Dipartimento di Architettura e Disegno Industriale"
+    },
+    "numero_visiting_professor": 4
+  },
+  {
+    "anno": 2017,
+    "dipartimento": {
+      "id": "090003",
+      "denominazione": "Dipartimento di Giurisprudenza"
+    },
+    "numero_visiting_professor": 2
+  },
+  {
+    "anno": 2017,
+    "dipartimento": {
+      "id": "090005",
+      "denominazione": null
+    },
+    "numero_visiting_professor": 5
+  },
+  {
+    "anno": 2017,
+    "dipartimento": {
+      "id": "090007",
+      "denominazione": "Dipartimento di Ingegneria"
+    },
+    "numero_visiting_professor": 4
+  },
+  {
+    "anno": 2017,
+    "dipartimento": {
+      "id": "090090",
+      "denominazione": "Dipartimento di Scienze e Tecnologie Ambientali Biologiche e Farmaceutiche (DISTABiF)"
+    },
+    "numero_visiting_professor": 2
+  },
+  {
+    "anno": 2017,
+    "dipartimento": {
+      "id": "090100",
+      "denominazione": "Dipartimento di Matematica e Fisica (DMF)"
+    },
+    "numero_visiting_professor": 2
+  },
+  {
+    "anno": 2017,
+    "dipartimento": {
+      "id": "090191",
+      "denominazione": "Dipartimento di Psicologia"
+    },
+    "numero_visiting_professor": 2
+  },
+  {
+    "anno": 2017,
+    "dipartimento": {
+      "id": "090202",
+      "denominazione": "Dipartimento Multidisciplinare di Specialità Medico-Chirurgiche e Odontoiatriche"
+    },
+    "numero_visiting_professor": 3
+  },
+  {
+    "anno": 2016,
+    "dipartimento": {
+      "id": "031366",
+      "denominazione": null
+    },
+    "numero_visiting_professor": 2
+  },
+  {
+    "anno": 2016,
+    "dipartimento": {
+      "id": "031739",
+      "denominazione": "Dipartimento di Salute Mentale e Fisica e Medicina Preventiva"
+    },
+    "numero_visiting_professor": 2
+  },
+  {
+    "anno": 2016,
+    "dipartimento": {
+      "id": "031783",
+      "denominazione": "Dipartimento di Scienze Politiche"
+    },
+    "numero_visiting_professor": 1
+  },
+  {
+    "anno": 2016,
+    "dipartimento": {
+      "id": "090002",
+      "denominazione": "Dipartimento di Architettura e Disegno Industriale"
+    },
+    "numero_visiting_professor": 1
+  },
+  {
+    "anno": 2016,
+    "dipartimento": {
+      "id": "090003",
+      "denominazione": "Dipartimento di Giurisprudenza"
+    },
+    "numero_visiting_professor": 1
+  },
+  {
+    "anno": 2016,
+    "dipartimento": {
+      "id": "090005",
+      "denominazione": null
+    },
+    "numero_visiting_professor": 3
+  },
+  {
+    "anno": 2016,
+    "dipartimento": {
+      "id": "090007",
+      "denominazione": "Dipartimento di Ingegneria"
+    },
+    "numero_visiting_professor": 2
+  },
+  {
+    "anno": 2016,
+    "dipartimento": {
+      "id": "090061",
+      "denominazione": "Dipartimento di Medicina Sperimentale"
+    },
+    "numero_visiting_professor": 1
+  },
+  {
+    "anno": 2016,
+    "dipartimento": {
+      "id": "090090",
+      "denominazione": "Dipartimento di Scienze e Tecnologie Ambientali Biologiche e Farmaceutiche (DISTABiF)"
+    },
+    "numero_visiting_professor": 8
+  },
+  {
+    "anno": 2016,
+    "dipartimento": {
+      "id": "090100",
+      "denominazione": "Dipartimento di Matematica e Fisica (DMF)"
+    },
+    "numero_visiting_professor": 3
+  },
+  {
+    "anno": 2016,
+    "dipartimento": {
+      "id": "090170",
+      "denominazione": "Dipartimento di Economia"
+    },
+    "numero_visiting_professor": 2
+  },
+  {
+    "anno": 2016,
+    "dipartimento": {
+      "id": "090191",
+      "denominazione": "Dipartimento di Psicologia"
+    },
+    "numero_visiting_professor": 2
+  },
+  {
+    "anno": 2016,
+    "dipartimento": {
+      "id": "090201",
+      "denominazione": "Dipartimento di Medicina di Precisione"
+    },
+    "numero_visiting_professor": 1
+  },
+  {
+    "anno": 2016,
+    "dipartimento": {
+      "id": "090202",
+      "denominazione": "Dipartimento Multidisciplinare di Specialità Medico-Chirurgiche e Odontoiatriche"
+    },
+    "numero_visiting_professor": 2
+  },
+  {
+    "anno": 2015,
+    "dipartimento": {
+      "id": "031661",
+      "denominazione": "Dipartimento di Scienze Mediche e Chirurgiche Avanzate (DAMSS)"
+    },
+    "numero_visiting_professor": 3
+  },
+  {
+    "anno": 2015,
+    "dipartimento": {
+      "id": "031739",
+      "denominazione": "Dipartimento di Salute Mentale e Fisica e Medicina Preventiva"
+    },
+    "numero_visiting_professor": 1
+  },
+  {
+    "anno": 2015,
+    "dipartimento": {
+      "id": "090002",
+      "denominazione": "Dipartimento di Architettura e Disegno Industriale"
+    },
+    "numero_visiting_professor": 1
+  },
+  {
+    "anno": 2015,
+    "dipartimento": {
+      "id": "090005",
+      "denominazione": null
+    },
+    "numero_visiting_professor": 5
+  },
+  {
+    "anno": 2015,
+    "dipartimento": {
+      "id": "090007",
+      "denominazione": "Dipartimento di Ingegneria"
+    },
+    "numero_visiting_professor": 3
+  },
+  {
+    "anno": 2015,
+    "dipartimento": {
+      "id": "090061",
+      "denominazione": "Dipartimento di Medicina Sperimentale"
+    },
+    "numero_visiting_professor": 2
+  },
+  {
+    "anno": 2015,
+    "dipartimento": {
+      "id": "090090",
+      "denominazione": "Dipartimento di Scienze e Tecnologie Ambientali Biologiche e Farmaceutiche (DISTABiF)"
+    },
+    "numero_visiting_professor": 1
+  },
+  {
+    "anno": 2015,
+    "dipartimento": {
+      "id": "090100",
+      "denominazione": "Dipartimento di Matematica e Fisica (DMF)"
+    },
+    "numero_visiting_professor": 3
+  },
+  {
+    "anno": 2015,
+    "dipartimento": {
+      "id": "090170",
+      "denominazione": "Dipartimento di Economia"
+    },
+    "numero_visiting_professor": 3
+  },
+  {
+    "anno": 2015,
+    "dipartimento": {
+      "id": "090191",
+      "denominazione": "Dipartimento di Psicologia"
+    },
+    "numero_visiting_professor": 2
+  },
+  {
+    "anno": 2015,
+    "dipartimento": {
+      "id": "090201",
+      "denominazione": "Dipartimento di Medicina di Precisione"
+    },
+    "numero_visiting_professor": 3
+  },
+  {
+    "anno": 2015,
+    "dipartimento": {
+      "id": "090202",
+      "denominazione": "Dipartimento Multidisciplinare di Specialità Medico-Chirurgiche e Odontoiatriche"
+    },
+    "numero_visiting_professor": 1
+  }
+]
