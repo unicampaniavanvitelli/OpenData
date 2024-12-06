@@ -4,7 +4,7 @@
 # Serie storica degli Iscritti ai corsi di studio / Orientation initiatives
 |IT|EN|
 |-|-|
-|Fornisce i dati storici degli iscritti ai corsi di studio|Provides historical data about students enrolled in study courses|
+|Fornisce i dati storici degli iscritti ai corsi di studio dell'Ateneo|Provides historical data about students enrolled in study courses|
 
 
 ## Processo / Process
