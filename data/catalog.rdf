@@ -126,7 +126,7 @@
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
     <dct:license/>
     <dct:title>Dipartimenti</dct:title>
-    <dcat:landingPage rdf:resource="https://github.com/unicampaniavanvitelli/OpenData/blob/main/pages/eventi-ateneo.md/"/>
+    <dcat:landingPage rdf:resource="https://github.com/unicampaniavanvitelli/OpenData/blob/main/pages/dipartimenti.md/"/>
     <dct:description>Fornisce i dati in merito ai Dipartimenti dell'Ateneo</dct:description>
     <dct:identifier>SEUNSTNA:dipartimenti</dct:identifier>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/ANNUAL"/>
@@ -160,7 +160,7 @@
     <dcat:keyword>Unicampania</dcat:keyword>
     <dcat:keyword>eventi</dcat:keyword>
     <dcat:keyword>cultura</dcat:keyword>
-    <dcat:distribution rdf:resource="https://github.com/unicampaniavanvitelli/OpenData/tree/main/data/eventi-di-ateneo/json4"/>
+    <dcat:distribution rdf:resource="https://github.com/unicampaniavanvitelli/OpenData/tree/main/data/dipartimenti/json4"/>
   </dcatapit:Dataset>
 
 <dcatapit:Dataset rdf:about="https://github.com/unicampaniavanvitelli/OpenData/tree/main/data/serie-storica-iscritti">
@@ -250,15 +250,15 @@
     <dcat:distribution rdf:resource="https://github.com/unicampaniavanvitelli/OpenData/tree/main/data/serie-storica-titoli-conseguiti/json6"/>
   </dcatapit:Dataset>
 
-<dcatapit:Dataset rdf:about="https://github.com/unicampaniavanvitelli/OpenData/tree/main/data/docenti-ricercatori">
+<dcatapit:Dataset rdf:about="https://github.com/unicampaniavanvitelli/OpenData/tree/main/data/docenti_ricercatori">
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
     <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
     <dct:license/>
     <dct:title>Personale docente e ricercatore</dct:title>
-    <dcat:landingPage rdf:resource="https://github.com/unicampaniavanvitelli/OpenData/blob/main/pages/docenti-ricercatori.md/"/>
+    <dcat:landingPage rdf:resource="https://github.com/unicampaniavanvitelli/OpenData/blob/main/pages/docenti_ricercatori.md/"/>
     <dct:description>Fornisce dati in merito al personale docente e ricercatore dell'Ateneo</dct:description>
-    <dct:identifier>SEUNSTNA:docenti-ricercatori</dct:identifier>
+    <dct:identifier>SEUNSTNA:docenti_ricercatori</dct:identifier>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/ANNUAL"/>
     <dcat:contactPoint rdf:resource="https://www.unicampania.it"/>
     <dct:rightsHolder>
@@ -290,7 +290,7 @@
     <dcat:keyword>Unicampania</dcat:keyword>
     <dcat:keyword>eventi</dcat:keyword>
     <dcat:keyword>cultura</dcat:keyword>
-    <dcat:distribution rdf:resource="https://github.com/unicampaniavanvitelli/OpenData/tree/main/data/docenti-ricercatori/json7"/>
+    <dcat:distribution rdf:resource="https://github.com/unicampaniavanvitelli/OpenData/tree/main/data/docenti_ricercatori/json7"/>
   </dcatapit:Dataset>
 
 <dcatapit:Dataset rdf:about="https://github.com/unicampaniavanvitelli/OpenData/tree/main/data/tesi">
@@ -369,8 +369,8 @@
     <dct:title>Iniziative di orientamento in formato JSON</dct:title>
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
-<dcatapit:Distribution rdf:about="https://github.com/unicampaniavanvitelli/OpenData/tree/main/data/eventi-di-ateneo/json4">
-    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicampaniavanvitelli/OpenData/refs/heads/main/data/eventi-ateneo/dipartimenti.json"/>
+<dcatapit:Distribution rdf:about="https://github.com/unicampaniavanvitelli/OpenData/tree/main/data/dipartimenti/json4">
+    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicampaniavanvitelli/OpenData/refs/heads/main/data/dipartimenti/dipartimenti.json"/>
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/licenses/by/4.0/">
         <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -416,8 +416,8 @@
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
 
-<dcatapit:Distribution rdf:about="https://github.com/unicampaniavanvitelli/OpenData/tree/main/data/docenti-ricercatori/json7">
-    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicampaniavanvitelli/OpenData/refs/heads/main/data/docenti-ricercatori/docenti-ricercatori.json"/>    <dct:license>
+<dcatapit:Distribution rdf:about="https://github.com/unicampaniavanvitelli/OpenData/tree/main/data/docenti_ricercatori/json7">
+    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicampaniavanvitelli/OpenData/refs/heads/main/data/docenti_ricercatori/docenti_ricercatori.json"/>    <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/licenses/by/4.0/">
         <rdf:type rdf:resource="dct:LicenseDocument"/>
         <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
