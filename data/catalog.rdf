@@ -427,8 +427,8 @@
     <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
     <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
     <dct:license/>
-    <dct:title>titoli conseguiti per provenienza geografica</dct:title>
-    <dcat:landingPage rdf:resource="https://github.com/unicampaniavanvitelli/OpenData/blob/main/pages/iscritti-per-provenienza-geografica.md/"/>
+    <dct:title>Titoli conseguiti per provenienza geografica</dct:title>
+    <dcat:landingPage rdf:resource="https://github.com/unicampaniavanvitelli/OpenData/blob/main/pages/titoli-conseguiti-per-provenienza-geografica.md/"/>
     <dct:description>Fornisce dati in merito ai titoli di studio conseguiti dagli iscritti ai corsi dell'Ateneo, in relazione alla provenienza geografica</dct:description>
     <dct:identifier>SEUNSTNA:tesi</dct:identifier>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/ANNUAL"/>
@@ -462,9 +462,51 @@
     <dcat:keyword>Unicampania</dcat:keyword>
     <dcat:keyword>eventi</dcat:keyword>
     <dcat:keyword>cultura</dcat:keyword>
-    <dcat:distribution rdf:resource="https://github.com/unicampaniavanvitelli/OpenData/tree/main/data/titoli-conseguiti-per-provenienza-geografica/json9"/>
+    <dcat:distribution rdf:resource="https://github.com/unicampaniavanvitelli/OpenData/tree/main/data/titoli-conseguiti-per-provenienza-geografica/json10"/>
   </dcatapit:Dataset>
 
+<dcatapit:Dataset rdf:about="https://github.com/unicampaniavanvitelli/OpenData/tree/main/data/visiting-professor">
+    <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+    <dct:accessRights rdf:resource="http://publications.europa.eu/resource/authority/access-right/PUBLIC"/>
+    <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/EDUC"/>
+    <dct:license/>
+    <dct:title>Visiting professor</dct:title>
+    <dcat:landingPage rdf:resource="https://github.com/unicampaniavanvitelli/OpenData/blob/main/pages/visiting-professor.md/"/>
+    <dct:description>Fornisce dati in merito ai visiting professor</dct:description>
+    <dct:identifier>SEUNSTNA:tesi</dct:identifier>
+    <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/ANNUAL"/>
+    <dcat:contactPoint rdf:resource="https://www.unicampania.it"/>
+    <dct:rightsHolder>
+      <dcatapit:Agent rdf:about="SEUNSTNA">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+        <dct:identifier>SEUNSTNA</dct:identifier>
+        <foaf:name>Universita' degli Studi della Campania "L. Vanvitelli"</foaf:name>
+      </dcatapit:Agent>
+    </dct:rightsHolder>
+    <dct:publisher>
+      <dcatapit:Agent rdf:nodeID="Nd117aa7f2e7b47fb9481d4a8aca59c7d">
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+        <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+        <dct:identifier>SEUNSTNA</dct:identifier>
+        <foaf:name>Universita' degli Studi della Campania "L. Vanvitelli"</foaf:name>
+      </dcatapit:Agent>
+    </dct:publisher>
+    <dct:subject>
+      <skos:Concept rdf:about="http://eurovoc.europa.eu/100213">
+        <rdf:type rdf:resource="http://dati.gov.it/onto/dcatapit#subTheme"/>
+        <skos:prefLabel xml:lang="it">2831 cultura e religione</skos:prefLabel>
+      </skos:Concept>
+    </dct:subject>
+    <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+    <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+    <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-11-15</dct:modified>
+    <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-11-15</dct:issued>
+    <dcat:contactPoint rdf:resource="https://www.unicampania.it"/>
+    <dcat:keyword>Unicampania</dcat:keyword>
+    <dcat:keyword>eventi</dcat:keyword>
+    <dcat:keyword>cultura</dcat:keyword>
+    <dcat:distribution rdf:resource="https://github.com/unicampaniavanvitelli/OpenData/tree/main/data/visiting-professor/json11"/>
+  </dcatapit:Dataset>
 
   <dcatapit:Distribution rdf:about="https://github.com/unicampaniavanvitelli/OpenData/tree/main/data/eventi-di-ateneo/json2">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicampaniavanvitelli/OpenData/refs/heads/main/data/eventi-ateneo/eventi-ateneo.json"/>
@@ -559,7 +601,8 @@
   </dcatapit:Distribution>
 
 <dcatapit:Distribution rdf:about="https://github.com/unicampaniavanvitelli/OpenData/tree/main/data/tesi/json8">
-    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicampaniavanvitelli/OpenData/refs/heads/main/data/tesi/tesi.json"/>    <dct:license>
+    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicampaniavanvitelli/OpenData/refs/heads/main/data/tesi/tesi.json"/>    
+   <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/licenses/by/4.0/">
         <rdf:type rdf:resource="dct:LicenseDocument"/>
         <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
@@ -605,7 +648,7 @@
     <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
   </dcatapit:Distribution>
 
-<dcatapit:Distribution rdf:about="https://github.com/unicampaniavanvitelli/OpenData/tree/main/data/tesi/json11">
+<dcatapit:Distribution rdf:about="https://github.com/unicampaniavanvitelli/OpenData/tree/main/data/visiting-professor/json11">
     <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicampaniavanvitelli/OpenData/refs/headsmain/data/visiting-professor/visiting-professor.json"/>    
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/licenses/by/4.0/">
