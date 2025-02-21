@@ -387,7 +387,7 @@
     <dct:title>Iscritti per provenienza geografica</dct:title>
     <dcat:landingPage rdf:resource="https://github.com/unicampaniavanvitelli/OpenData/blob/main/pages/iscritti-per-provenienza-geografica.md/"/>
     <dct:description>Fornisce dati in merito agli iscritti ai corsi di studio dell'Ateneo, in relazione alla provenienza geografica</dct:description>
-    <dct:identifier>SEUNSTNA:tesi</dct:identifier>
+    <dct:identifier>SEUNSTNA:iscritti-per-provenienza-geografica</dct:identifier>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/ANNUAL"/>
     <dcat:contactPoint rdf:resource="https://www.unicampania.it"/>
     <dct:rightsHolder>
@@ -430,7 +430,7 @@
     <dct:title>Titoli conseguiti per provenienza geografica</dct:title>
     <dcat:landingPage rdf:resource="https://github.com/unicampaniavanvitelli/OpenData/blob/main/pages/titoli-conseguiti-per-provenienza-geografica.md/"/>
     <dct:description>Fornisce dati in merito ai titoli di studio conseguiti dagli iscritti ai corsi dell'Ateneo, in relazione alla provenienza geografica</dct:description>
-    <dct:identifier>SEUNSTNA:tesi</dct:identifier>
+    <dct:identifier>SEUNSTNA:titoli-conseguiti-per-provenienza-geografica</dct:identifier>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/ANNUAL"/>
     <dcat:contactPoint rdf:resource="https://www.unicampania.it"/>
     <dct:rightsHolder>
@@ -473,7 +473,7 @@
     <dct:title>Visiting professor</dct:title>
     <dcat:landingPage rdf:resource="https://github.com/unicampaniavanvitelli/OpenData/blob/main/pages/visiting-professor.md/"/>
     <dct:description>Fornisce dati in merito ai visiting professor</dct:description>
-    <dct:identifier>SEUNSTNA:tesi</dct:identifier>
+    <dct:identifier>SEUNSTNA:visiting-professor</dct:identifier>
     <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/ANNUAL"/>
     <dcat:contactPoint rdf:resource="https://www.unicampania.it"/>
     <dct:rightsHolder>
