@@ -574,7 +574,7 @@
   </dcatapit:Distribution>
 
 <dcatapit:Distribution rdf:about="https://github.com/unicampaniavanvitelli/OpenData/tree/main/data/iscritti-per-provenienza-geografica/json9">
-    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicampaniavanvitelli/OpenData/refs/headsmain/data/iscritti-per-provenienza-geografica/iscritti-per-provenienza-geografica.json"/>    
+    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicampaniavanvitelli/OpenData/refs/heads/main/data/iscritti-per-provenienza-geografica/iscritti-per-provenienza-geografica.json"/>    
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/licenses/by/4.0/">
         <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -590,7 +590,7 @@
   </dcatapit:Distribution>
 
 <dcatapit:Distribution rdf:about="https://github.com/unicampaniavanvitelli/OpenData/tree/main/data/titoli-conseguiti-per-provenienza-geografica/json10">
-    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicampaniavanvitelli/OpenData/refs/headsmain/data/titoli-conseguiti-per-provenienza-geografica/titoli-conseguiti-per-provenienza-geografica.json"/>    
+    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicampaniavanvitelli/OpenData/refs/heads/main/data/titoli-conseguiti-per-provenienza-geografica/titoli-conseguiti-per-provenienza-geografica.json"/>    
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/licenses/by/4.0/">
         <rdf:type rdf:resource="dct:LicenseDocument"/>
@@ -606,7 +606,7 @@
   </dcatapit:Distribution>
 
 <dcatapit:Distribution rdf:about="https://github.com/unicampaniavanvitelli/OpenData/tree/main/data/visiting-professor/json11">
-    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicampaniavanvitelli/OpenData/refs/headsmain/data/visiting-professor/visiting-professor.json"/>    
+    <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/unicampaniavanvitelli/OpenData/refs/heads/main/data/visiting-professor/visiting-professor.json"/>    
     <dct:license>
       <dcatapit:LicenseDocument rdf:about="https://creativecommons.org/licenses/by/4.0/">
         <rdf:type rdf:resource="dct:LicenseDocument"/>
