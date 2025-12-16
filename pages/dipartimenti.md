@@ -20,4 +20,4 @@
 
 ## Dataset
 **Directory:**  [dipartimenti](../data/dipartimenti/)<br>
-**Nome file / Filename (json):** [dipartimenti.json](../data/eventi-ateneo/dipartimenti.json)<br>
+**Nome file / Filename (json):** [dipartimenti.json](../data/dipartimenti/dipartimenti.json)<br>
