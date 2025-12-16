@@ -1,7 +1,7 @@
 <img src="../assets/images/Universita_Vanvitelli_Logo_pos.png" alt="Universit&agrave; degli Studi della Campania L. Vanvitelli" data-canonical-src="../assets/images/Universita_Vanvitelli_Logo_pos.png" width="300" />
 
 
-# Visiting professors / Visiting professors
+# Personale docente e ricercatore / Teachers and researchers
 |IT|EN|
 |-|-|
 |Fornisce dati in merito al personale docente e ricercatore dell'Ateneo, raggruppati per area e settore sceintifico-disciplinare|Provides data on teachers and researchers of our University, grouped by area and sector.|
