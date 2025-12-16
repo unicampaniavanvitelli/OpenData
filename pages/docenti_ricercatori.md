@@ -18,5 +18,5 @@
 |Annuale|Yearly|
 
 ## Dataset
-**Directory:**  [docenti-ricercatori](../data/docenti-ricercatori/)<br>
-**Nome file / Filename (json):** [docenti-ricercatori.json](../data/docenti-ricercatori/docenti-ricercatori.json)<br>
+**Directory:**  [docenti_ricercatori](../data/docenti_ricercatori/)<br>
+**Nome file / Filename (json):** [docenti-ricercatori.json](../data/docenti_ricercatori/docenti_ricercatori.json)<br>
