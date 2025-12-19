@@ -1,1 +1,374 @@
-
+[
+  {
+    "area": "Area degli Operatori",
+    "profilo": "Settore amministrativo",
+    "sesso": "F",
+    "unita_di_personale": 28
+  },
+  {
+    "area": "Area degli Operatori",
+    "profilo": "Settore amministrativo",
+    "sesso": "M",
+    "unita_di_personale": 22
+  },
+  {
+    "area": "Area degli Operatori",
+    "profilo": "Settore dei servizi generali e tecnici",
+    "sesso": "F",
+    "unita_di_personale": 45
+  },
+  {
+    "area": "Area degli Operatori",
+    "profilo": "Settore dei servizi generali e tecnici",
+    "sesso": "M",
+    "unita_di_personale": 67
+  },
+  {
+    "area": "Area degli Operatori",
+    "profilo": "Settore socio-sanitario",
+    "sesso": "F",
+    "unita_di_personale": 3
+  },
+  {
+    "area": "Area degli Operatori",
+    "profilo": "Settore socio-sanitario",
+    "sesso": "M",
+    "unita_di_personale": 4
+  },
+  {
+    "area": "Area dei Collaboratori",
+    "profilo": "Settore amministrativo",
+    "sesso": "F",
+    "unita_di_personale": 172
+  },
+  {
+    "area": "Area dei Collaboratori",
+    "profilo": "Settore amministrativo",
+    "sesso": "M",
+    "unita_di_personale": 111
+  },
+  {
+    "area": "Area dei Collaboratori",
+    "profilo": "Settore della comunicazione e informazione",
+    "sesso": "F",
+    "unita_di_personale": 1
+  },
+  {
+    "area": "Area dei Collaboratori",
+    "profilo": "Settore della comunicazione e informazione",
+    "sesso": "M",
+    "unita_di_personale": 1
+  },
+  {
+    "area": "Area dei Collaboratori",
+    "profilo": "Settore delle biblioteche",
+    "sesso": "F",
+    "unita_di_personale": 18
+  },
+  {
+    "area": "Area dei Collaboratori",
+    "profilo": "Settore delle biblioteche",
+    "sesso": "M",
+    "unita_di_personale": 10
+  },
+  {
+    "area": "Area dei Collaboratori",
+    "profilo": "Settore socio-sanitario",
+    "sesso": "F",
+    "unita_di_personale": 98
+  },
+  {
+    "area": "Area dei Collaboratori",
+    "profilo": "Settore socio-sanitario",
+    "sesso": "M",
+    "unita_di_personale": 57
+  },
+  {
+    "area": "Area dei Collaboratori",
+    "profilo": "Settore tecnico, scientifico, tecnologico, informatico e dei servizi generali",
+    "sesso": "F",
+    "unita_di_personale": 32
+  },
+  {
+    "area": "Area dei Collaboratori",
+    "profilo": "Settore tecnico, scientifico, tecnologico, informatico e dei servizi generali",
+    "sesso": "M",
+    "unita_di_personale": 63
+  },
+  {
+    "area": "Area dei Funzionari",
+    "profilo": "Settore amministrativo - dipartimentale",
+    "sesso": "F",
+    "unita_di_personale": 19
+  },
+  {
+    "area": "Area dei Funzionari",
+    "profilo": "Settore amministrativo - dipartimentale",
+    "sesso": "M",
+    "unita_di_personale": 13
+  },
+  {
+    "area": "Area dei Funzionari",
+    "profilo": "Settore amministrativo - gestionale",
+    "sesso": "F",
+    "unita_di_personale": 61
+  },
+  {
+    "area": "Area dei Funzionari",
+    "profilo": "Settore amministrativo - gestionale",
+    "sesso": "M",
+    "unita_di_personale": 38
+  },
+  {
+    "area": "Area dei Funzionari",
+    "profilo": "Settore della comunicazione e informazione",
+    "sesso": "M",
+    "unita_di_personale": 1
+  },
+  {
+    "area": "Area dei Funzionari",
+    "profilo": "Settore delle biblioteche",
+    "sesso": "F",
+    "unita_di_personale": 9
+  },
+  {
+    "area": "Area dei Funzionari",
+    "profilo": "Settore delle biblioteche",
+    "sesso": "M",
+    "unita_di_personale": 2
+  },
+  {
+    "area": "Area dei Funzionari",
+    "profilo": "Settore scientifico - tecnologico",
+    "sesso": "F",
+    "unita_di_personale": 8
+  },
+  {
+    "area": "Area dei Funzionari",
+    "profilo": "Settore scientifico - tecnologico",
+    "sesso": "M",
+    "unita_di_personale": 10
+  },
+  {
+    "area": "Area dei Funzionari",
+    "profilo": "Settore socio-sanitario",
+    "sesso": "F",
+    "unita_di_personale": 6
+  },
+  {
+    "area": "Area dei Funzionari",
+    "profilo": "Settore socio-sanitario",
+    "sesso": "M",
+    "unita_di_personale": 3
+  },
+  {
+    "area": "Area dei Funzionari",
+    "profilo": "Settore tecnico - informatico",
+    "sesso": "F",
+    "unita_di_personale": 12
+  },
+  {
+    "area": "Area dei Funzionari",
+    "profilo": "Settore tecnico - informatico",
+    "sesso": "M",
+    "unita_di_personale": 27
+  },
+  {
+    "area": "Area delle Elevate Professionalità",
+    "profilo": "Settore amministrativo - dipartimentale",
+    "sesso": "F",
+    "unita_di_personale": 2
+  },
+  {
+    "area": "Area delle Elevate Professionalità",
+    "profilo": "Settore amministrativo - gestionale",
+    "sesso": "F",
+    "unita_di_personale": 12
+  },
+  {
+    "area": "Area delle Elevate Professionalità",
+    "profilo": "Settore amministrativo - gestionale",
+    "sesso": "M",
+    "unita_di_personale": 4
+  },
+  {
+    "area": "Area delle Elevate Professionalità",
+    "profilo": "Settore della comunicazione e informazione",
+    "sesso": "F",
+    "unita_di_personale": 1
+  },
+  {
+    "area": "Area delle Elevate Professionalità",
+    "profilo": "Settore delle biblioteche",
+    "sesso": "F",
+    "unita_di_personale": 1
+  },
+  {
+    "area": "Area delle Elevate Professionalità",
+    "profilo": "Settore medico-odontoiatrico e socio-sanitario",
+    "sesso": "M",
+    "unita_di_personale": 2
+  },
+  {
+    "area": "Area delle Elevate Professionalità",
+    "profilo": "Settore scientifico - tecnologico",
+    "sesso": "F",
+    "unita_di_personale": 4
+  },
+  {
+    "area": "Area delle Elevate Professionalità",
+    "profilo": "Settore tecnico - informatico",
+    "sesso": "F",
+    "unita_di_personale": 1
+  },
+  {
+    "area": "Area delle Elevate Professionalità",
+    "profilo": "Settore tecnico - informatico",
+    "sesso": "M",
+    "unita_di_personale": 2
+  },
+  {
+    "area": "Collaboratori",
+    "profilo": "Settore amministrativo",
+    "sesso": "F",
+    "unita_di_personale": 20
+  },
+  {
+    "area": "Collaboratori",
+    "profilo": "Settore amministrativo",
+    "sesso": "M",
+    "unita_di_personale": 22
+  },
+  {
+    "area": "Collaboratori",
+    "profilo": "Settore delle biblioteche",
+    "sesso": "F",
+    "unita_di_personale": 3
+  },
+  {
+    "area": "Collaboratori",
+    "profilo": "Settore delle biblioteche",
+    "sesso": "M",
+    "unita_di_personale": 2
+  },
+  {
+    "area": "Collaboratori",
+    "profilo": "Settore socio-sanitario",
+    "sesso": "F",
+    "unita_di_personale": 18
+  },
+  {
+    "area": "Collaboratori",
+    "profilo": "Settore socio-sanitario",
+    "sesso": "M",
+    "unita_di_personale": 11
+  },
+  {
+    "area": "Collaboratori",
+    "profilo": "Settore tecnico, scientifico, tecnologico, informatico e dei servizi generali",
+    "sesso": "F",
+    "unita_di_personale": 4
+  },
+  {
+    "area": "Collaboratori",
+    "profilo": "Settore tecnico, scientifico, tecnologico, informatico e dei servizi generali",
+    "sesso": "M",
+    "unita_di_personale": 13
+  },
+  {
+    "area": "Elevate professionalita'",
+    "profilo": "Settore amministrativo - gestionale",
+    "sesso": "M",
+    "unita_di_personale": 2
+  },
+  {
+    "area": "Funzionari",
+    "profilo": "Settore amministrativo - dipartimentale",
+    "sesso": "F",
+    "unita_di_personale": 2
+  },
+  {
+    "area": "Funzionari",
+    "profilo": "Settore amministrativo - dipartimentale",
+    "sesso": "M",
+    "unita_di_personale": 4
+  },
+  {
+    "area": "Funzionari",
+    "profilo": "Settore amministrativo - gestionale",
+    "sesso": "F",
+    "unita_di_personale": 4
+  },
+  {
+    "area": "Funzionari",
+    "profilo": "Settore amministrativo - gestionale",
+    "sesso": "M",
+    "unita_di_personale": 8
+  },
+  {
+    "area": "Funzionari",
+    "profilo": "Settore delle biblioteche",
+    "sesso": "F",
+    "unita_di_personale": 2
+  },
+  {
+    "area": "Funzionari",
+    "profilo": "Settore delle biblioteche",
+    "sesso": "M",
+    "unita_di_personale": 3
+  },
+  {
+    "area": "Funzionari",
+    "profilo": "Settore scientifico - tecnologico",
+    "sesso": "F",
+    "unita_di_personale": 1
+  },
+  {
+    "area": "Funzionari",
+    "profilo": "Settore scientifico - tecnologico",
+    "sesso": "M",
+    "unita_di_personale": 1
+  },
+  {
+    "area": "Funzionari",
+    "profilo": "Settore socio-sanitario",
+    "sesso": "M",
+    "unita_di_personale": 1
+  },
+  {
+    "area": "Funzionari",
+    "profilo": "Settore tecnico - informatico",
+    "sesso": "M",
+    "unita_di_personale": 4
+  },
+  {
+    "area": "Operatori",
+    "profilo": "Settore amministrativo",
+    "sesso": "F",
+    "unita_di_personale": 3
+  },
+  {
+    "area": "Operatori",
+    "profilo": "Settore amministrativo",
+    "sesso": "M",
+    "unita_di_personale": 3
+  },
+  {
+    "area": "Operatori",
+    "profilo": "Settore dei servizi generali e tecnici",
+    "sesso": "F",
+    "unita_di_personale": 2
+  },
+  {
+    "area": "Operatori",
+    "profilo": "Settore dei servizi generali e tecnici",
+    "sesso": "M",
+    "unita_di_personale": 16
+  },
+  {
+    "area": "Operatori",
+    "profilo": "Settore socio-sanitario",
+    "sesso": "F",
+    "unita_di_personale": 1
+  }
+]
