@@ -1,1 +1,4690 @@
-
+[
+  {
+    "dipartimento": "DIPARTIMENTO DELLA DONNA, DEL BAMBINO E DI CHIRURGIA GENERALE E SPECIALISTICA",
+    "corso_studio": "INFERMIERISTICA PEDIATRICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE PEDIATRICO)",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 749,
+    "esami_sostenuti_mschi": 8,
+    "esami_totali": 757
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DELLA DONNA, DEL BAMBINO E DI CHIRURGIA GENERALE E SPECIALISTICA",
+    "corso_studio": "OSTETRICIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI OSTETRICA/O)",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 400,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 400
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DELLA DONNA, DEL BAMBINO E DI CHIRURGIA GENERALE E SPECIALISTICA",
+    "corso_studio": "OSTETRICIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI OSTETRICA/O) - A.O. S.SEBASTIANO E S.ANNA CASERTA",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 159,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 159
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "ARCHITETTURA",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 1773,
+    "esami_sostenuti_mschi": 1731,
+    "esami_totali": 3504
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "ARCHITETTURA - PROGETTAZIONE DEGLI INTERNI E PER L'AUTONOMIA",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 252,
+    "esami_sostenuti_mschi": 84,
+    "esami_totali": 336
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "ARCHITETTURA N.O.",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 2,
+    "esami_sostenuti_mschi": 4,
+    "esami_totali": 6
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "ARCHITETTURA (U.E.)",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 1,
+    "esami_sostenuti_mschi": 4,
+    "esami_totali": 5
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "DESIGN E COMUNICAZIONE",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 1723,
+    "esami_sostenuti_mschi": 1037,
+    "esami_totali": 2760
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "DESIGN PER LA MODA",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 2078,
+    "esami_sostenuti_mschi": 338,
+    "esami_totali": 2416
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "DESIGN PER L'INNOVAZIONE",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 976,
+    "esami_sostenuti_mschi": 325,
+    "esami_totali": 1301
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "SCIENZE DELL'ARCHITETTURA",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 2,
+    "esami_sostenuti_mschi": 2,
+    "esami_totali": 4
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "SCIENZE DELL'ARCHITETTURA E DELL'INGEGNERIA",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 0,
+    "esami_sostenuti_mschi": 1,
+    "esami_totali": 1
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "SCIENZE E TECNICHE DELL'EDILIZIA",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 305,
+    "esami_sostenuti_mschi": 433,
+    "esami_totali": 738
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "corso_studio": "ECONOMIA AZIENDALE",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 2422,
+    "esami_sostenuti_mschi": 2747,
+    "esami_totali": 5169
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "corso_studio": "ECONOMIA AZIENDALE (N.O.)",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 9,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 9
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "corso_studio": "ECONOMIA E COMMERCIO",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 457,
+    "esami_sostenuti_mschi": 629,
+    "esami_totali": 1086
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "corso_studio": "ECONOMIA E LEGISLAZIONE D'IMPRESA",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 1,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 1
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "corso_studio": "ECONOMIA E MANAGEMENT",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 1052,
+    "esami_sostenuti_mschi": 1003,
+    "esami_totali": 2055
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "corso_studio": "ECONOMIA E PROFESSIONI",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 0,
+    "esami_sostenuti_mschi": 1,
+    "esami_totali": 1
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "corso_studio": "ECONOMIA, FINANZA E MERCATI",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 577,
+    "esami_sostenuti_mschi": 721,
+    "esami_totali": 1298
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "corso_studio": "GIURISPRUDENZA",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 2595,
+    "esami_sostenuti_mschi": 1293,
+    "esami_totali": 3888
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "corso_studio": "RELAZIONI INTERNAZIONALI",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 1,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 1
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "corso_studio": "SCIENZE DEI SERVIZI GIURIDICI",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 781,
+    "esami_sostenuti_mschi": 377,
+    "esami_totali": 1158
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "corso_studio": "SCIENZE GIURIDICHE",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 7,
+    "esami_sostenuti_mschi": 1,
+    "esami_totali": 8
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA AEROSPAZIALE",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 57,
+    "esami_sostenuti_mschi": 191,
+    "esami_totali": 248
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA AEROSPAZIALE, MECCANICA, ENERGETICA",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 298,
+    "esami_sostenuti_mschi": 1172,
+    "esami_totali": 1470
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA AEROSPAZIALE-MECCANICA",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 135,
+    "esami_sostenuti_mschi": 471,
+    "esami_totali": 606
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA CIVILE",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 139,
+    "esami_sostenuti_mschi": 367,
+    "esami_totali": 506
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA CIVILE - EDILE -  AMBIENTALE",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 197,
+    "esami_sostenuti_mschi": 470,
+    "esami_totali": 667
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA CIVILE E AMBIENTALE",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 6,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 6
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA CIVILE-AMBIENTALE",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 6,
+    "esami_sostenuti_mschi": 17,
+    "esami_totali": 23
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA ELETTRONICA",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 55,
+    "esami_sostenuti_mschi": 139,
+    "esami_totali": 194
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA ELETTRONICA E INFORMATICA",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 403,
+    "esami_sostenuti_mschi": 1472,
+    "esami_totali": 1875
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA GESTIONALE",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 4,
+    "esami_sostenuti_mschi": 18,
+    "esami_totali": 22
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA INFORMATICA",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 116,
+    "esami_sostenuti_mschi": 353,
+    "esami_totali": 469
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA MECCANICA",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 129,
+    "esami_sostenuti_mschi": 616,
+    "esami_totali": 745
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA PER L'ENERGIA E L'AMBIENTE",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 45,
+    "esami_sostenuti_mschi": 104,
+    "esami_totali": 149
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "TECNICHE PER L'EDILIZIA, IL TERRITORIO E L'AMBIENTE",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 0,
+    "esami_sostenuti_mschi": 58,
+    "esami_totali": 58
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "corso_studio": "ARCHEOLOGIA E STORIA DELL'ARTE",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 458,
+    "esami_sostenuti_mschi": 144,
+    "esami_totali": 602
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "corso_studio": "CONSERVAZIONE DEI BENI CULTURALI",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 631,
+    "esami_sostenuti_mschi": 220,
+    "esami_totali": 851
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "corso_studio": "FILOLOGIA CLASSICA E MODERNA",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 866,
+    "esami_sostenuti_mschi": 174,
+    "esami_totali": 1040
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "corso_studio": "LETTERE",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 2112,
+    "esami_sostenuti_mschi": 391,
+    "esami_totali": 2503
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "corso_studio": "SCIENZE DEL TURISMO PER I BENI CULTURALI",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 2,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 2
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "corso_studio": "DATA ANALYTICS",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 122,
+    "esami_sostenuti_mschi": 287,
+    "esami_totali": 409
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "corso_studio": "FISICA",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 84,
+    "esami_sostenuti_mschi": 174,
+    "esami_totali": 258
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "corso_studio": "MATEMATICA",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 783,
+    "esami_sostenuti_mschi": 302,
+    "esami_totali": 1085
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "corso_studio": "MATEMATICA E INFORMATICA",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 2,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 2
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "corso_studio": "MATEMATICA (N.O.)",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 1,
+    "esami_sostenuti_mschi": 3,
+    "esami_totali": 4
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "corso_studio": "PHYSICS",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 9,
+    "esami_sostenuti_mschi": 17,
+    "esami_totali": 26
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "MEDICINA E CHIRURGIA -  IN LINGUA INGLESE",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 867,
+    "esami_sostenuti_mschi": 870,
+    "esami_totali": 1737
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI LABORATORIO BIOMEDICO (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI LABORATORIO BIOMEDICO) -  A.O. CARDARELLI - NAPOLI",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 242,
+    "esami_sostenuti_mschi": 48,
+    "esami_totali": 290
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI LABORATORIO BIOMEDICO (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI LABORATORIO BIOMEDICO) -  ASL CE - MARCIANISE",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 202,
+    "esami_sostenuti_mschi": 49,
+    "esami_totali": 251
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI LABORATORIO BIOMEDICO (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI LABORATORIO BIOMEDICO) -  VANVITELLI",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 270,
+    "esami_sostenuti_mschi": 57,
+    "esami_totali": 327
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI LABORATORIO BIOMEDICO SEDE S.U.N.",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 1,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 1
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI RADIOLOGIA MEDICA, PER IMMAGINI E RADIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI RADIOLOGIA MEDICA) -  A.O. CARDARELLI - NAPOLI",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 109,
+    "esami_sostenuti_mschi": 133,
+    "esami_totali": 242
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI RADIOLOGIA MEDICA, PER IMMAGINI E RADIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI RADIOLOGIA MEDICA) -  A.O. S. G. MOSCATI AVELLINO",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 111,
+    "esami_sostenuti_mschi": 125,
+    "esami_totali": 236
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI RADIOLOGIA MEDICA, PER IMMAGINI E RADIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI RADIOLOGIA MEDICA) -  A.O. S. SEBASTIANO E S. ANNA - CASERTA",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 119,
+    "esami_sostenuti_mschi": 122,
+    "esami_totali": 241
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI RADIOLOGIA MEDICA, PER IMMAGINI E RADIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI RADIOLOGIA MEDICA) -  ASL NA 1",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 103,
+    "esami_sostenuti_mschi": 90,
+    "esami_totali": 193
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI RADIOLOGIA MEDICA, PER IMMAGINI E RADIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI RADIOLOGIA MEDICA) -  VANVITELLI",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 99,
+    "esami_sostenuti_mschi": 149,
+    "esami_totali": 248
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "corso_studio": "INFORMATORE MEDICO SCIENTIFICO",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 53,
+    "esami_sostenuti_mschi": 40,
+    "esami_totali": 93
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "corso_studio": "MEDICINA E CHIRURGIA",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 10,
+    "esami_sostenuti_mschi": 12,
+    "esami_totali": 22
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "corso_studio": "MEDICINA E CHIRURGIA -  NAPOLI",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 7373,
+    "esami_sostenuti_mschi": 5570,
+    "esami_totali": 12943
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "corso_studio": "MEDICINA E CHIRURGIA (N.O.)",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 1,
+    "esami_sostenuti_mschi": 3,
+    "esami_totali": 4
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "corso_studio": "MEDICINA E CHIRURGIA (N.O) SEDE DI NAPOLI",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 78,
+    "esami_sostenuti_mschi": 38,
+    "esami_totali": 116
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "corso_studio": "SCIENZE INFERMIERISTICHE E OSTETRICHE",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 454,
+    "esami_sostenuti_mschi": 318,
+    "esami_totali": 772
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "corso_studio": "TECNICHE DELLA PREVENZIONE NELL'AMBIENTE E NEI LUOGHI DI LAVORO (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DELLA PREVENZIONE NELL'AMBIENTE E NEI LUOGHI DI LAVORO)",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 199,
+    "esami_sostenuti_mschi": 199,
+    "esami_totali": 398
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "PSICOLOGIA",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 2,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 2
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "PSICOLOGIA  APPLICATA",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 990,
+    "esami_sostenuti_mschi": 159,
+    "esami_totali": 1149
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "PSICOLOGIA  APPLICATA AI CONTESTI ISTITUZIONALI",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 58,
+    "esami_sostenuti_mschi": 7,
+    "esami_totali": 65
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "PSICOLOGIA CLINICA",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 929,
+    "esami_sostenuti_mschi": 203,
+    "esami_totali": 1132
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "PSICOLOGIA CLINICA E DELLO SVILUPPO",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 3,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 3
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "PSICOLOGIA DEI PROCESSI COGNITIVI",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 600,
+    "esami_sostenuti_mschi": 145,
+    "esami_totali": 745
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "PSICOLOGIA DEI PROCESSI DI SVILUPPO E DI APPRENDIMENTO",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 1,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 1
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "SCIENZE E TECNICHE PSICOLOGICHE",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 3717,
+    "esami_sostenuti_mschi": 817,
+    "esami_totali": 4534
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "SCIENZE E TECNICHE PSICOLOGICHE PER LA PERSONA E LA COMUNITA'",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 20,
+    "esami_sostenuti_mschi": 6,
+    "esami_totali": 26
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SALUTE MENTALE E FISICA E MEDICINA PREVENTIVA",
+    "corso_studio": "LOGOPEDIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI LOGOPEDISTA) -  ASL AV",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 698,
+    "esami_sostenuti_mschi": 46,
+    "esami_totali": 744
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SALUTE MENTALE E FISICA E MEDICINA PREVENTIVA",
+    "corso_studio": "LOGOPEDIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI LOGOPEDISTA) -  Vanvitelli",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 662,
+    "esami_sostenuti_mschi": 63,
+    "esami_totali": 725
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SALUTE MENTALE E FISICA E MEDICINA PREVENTIVA",
+    "corso_studio": "TECNICA DELLA RIABILITAZIONE PSICHIATRICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DELLA RIABILITAZIONE PSICHIATRICA)",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 398,
+    "esami_sostenuti_mschi": 35,
+    "esami_totali": 433
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SALUTE MENTALE E FISICA E MEDICINA PREVENTIVA",
+    "corso_studio": "TERAPIA DELLA NEURO E PSICOMOTRICITÀ DELL'ETÀ EVOLUTIVA (ABILITANTE ALLA PROFESSIONE SANITARIA  DI TERAPISTA DELLA NEURO E PSICOMOTRICITÀ DELL'ETÀ EVOLUTIVA) -  A.S.L. AV - Grottaminarda",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 436,
+    "esami_sostenuti_mschi": 53,
+    "esami_totali": 489
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SALUTE MENTALE E FISICA E MEDICINA PREVENTIVA",
+    "corso_studio": "TERAPIA DELLA NEURO E PSICOMOTRICITÀ DELL'ETÀ EVOLUTIVA (ABILITANTE ALLA PROFESSIONE SANITARIA  DI TERAPISTA DELLA NEURO E PSICOMOTRICITÀ DELL'ETÀ EVOLUTIVA) -  Vanvitelli",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 945,
+    "esami_sostenuti_mschi": 103,
+    "esami_totali": 1048
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SALUTE MENTALE E FISICA E MEDICINA PREVENTIVA",
+    "corso_studio": "TERAPIA DELLA NEURO E PSICOMOTRICITA' DELL'ETA' EVOLUTIVA SEDE S.U.N.",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 2,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 2
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "BIOLOGIA",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 587,
+    "esami_sostenuti_mschi": 115,
+    "esami_totali": 702
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "BIOTECNOLOGIE",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 630,
+    "esami_sostenuti_mschi": 215,
+    "esami_totali": 845
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "BIOTECNOLOGIE PER LA SALUTE",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 4,
+    "esami_sostenuti_mschi": 2,
+    "esami_totali": 6
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "FARMACIA",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 1226,
+    "esami_sostenuti_mschi": 530,
+    "esami_totali": 1756
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "MOLECULAR BIOTECHNOLOGY",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 61,
+    "esami_sostenuti_mschi": 35,
+    "esami_totali": 96
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "SCIENZE AGRARIE E FORESTALI",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 4,
+    "esami_sostenuti_mschi": 33,
+    "esami_totali": 37
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "SCIENZE AMBIENTALI",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 244,
+    "esami_sostenuti_mschi": 124,
+    "esami_totali": 368
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "SCIENZE BIOLOGICHE",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 1563,
+    "esami_sostenuti_mschi": 405,
+    "esami_totali": 1968
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "SCIENZE BIOLOGICHE (N.O.)",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 9,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 9
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "SCIENZE DEGLI ALIMENTI E DELLA NUTRIZIONE UMANA",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 697,
+    "esami_sostenuti_mschi": 143,
+    "esami_totali": 840
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "SCIENZE E TECNOLOGIE PER L'AMBIENTE E IL TERRITORIO",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 67,
+    "esami_sostenuti_mschi": 79,
+    "esami_totali": 146
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE E CHIRURGICHE AVANZATE",
+    "corso_studio": "MEDICINA E CHIRURGIA",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 1,
+    "esami_sostenuti_mschi": 13,
+    "esami_totali": 14
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE E CHIRURGICHE AVANZATE",
+    "corso_studio": "MEDICINA E CHIRURGIA -  CASERTA",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 7759,
+    "esami_sostenuti_mschi": 5830,
+    "esami_totali": 13589
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE E CHIRURGICHE AVANZATE",
+    "corso_studio": "MEDICINA E CHIRURGIA (N.O) SEDE DI CASERTA",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 2,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 2
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  A.O. DEI COLLI - NAPOLI",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 873,
+    "esami_sostenuti_mschi": 412,
+    "esami_totali": 1285
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  A.O. S. G. MOSCATI AVELLINO",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 2988,
+    "esami_sostenuti_mschi": 1414,
+    "esami_totali": 4402
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  A.O. S. SEBASTIANO E S. ANNA CASERTA",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 950,
+    "esami_sostenuti_mschi": 416,
+    "esami_totali": 1366
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  ARIANO IRPINO",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 597,
+    "esami_sostenuti_mschi": 362,
+    "esami_totali": 959
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  ASL CE AVERSA",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 517,
+    "esami_sostenuti_mschi": 383,
+    "esami_totali": 900
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  ASL CE MADDALONI",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 33,
+    "esami_sostenuti_mschi": 40,
+    "esami_totali": 73
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  ASL NA 1",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 1184,
+    "esami_sostenuti_mschi": 501,
+    "esami_totali": 1685
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  ISTITUTO PASCALE - NAPOLI",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 493,
+    "esami_sostenuti_mschi": 180,
+    "esami_totali": 673
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  Vanvitelli",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 2222,
+    "esami_sostenuti_mschi": 800,
+    "esami_totali": 3022
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "NURSING (INFERMIERISTICA IN LINGUA INGLESE)",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 65,
+    "esami_sostenuti_mschi": 39,
+    "esami_totali": 104
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE",
+    "corso_studio": "RELAZIONI E ORGANIZZAZIONI INTERNAZIONALI",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 180,
+    "esami_sostenuti_mschi": 142,
+    "esami_totali": 322
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE",
+    "corso_studio": "SCIENZE DEL TURISMO",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 508,
+    "esami_sostenuti_mschi": 137,
+    "esami_totali": 645
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE",
+    "corso_studio": "SCIENZE DELLA POLITICA",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 99,
+    "esami_sostenuti_mschi": 157,
+    "esami_totali": 256
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE",
+    "corso_studio": "SCIENZE E TECNICHE DELLE AMMINISTRAZIONI PUBBLICHE",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 252,
+    "esami_sostenuti_mschi": 375,
+    "esami_totali": 627
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE",
+    "corso_studio": "SCIENZE POLITICHE",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 1049,
+    "esami_sostenuti_mschi": 1313,
+    "esami_totali": 2362
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE",
+    "corso_studio": "SCIENZE POLITICHE INTERCLASSE L-16 / L-36",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 9,
+    "esami_sostenuti_mschi": 1,
+    "esami_totali": 10
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "FISIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI FISIOTERAPISTA) -  A.O. CARDARELLI NAPOLI",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 145,
+    "esami_sostenuti_mschi": 361,
+    "esami_totali": 506
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "FISIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI FISIOTERAPISTA) -  A.O. S. G. MOSCATI AVELLINO",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 134,
+    "esami_sostenuti_mschi": 259,
+    "esami_totali": 393
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "FISIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI FISIOTERAPISTA) -  A.S.L. AV - P.O. S. A. DEI LOMBARDI",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 431,
+    "esami_sostenuti_mschi": 722,
+    "esami_totali": 1153
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "FISIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI FISIOTERAPISTA) -  ASL NA 1",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 145,
+    "esami_sostenuti_mschi": 132,
+    "esami_totali": 277
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "FISIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI FISIOTERAPISTA) -  VANVITELLI",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 197,
+    "esami_sostenuti_mschi": 282,
+    "esami_totali": 479
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "IGIENE DENTALE (ABILITANTE ALLA PROFESSIONE SANITARIA DI IGIENISTA DENTALE)",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 176,
+    "esami_sostenuti_mschi": 127,
+    "esami_totali": 303
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "ODONTOIATRIA E PROTESI DENTARIA",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 456,
+    "esami_sostenuti_mschi": 609,
+    "esami_totali": 1065
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "ORTOTTICA ED ASSISTENZA OFTALMOLOGICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI ORTOTTISTA ED ASSISTENTE DI OFTALMOLOGIA)",
+    "anno_solare": 2021,
+    "esami_sostenuti_femmine": 260,
+    "esami_sostenuti_mschi": 31,
+    "esami_totali": 291
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DELLA DONNA, DEL BAMBINO E DI CHIRURGIA GENERALE E SPECIALISTICA",
+    "corso_studio": "INFERMIERISTICA PEDIATRICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE PEDIATRICO)",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 701,
+    "esami_sostenuti_mschi": 14,
+    "esami_totali": 715
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DELLA DONNA, DEL BAMBINO E DI CHIRURGIA GENERALE E SPECIALISTICA",
+    "corso_studio": "OSTETRICIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI OSTETRICA/O)",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 708,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 708
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DELLA DONNA, DEL BAMBINO E DI CHIRURGIA GENERALE E SPECIALISTICA",
+    "corso_studio": "OSTETRICIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI OSTETRICA/O) - A.O. S.SEBASTIANO E S.ANNA CASERTA",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 184,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 184
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DELLA DONNA, DEL BAMBINO E DI CHIRURGIA GENERALE E SPECIALISTICA",
+    "corso_studio": "OSTETRICIA SEDE A.O. CASERTA",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 1,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 1
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "ARCHITETTURA",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 1630,
+    "esami_sostenuti_mschi": 1396,
+    "esami_totali": 3026
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "ARCHITETTURA - PROGETTAZIONE DEGLI INTERNI E PER L'AUTONOMIA",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 157,
+    "esami_sostenuti_mschi": 63,
+    "esami_totali": 220
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "ARCHITETTURA (U.E.)",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 2,
+    "esami_sostenuti_mschi": 7,
+    "esami_totali": 9
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "DESIGN E COMUNICAZIONE",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 1779,
+    "esami_sostenuti_mschi": 873,
+    "esami_totali": 2652
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "DESIGN PER LA MODA",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 1873,
+    "esami_sostenuti_mschi": 408,
+    "esami_totali": 2281
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "DESIGN PER L'INNOVAZIONE",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 1164,
+    "esami_sostenuti_mschi": 317,
+    "esami_totali": 1481
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "SCIENZE DELL'ARCHITETTURA",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 1,
+    "esami_sostenuti_mschi": 2,
+    "esami_totali": 3
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "SCIENZE E TECNICHE DELL'EDILIZIA",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 307,
+    "esami_sostenuti_mschi": 477,
+    "esami_totali": 784
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "corso_studio": "ECONOMIA AZIENDALE",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 2455,
+    "esami_sostenuti_mschi": 2632,
+    "esami_totali": 5087
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "corso_studio": "ECONOMIA AZIENDALE (N.O.)",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 2,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 2
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "corso_studio": "ECONOMIA E COMMERCIO",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 388,
+    "esami_sostenuti_mschi": 545,
+    "esami_totali": 933
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "corso_studio": "ECONOMIA E MANAGEMENT",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 858,
+    "esami_sostenuti_mschi": 811,
+    "esami_totali": 1669
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "corso_studio": "ECONOMIA, FINANZA E MERCATI",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 679,
+    "esami_sostenuti_mschi": 772,
+    "esami_totali": 1451
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "corso_studio": "FINANZA E MERCATI",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 2,
+    "esami_sostenuti_mschi": 1,
+    "esami_totali": 3
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "corso_studio": "GIURISPRUDENZA",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 2180,
+    "esami_sostenuti_mschi": 1219,
+    "esami_totali": 3399
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "corso_studio": "SCIENZE DEI SERVIZI GIURIDICI",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 891,
+    "esami_sostenuti_mschi": 353,
+    "esami_totali": 1244
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "corso_studio": "SCIENZE GIURIDICHE",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 1,
+    "esami_sostenuti_mschi": 1,
+    "esami_totali": 2
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA AEROSPAZIALE",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 65,
+    "esami_sostenuti_mschi": 185,
+    "esami_totali": 250
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA AEROSPAZIALE, MECCANICA, ENERGETICA",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 372,
+    "esami_sostenuti_mschi": 1530,
+    "esami_totali": 1902
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA AEROSPAZIALE-MECCANICA",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 88,
+    "esami_sostenuti_mschi": 144,
+    "esami_totali": 232
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA CIVILE",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 121,
+    "esami_sostenuti_mschi": 334,
+    "esami_totali": 455
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA CIVILE - EDILE -  AMBIENTALE",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 145,
+    "esami_sostenuti_mschi": 432,
+    "esami_totali": 577
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA CIVILE E AMBIENTALE",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 2,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 2
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA CIVILE-AMBIENTALE",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 6,
+    "esami_sostenuti_mschi": 4,
+    "esami_totali": 10
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA ELETTRONICA",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 49,
+    "esami_sostenuti_mschi": 113,
+    "esami_totali": 162
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA ELETTRONICA E INFORMATICA",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 334,
+    "esami_sostenuti_mschi": 1429,
+    "esami_totali": 1763
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA GESTIONALE",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 6,
+    "esami_sostenuti_mschi": 12,
+    "esami_totali": 18
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA INFORMATICA",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 90,
+    "esami_sostenuti_mschi": 267,
+    "esami_totali": 357
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA MECCANICA",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 73,
+    "esami_sostenuti_mschi": 507,
+    "esami_totali": 580
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 0,
+    "esami_sostenuti_mschi": 2,
+    "esami_totali": 2
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA PER L'ENERGIA E L'AMBIENTE",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 27,
+    "esami_sostenuti_mschi": 86,
+    "esami_totali": 113
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "TECNICHE PER L'EDILIZIA, IL TERRITORIO E L'AMBIENTE",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 0,
+    "esami_sostenuti_mschi": 18,
+    "esami_totali": 18
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "TECNICHE PER L'EDILIZIA, IL TERRITORIO E L'AMBIENTE",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 0,
+    "esami_sostenuti_mschi": 51,
+    "esami_totali": 51
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "corso_studio": "ARCHEOLOGIA E STORIA DELL'ARTE",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 421,
+    "esami_sostenuti_mschi": 107,
+    "esami_totali": 528
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "corso_studio": "CONSERVAZIONE DEI BENI CULTURALI",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 745,
+    "esami_sostenuti_mschi": 238,
+    "esami_totali": 983
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "corso_studio": "FILOLOGIA CLASSICA E MODERNA",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 788,
+    "esami_sostenuti_mschi": 156,
+    "esami_totali": 944
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "corso_studio": "LETTERE",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 1983,
+    "esami_sostenuti_mschi": 450,
+    "esami_totali": 2433
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "corso_studio": "SCIENZE DEL TURISMO PER I BENI CULTURALI",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 1,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 1
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "corso_studio": "DATA ANALYTICS",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 218,
+    "esami_sostenuti_mschi": 320,
+    "esami_totali": 538
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "corso_studio": "FISICA",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 81,
+    "esami_sostenuti_mschi": 148,
+    "esami_totali": 229
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "corso_studio": "MATEMATICA",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 737,
+    "esami_sostenuti_mschi": 276,
+    "esami_totali": 1013
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "corso_studio": "MATEMATICA E INFORMATICA",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 3,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 3
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "corso_studio": "MATEMATICA (N.O.)",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 0,
+    "esami_sostenuti_mschi": 1,
+    "esami_totali": 1
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "corso_studio": "PHYSICS",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 10,
+    "esami_sostenuti_mschi": 44,
+    "esami_totali": 54
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "MEDICINA E CHIRURGIA -  IN LINGUA INGLESE",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 1548,
+    "esami_sostenuti_mschi": 1286,
+    "esami_totali": 2834
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI LABORATORIO BIOMEDICO (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI LABORATORIO BIOMEDICO) -  A.O. CARDARELLI - NAPOLI",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 230,
+    "esami_sostenuti_mschi": 69,
+    "esami_totali": 299
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI LABORATORIO BIOMEDICO (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI LABORATORIO BIOMEDICO) -  ASL CE - MARCIANISE",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 122,
+    "esami_sostenuti_mschi": 28,
+    "esami_totali": 150
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI LABORATORIO BIOMEDICO (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI LABORATORIO BIOMEDICO) -  VANVITELLI",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 204,
+    "esami_sostenuti_mschi": 53,
+    "esami_totali": 257
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI RADIOLOGIA MEDICA, PER IMMAGINI E RADIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI RADIOLOGIA MEDICA) -  A.O. CARDARELLI - NAPOLI",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 139,
+    "esami_sostenuti_mschi": 83,
+    "esami_totali": 222
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI RADIOLOGIA MEDICA, PER IMMAGINI E RADIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI RADIOLOGIA MEDICA) -  A.O. S. G. MOSCATI AVELLINO",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 101,
+    "esami_sostenuti_mschi": 125,
+    "esami_totali": 226
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI RADIOLOGIA MEDICA, PER IMMAGINI E RADIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI RADIOLOGIA MEDICA) -  A.O. S. SEBASTIANO E S. ANNA - CASERTA",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 97,
+    "esami_sostenuti_mschi": 123,
+    "esami_totali": 220
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI RADIOLOGIA MEDICA, PER IMMAGINI E RADIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI RADIOLOGIA MEDICA) -  ASL NA 1",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 60,
+    "esami_sostenuti_mschi": 28,
+    "esami_totali": 88
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI RADIOLOGIA MEDICA, PER IMMAGINI E RADIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI RADIOLOGIA MEDICA) -  VANVITELLI",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 110,
+    "esami_sostenuti_mschi": 291,
+    "esami_totali": 401
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "corso_studio": "INFORMATORE MEDICO SCIENTIFICO",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 16,
+    "esami_sostenuti_mschi": 4,
+    "esami_totali": 20
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "corso_studio": "MEDICINA E CHIRURGIA",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 10,
+    "esami_sostenuti_mschi": 17,
+    "esami_totali": 27
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "corso_studio": "MEDICINA E CHIRURGIA -  NAPOLI",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 7587,
+    "esami_sostenuti_mschi": 5191,
+    "esami_totali": 12778
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "corso_studio": "MEDICINA E CHIRURGIA (N.O.)",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 0,
+    "esami_sostenuti_mschi": 15,
+    "esami_totali": 15
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "corso_studio": "MEDICINA E CHIRURGIA (N.O) SEDE DI NAPOLI",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 20,
+    "esami_sostenuti_mschi": 18,
+    "esami_totali": 38
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "corso_studio": "SCIENZE INFERMIERISTICHE E OSTETRICHE",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 564,
+    "esami_sostenuti_mschi": 427,
+    "esami_totali": 991
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "corso_studio": "TECNICHE DELLA PREVENZIONE NELL'AMBIENTE E NEI LUOGHI DI LAVORO (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DELLA PREVENZIONE NELL'AMBIENTE E NEI LUOGHI DI LAVORO)",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 204,
+    "esami_sostenuti_mschi": 161,
+    "esami_totali": 365
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "PSICOLOGIA",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 2,
+    "esami_sostenuti_mschi": 2,
+    "esami_totali": 4
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "PSICOLOGIA  APPLICATA",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 847,
+    "esami_sostenuti_mschi": 130,
+    "esami_totali": 977
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "PSICOLOGIA  APPLICATA AI CONTESTI ISTITUZIONALI",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 31,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 31
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "PSICOLOGIA CLINICA",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 928,
+    "esami_sostenuti_mschi": 127,
+    "esami_totali": 1055
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "PSICOLOGIA CLINICA E DELLO SVILUPPO",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 2,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 2
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "PSICOLOGIA DEI PROCESSI COGNITIVI",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 543,
+    "esami_sostenuti_mschi": 126,
+    "esami_totali": 669
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "PSICOLOGIA DEI PROCESSI DI SVILUPPO E DI APPRENDIMENTO",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 3,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 3
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "SCIENZE E TECNICHE PSICOLOGICHE",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 3941,
+    "esami_sostenuti_mschi": 748,
+    "esami_totali": 4689
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "SCIENZE E TECNICHE PSICOLOGICHE PER LA PERSONA E LA COMUNITA'",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 17,
+    "esami_sostenuti_mschi": 2,
+    "esami_totali": 19
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SALUTE MENTALE E FISICA E MEDICINA PREVENTIVA",
+    "corso_studio": "LOGOPEDIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI LOGOPEDISTA) -  ASL AV",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 649,
+    "esami_sostenuti_mschi": 50,
+    "esami_totali": 699
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SALUTE MENTALE E FISICA E MEDICINA PREVENTIVA",
+    "corso_studio": "LOGOPEDIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI LOGOPEDISTA) -  Vanvitelli",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 632,
+    "esami_sostenuti_mschi": 43,
+    "esami_totali": 675
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SALUTE MENTALE E FISICA E MEDICINA PREVENTIVA",
+    "corso_studio": "TECNICA DELLA RIABILITAZIONE PSICHIATRICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DELLA RIABILITAZIONE PSICHIATRICA)",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 400,
+    "esami_sostenuti_mschi": 17,
+    "esami_totali": 417
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SALUTE MENTALE E FISICA E MEDICINA PREVENTIVA",
+    "corso_studio": "TERAPIA DELLA NEURO E PSICOMOTRICITÀ DELL'ETÀ EVOLUTIVA (ABILITANTE ALLA PROFESSIONE SANITARIA  DI TERAPISTA DELLA NEURO E PSICOMOTRICITÀ DELL'ETÀ EVOLUTIVA) -  A.S.L. AV - Grottaminarda",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 298,
+    "esami_sostenuti_mschi": 30,
+    "esami_totali": 328
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SALUTE MENTALE E FISICA E MEDICINA PREVENTIVA",
+    "corso_studio": "TERAPIA DELLA NEURO E PSICOMOTRICITÀ DELL'ETÀ EVOLUTIVA (ABILITANTE ALLA PROFESSIONE SANITARIA  DI TERAPISTA DELLA NEURO E PSICOMOTRICITÀ DELL'ETÀ EVOLUTIVA) -  Vanvitelli",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 968,
+    "esami_sostenuti_mschi": 112,
+    "esami_totali": 1080
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "BIOLOGIA",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 668,
+    "esami_sostenuti_mschi": 126,
+    "esami_totali": 794
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "BIOTECNOLOGIE",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 738,
+    "esami_sostenuti_mschi": 270,
+    "esami_totali": 1008
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "BIOTECNOLOGIE PER LA SALUTE",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 16,
+    "esami_sostenuti_mschi": 2,
+    "esami_totali": 18
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "FARMACIA",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 1091,
+    "esami_sostenuti_mschi": 408,
+    "esami_totali": 1499
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "MOLECULAR BIOTECHNOLOGY",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 81,
+    "esami_sostenuti_mschi": 41,
+    "esami_totali": 122
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "SCIENZE AGRARIE E FORESTALI",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 31,
+    "esami_sostenuti_mschi": 108,
+    "esami_totali": 139
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "SCIENZE AMBIENTALI",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 257,
+    "esami_sostenuti_mschi": 143,
+    "esami_totali": 400
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "SCIENZE AMBIENTALI CON INDIRIZZO TERRESTRE",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 0,
+    "esami_sostenuti_mschi": 4,
+    "esami_totali": 4
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "SCIENZE BIOLOGICHE",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 1526,
+    "esami_sostenuti_mschi": 381,
+    "esami_totali": 1907
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "SCIENZE BIOLOGICHE (N.O.)",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 8,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 8
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "SCIENZE DEGLI ALIMENTI E DELLA NUTRIZIONE UMANA",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 667,
+    "esami_sostenuti_mschi": 123,
+    "esami_totali": 790
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "SCIENZE E TECNOLOGIE PER L'AMBIENTE E IL TERRITORIO",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 60,
+    "esami_sostenuti_mschi": 69,
+    "esami_totali": 129
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE E CHIRURGICHE AVANZATE",
+    "corso_studio": "MEDICINA E CHIRURGIA",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 1,
+    "esami_sostenuti_mschi": 7,
+    "esami_totali": 8
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE E CHIRURGICHE AVANZATE",
+    "corso_studio": "MEDICINA E CHIRURGIA -  CASERTA",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 7322,
+    "esami_sostenuti_mschi": 5092,
+    "esami_totali": 12414
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE E CHIRURGICHE AVANZATE",
+    "corso_studio": "MEDICINA E CHIRURGIA (N.O) SEDE DI CASERTA",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 1,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 1
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  A.O. DEI COLLI - NAPOLI",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 688,
+    "esami_sostenuti_mschi": 403,
+    "esami_totali": 1091
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  A.O. S. G. MOSCATI AVELLINO",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 2532,
+    "esami_sostenuti_mschi": 1240,
+    "esami_totali": 3772
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  A.O. S. SEBASTIANO E S. ANNA CASERTA",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 743,
+    "esami_sostenuti_mschi": 239,
+    "esami_totali": 982
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  ARIANO IRPINO",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 1137,
+    "esami_sostenuti_mschi": 560,
+    "esami_totali": 1697
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  ASL CE AVERSA",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 500,
+    "esami_sostenuti_mschi": 337,
+    "esami_totali": 837
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  ASL CE MADDALONI",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 2,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 2
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  ASL NA 1",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 1317,
+    "esami_sostenuti_mschi": 623,
+    "esami_totali": 1940
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  ISTITUTO PASCALE - NAPOLI",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 712,
+    "esami_sostenuti_mschi": 268,
+    "esami_totali": 980
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  Vanvitelli",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 2263,
+    "esami_sostenuti_mschi": 892,
+    "esami_totali": 3155
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA SEDE S.U.N.",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 1,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 1
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "NURSING (INFERMIERISTICA IN LINGUA INGLESE)",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 112,
+    "esami_sostenuti_mschi": 38,
+    "esami_totali": 150
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE",
+    "corso_studio": "RELAZIONI E ORGANIZZAZIONI INTERNAZIONALI",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 190,
+    "esami_sostenuti_mschi": 97,
+    "esami_totali": 287
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE",
+    "corso_studio": "SCIENZE DEL TURISMO",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 430,
+    "esami_sostenuti_mschi": 129,
+    "esami_totali": 559
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE",
+    "corso_studio": "SCIENZE DELLA POLITICA",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 162,
+    "esami_sostenuti_mschi": 163,
+    "esami_totali": 325
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE",
+    "corso_studio": "SCIENZE E TECNICHE DELLE AMMINISTRAZIONI PUBBLICHE",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 343,
+    "esami_sostenuti_mschi": 353,
+    "esami_totali": 696
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE",
+    "corso_studio": "SCIENZE POLITICHE",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 1159,
+    "esami_sostenuti_mschi": 1225,
+    "esami_totali": 2384
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE",
+    "corso_studio": "SCIENZE POLITICHE INTERCLASSE L-16 / L-36",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 3,
+    "esami_sostenuti_mschi": 5,
+    "esami_totali": 8
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE",
+    "corso_studio": "SCIENZE POLITICHE (SEDE DIDATTICA UNIVERSITA' DEL SANNIO)",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 1,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 1
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "FISIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI FISIOTERAPISTA) -  A.O. CARDARELLI NAPOLI",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 101,
+    "esami_sostenuti_mschi": 335,
+    "esami_totali": 436
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "FISIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI FISIOTERAPISTA) -  A.O. S. G. MOSCATI AVELLINO",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 113,
+    "esami_sostenuti_mschi": 364,
+    "esami_totali": 477
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "FISIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI FISIOTERAPISTA) -  A.S.L. AV - P.O. S. A. DEI LOMBARDI",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 447,
+    "esami_sostenuti_mschi": 702,
+    "esami_totali": 1149
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "FISIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI FISIOTERAPISTA) -  ASL NA 1",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 75,
+    "esami_sostenuti_mschi": 58,
+    "esami_totali": 133
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "FISIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI FISIOTERAPISTA) -  VANVITELLI",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 244,
+    "esami_sostenuti_mschi": 323,
+    "esami_totali": 567
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "IGIENE DENTALE (ABILITANTE ALLA PROFESSIONE SANITARIA DI IGIENISTA DENTALE)",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 182,
+    "esami_sostenuti_mschi": 119,
+    "esami_totali": 301
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "ODONTOIATRIA E PROTESI DENTARIA",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 430,
+    "esami_sostenuti_mschi": 491,
+    "esami_totali": 921
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "ORTOTTICA ED ASSISTENZA OFTALMOLOGICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI ORTOTTISTA ED ASSISTENTE DI OFTALMOLOGIA)",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 83,
+    "esami_sostenuti_mschi": 77,
+    "esami_totali": 160
+  },
+  {
+    "dipartimento": "FACOLTA' DI SCIENZE DEL FARMACO PER L'AMBIENTE E LA SALUTE",
+    "corso_studio": "LAUREA MAGISTRALE A CICLO UNICO IN  FARMACIA -  Corso fittizio",
+    "anno_solare": 2022,
+    "esami_sostenuti_femmine": 0,
+    "esami_sostenuti_mschi": 1,
+    "esami_totali": 1
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DELLA DONNA, DEL BAMBINO E DI CHIRURGIA GENERALE E SPECIALISTICA",
+    "corso_studio": "INFERMIERISTICA PEDIATRICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE PEDIATRICO)",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 952,
+    "esami_sostenuti_mschi": 29,
+    "esami_totali": 981
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DELLA DONNA, DEL BAMBINO E DI CHIRURGIA GENERALE E SPECIALISTICA",
+    "corso_studio": "OSTETRICIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI OSTETRICA/O)",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 624,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 624
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DELLA DONNA, DEL BAMBINO E DI CHIRURGIA GENERALE E SPECIALISTICA",
+    "corso_studio": "OSTETRICIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI OSTETRICA/O) - A.O. S.SEBASTIANO E S.ANNA CASERTA",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 133,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 133
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "ARCHITETTURA",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 1689,
+    "esami_sostenuti_mschi": 1542,
+    "esami_totali": 3231
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "ARCHITETTURA - PROGETTAZIONE DEGLI INTERNI E PER L'AUTONOMIA",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 176,
+    "esami_sostenuti_mschi": 79,
+    "esami_totali": 255
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "ARCHITETTURA N.O.",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 3,
+    "esami_sostenuti_mschi": 1,
+    "esami_totali": 4
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "ARCHITETTURA (U.E.)",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 2,
+    "esami_sostenuti_mschi": 4,
+    "esami_totali": 6
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "ARCHITETTURA V.O.",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 1,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 1
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "DESIGN E COMUNICAZIONE",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 1805,
+    "esami_sostenuti_mschi": 910,
+    "esami_totali": 2715
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "DESIGN PER LA MODA",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 1958,
+    "esami_sostenuti_mschi": 455,
+    "esami_totali": 2413
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "DESIGN PER L'INNOVAZIONE",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 853,
+    "esami_sostenuti_mschi": 251,
+    "esami_totali": 1104
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "SCIENZE E TECNICHE DELL'EDILIZIA",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 297,
+    "esami_sostenuti_mschi": 516,
+    "esami_totali": 813
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "corso_studio": "ECONOMIA AZIENDALE",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 2093,
+    "esami_sostenuti_mschi": 2322,
+    "esami_totali": 4415
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "corso_studio": "ECONOMIA AZIENDALE (N.O.)",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 3,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 3
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "corso_studio": "ECONOMIA E COMMERCIO",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 350,
+    "esami_sostenuti_mschi": 524,
+    "esami_totali": 874
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "corso_studio": "ECONOMIA E MANAGEMENT",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 791,
+    "esami_sostenuti_mschi": 699,
+    "esami_totali": 1490
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "corso_studio": "ECONOMIA, FINANZA E MERCATI",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 602,
+    "esami_sostenuti_mschi": 738,
+    "esami_totali": 1340
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "corso_studio": "Diritto della Sicurezza e dell'Innovazione Tecnologica (LM/SC- Giur)",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 1,
+    "esami_sostenuti_mschi": 3,
+    "esami_totali": 4
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "corso_studio": "GIURISPRUDENZA",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 2131,
+    "esami_sostenuti_mschi": 1132,
+    "esami_totali": 3263
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "corso_studio": "SCIENZE DEI SERVIZI GIURIDICI",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 909,
+    "esami_sostenuti_mschi": 371,
+    "esami_totali": 1280
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "corso_studio": "SCIENZE GIURIDICHE",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 2,
+    "esami_sostenuti_mschi": 1,
+    "esami_totali": 3
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "corso_studio": "SERV.GIURIDICI-OPERAT.ATTIV.GIUR.DELLE IMP.E P.A. EUR.E INT.",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 1,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 1
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA AEROSPAZIALE",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 73,
+    "esami_sostenuti_mschi": 159,
+    "esami_totali": 232
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA AEROSPAZIALE, MECCANICA, ENERGETICA",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 477,
+    "esami_sostenuti_mschi": 2069,
+    "esami_totali": 2546
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA AEROSPAZIALE-MECCANICA",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 26,
+    "esami_sostenuti_mschi": 112,
+    "esami_totali": 138
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA BIOMEDICA",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 150,
+    "esami_sostenuti_mschi": 129,
+    "esami_totali": 279
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA CIVILE",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 105,
+    "esami_sostenuti_mschi": 241,
+    "esami_totali": 346
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA CIVILE - EDILE -  AMBIENTALE",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 184,
+    "esami_sostenuti_mschi": 513,
+    "esami_totali": 697
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA CIVILE-AMBIENTALE",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 2,
+    "esami_sostenuti_mschi": 5,
+    "esami_totali": 7
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA ELETTRONICA",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 75,
+    "esami_sostenuti_mschi": 113,
+    "esami_totali": 188
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA ELETTRONICA E INFORMATICA",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 282,
+    "esami_sostenuti_mschi": 1474,
+    "esami_totali": 1756
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA GESTIONALE",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 187,
+    "esami_sostenuti_mschi": 397,
+    "esami_totali": 584
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA INFORMATICA",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 83,
+    "esami_sostenuti_mschi": 294,
+    "esami_totali": 377
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA MECCANICA",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 60,
+    "esami_sostenuti_mschi": 298,
+    "esami_totali": 358
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA PER L'AMBIENTE E IL TERRITORIO",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 0,
+    "esami_sostenuti_mschi": 3,
+    "esami_totali": 3
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA PER L'ENERGIA E L'AMBIENTE",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 20,
+    "esami_sostenuti_mschi": 32,
+    "esami_totali": 52
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "TECNICHE PER L'EDILIZIA, IL TERRITORIO E L'AMBIENTE",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 0,
+    "esami_sostenuti_mschi": 22,
+    "esami_totali": 22
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "TECNICHE PER L'EDILIZIA, IL TERRITORIO E L'AMBIENTE",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 0,
+    "esami_sostenuti_mschi": 11,
+    "esami_totali": 11
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "corso_studio": "ARCHEOLOGIA E STORIA DELL'ARTE",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 373,
+    "esami_sostenuti_mschi": 117,
+    "esami_totali": 490
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "corso_studio": "CONSERVAZIONE DEI BENI CULTURALI",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 666,
+    "esami_sostenuti_mschi": 219,
+    "esami_totali": 885
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "corso_studio": "FILOLOGIA CLASSICA E MODERNA",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 800,
+    "esami_sostenuti_mschi": 134,
+    "esami_totali": 934
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "corso_studio": "LETTERE",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 2264,
+    "esami_sostenuti_mschi": 435,
+    "esami_totali": 2699
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "corso_studio": "SCIENZE DEL TURISMO PER I BENI CULTURALI",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 0,
+    "esami_sostenuti_mschi": 1,
+    "esami_totali": 1
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "corso_studio": "DATA ANALYTICS",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 616,
+    "esami_sostenuti_mschi": 910,
+    "esami_totali": 1526
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "corso_studio": "DATA SCIENCE",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 10,
+    "esami_sostenuti_mschi": 33,
+    "esami_totali": 43
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "corso_studio": "FISICA",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 82,
+    "esami_sostenuti_mschi": 133,
+    "esami_totali": 215
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "corso_studio": "MATEMATICA",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 741,
+    "esami_sostenuti_mschi": 268,
+    "esami_totali": 1009
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "corso_studio": "PHYSICS",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 8,
+    "esami_sostenuti_mschi": 39,
+    "esami_totali": 47
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "MEDICINA E CHIRURGIA -  IN LINGUA INGLESE",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 1818,
+    "esami_sostenuti_mschi": 1430,
+    "esami_totali": 3248
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI LABORATORIO BIOMEDICO (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI LABORATORIO BIOMEDICO) -  A.O. CARDARELLI - NAPOLI",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 170,
+    "esami_sostenuti_mschi": 58,
+    "esami_totali": 228
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI LABORATORIO BIOMEDICO (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI LABORATORIO BIOMEDICO) -  ASL CE - MARCIANISE",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 166,
+    "esami_sostenuti_mschi": 38,
+    "esami_totali": 204
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI LABORATORIO BIOMEDICO (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI LABORATORIO BIOMEDICO) -  VANVITELLI",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 152,
+    "esami_sostenuti_mschi": 73,
+    "esami_totali": 225
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI RADIOLOGIA MEDICA, PER IMMAGINI E RADIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI RADIOLOGIA MEDICA) -  A.O. CARDARELLI - NAPOLI",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 175,
+    "esami_sostenuti_mschi": 92,
+    "esami_totali": 267
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI RADIOLOGIA MEDICA, PER IMMAGINI E RADIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI RADIOLOGIA MEDICA) -  A.O. S. G. MOSCATI AVELLINO",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 123,
+    "esami_sostenuti_mschi": 139,
+    "esami_totali": 262
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI RADIOLOGIA MEDICA, PER IMMAGINI E RADIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI RADIOLOGIA MEDICA) -  A.O. S. SEBASTIANO E S. ANNA - CASERTA",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 152,
+    "esami_sostenuti_mschi": 117,
+    "esami_totali": 269
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI RADIOLOGIA MEDICA, PER IMMAGINI E RADIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI RADIOLOGIA MEDICA) -  VANVITELLI",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 179,
+    "esami_sostenuti_mschi": 290,
+    "esami_totali": 469
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "corso_studio": "INFORMATORE MEDICO SCIENTIFICO",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 21,
+    "esami_sostenuti_mschi": 1,
+    "esami_totali": 22
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "corso_studio": "MEDICINA E CHIRURGIA",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 6,
+    "esami_sostenuti_mschi": 12,
+    "esami_totali": 18
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "corso_studio": "MEDICINA E CHIRURGIA -  NAPOLI",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 8267,
+    "esami_sostenuti_mschi": 5032,
+    "esami_totali": 13299
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "corso_studio": "MEDICINA E CHIRURGIA (N.O) SEDE DI NAPOLI",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 43,
+    "esami_sostenuti_mschi": 48,
+    "esami_totali": 91
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "corso_studio": "SCIENZE INFERMIERISTICHE E OSTETRICHE",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 518,
+    "esami_sostenuti_mschi": 391,
+    "esami_totali": 909
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "corso_studio": "TECNICHE DELLA PREVENZIONE NELL'AMBIENTE E NEI LUOGHI DI LAVORO (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DELLA PREVENZIONE NELL'AMBIENTE E NEI LUOGHI DI LAVORO)",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 222,
+    "esami_sostenuti_mschi": 158,
+    "esami_totali": 380
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "PSICOLOGIA",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 4,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 4
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "PSICOLOGIA  APPLICATA",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 783,
+    "esami_sostenuti_mschi": 137,
+    "esami_totali": 920
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "PSICOLOGIA  APPLICATA AI CONTESTI ISTITUZIONALI",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 14,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 14
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "PSICOLOGIA CLINICA",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 1085,
+    "esami_sostenuti_mschi": 151,
+    "esami_totali": 1236
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "PSICOLOGIA CLINICA E DELLO SVILUPPO",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 3,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 3
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "PSICOLOGIA DEI PROCESSI COGNITIVI",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 492,
+    "esami_sostenuti_mschi": 146,
+    "esami_totali": 638
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "SCIENZE E TECNICHE PSICOLOGICHE",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 5747,
+    "esami_sostenuti_mschi": 1059,
+    "esami_totali": 6806
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "SCIENZE E TECNICHE PSICOLOGICHE PER LA PERSONA E LA COMUNITA'",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 12,
+    "esami_sostenuti_mschi": 5,
+    "esami_totali": 17
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SALUTE MENTALE E FISICA E MEDICINA PREVENTIVA",
+    "corso_studio": "LOGOPEDIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI LOGOPEDISTA) -  ASL AV",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 514,
+    "esami_sostenuti_mschi": 58,
+    "esami_totali": 572
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SALUTE MENTALE E FISICA E MEDICINA PREVENTIVA",
+    "corso_studio": "LOGOPEDIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI LOGOPEDISTA) -  Vanvitelli",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 672,
+    "esami_sostenuti_mschi": 53,
+    "esami_totali": 725
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SALUTE MENTALE E FISICA E MEDICINA PREVENTIVA",
+    "corso_studio": "TECNICA DELLA RIABILITAZIONE PSICHIATRICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DELLA RIABILITAZIONE PSICHIATRICA)",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 356,
+    "esami_sostenuti_mschi": 11,
+    "esami_totali": 367
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SALUTE MENTALE E FISICA E MEDICINA PREVENTIVA",
+    "corso_studio": "TERAPIA DELLA NEURO E PSICOMOTRICITÀ DELL'ETÀ EVOLUTIVA (ABILITANTE ALLA PROFESSIONE SANITARIA  DI TERAPISTA DELLA NEURO E PSICOMOTRICITÀ DELL'ETÀ EVOLUTIVA) -  A.S.L. AV - Grottaminarda",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 53,
+    "esami_sostenuti_mschi": 8,
+    "esami_totali": 61
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SALUTE MENTALE E FISICA E MEDICINA PREVENTIVA",
+    "corso_studio": "TERAPIA DELLA NEURO E PSICOMOTRICITÀ DELL'ETÀ EVOLUTIVA (ABILITANTE ALLA PROFESSIONE SANITARIA  DI TERAPISTA DELLA NEURO E PSICOMOTRICITÀ DELL'ETÀ EVOLUTIVA) -  Vanvitelli",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 1156,
+    "esami_sostenuti_mschi": 105,
+    "esami_totali": 1261
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "BIOLOGIA",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 578,
+    "esami_sostenuti_mschi": 126,
+    "esami_totali": 704
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "BIOTECNOLOGIE",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 633,
+    "esami_sostenuti_mschi": 220,
+    "esami_totali": 853
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "BIOTECNOLOGIE PER LA SALUTE",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 2,
+    "esami_sostenuti_mschi": 2,
+    "esami_totali": 4
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "FARMACIA",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 1059,
+    "esami_sostenuti_mschi": 319,
+    "esami_totali": 1378
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "MOLECULAR BIOTECHNOLOGY",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 73,
+    "esami_sostenuti_mschi": 51,
+    "esami_totali": 124
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "SCIENZE AGRARIE E FORESTALI",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 31,
+    "esami_sostenuti_mschi": 141,
+    "esami_totali": 172
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "SCIENZE AMBIENTALI",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 262,
+    "esami_sostenuti_mschi": 124,
+    "esami_totali": 386
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "SCIENZE BIOLOGICHE",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 1648,
+    "esami_sostenuti_mschi": 403,
+    "esami_totali": 2051
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "SCIENZE BIOLOGICHE (N.O.)",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 2,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 2
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "SCIENZE DEGLI ALIMENTI E DELLA NUTRIZIONE UMANA",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 857,
+    "esami_sostenuti_mschi": 184,
+    "esami_totali": 1041
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "SCIENZE E TECNOLOGIE PER L'AMBIENTE E IL TERRITORIO",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 58,
+    "esami_sostenuti_mschi": 39,
+    "esami_totali": 97
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE E CHIRURGICHE AVANZATE",
+    "corso_studio": "MEDICINA E CHIRURGIA",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 0,
+    "esami_sostenuti_mschi": 4,
+    "esami_totali": 4
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE E CHIRURGICHE AVANZATE",
+    "corso_studio": "MEDICINA E CHIRURGIA -  CASERTA",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 7585,
+    "esami_sostenuti_mschi": 4955,
+    "esami_totali": 12540
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE E CHIRURGICHE AVANZATE",
+    "corso_studio": "MEDICINA E CHIRURGIA (N.O) SEDE DI CASERTA",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 11,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 11
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  A.O. DEI COLLI - NAPOLI",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 661,
+    "esami_sostenuti_mschi": 429,
+    "esami_totali": 1090
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  A.O. S. G. MOSCATI AVELLINO",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 2582,
+    "esami_sostenuti_mschi": 1080,
+    "esami_totali": 3662
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  A.O. S. SEBASTIANO E S. ANNA CASERTA",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 740,
+    "esami_sostenuti_mschi": 295,
+    "esami_totali": 1035
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  ARIANO IRPINO",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 1395,
+    "esami_sostenuti_mschi": 571,
+    "esami_totali": 1966
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  ASL CE AVERSA",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 460,
+    "esami_sostenuti_mschi": 362,
+    "esami_totali": 822
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  ASL NA 1",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 1295,
+    "esami_sostenuti_mschi": 664,
+    "esami_totali": 1959
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  ISTITUTO PASCALE - NAPOLI",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 903,
+    "esami_sostenuti_mschi": 337,
+    "esami_totali": 1240
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  Vanvitelli",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 1780,
+    "esami_sostenuti_mschi": 804,
+    "esami_totali": 2584
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "NURSING (INFERMIERISTICA IN LINGUA INGLESE)",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 222,
+    "esami_sostenuti_mschi": 74,
+    "esami_totali": 296
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE",
+    "corso_studio": "PROGETTAZIONE E GESTIONE DEI SISTEMI TURISTICI",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 54,
+    "esami_sostenuti_mschi": 47,
+    "esami_totali": 101
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE",
+    "corso_studio": "RELAZIONI E ORGANIZZAZIONI INTERNAZIONALI",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 163,
+    "esami_sostenuti_mschi": 138,
+    "esami_totali": 301
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE",
+    "corso_studio": "SCIENZE DEL TURISMO",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 369,
+    "esami_sostenuti_mschi": 122,
+    "esami_totali": 491
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE",
+    "corso_studio": "SCIENZE DELLA POLITICA",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 241,
+    "esami_sostenuti_mschi": 292,
+    "esami_totali": 533
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE",
+    "corso_studio": "SCIENZE E TECNICHE DELLE AMMINISTRAZIONI PUBBLICHE",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 422,
+    "esami_sostenuti_mschi": 521,
+    "esami_totali": 943
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE",
+    "corso_studio": "SCIENZE POLITICHE",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 1068,
+    "esami_sostenuti_mschi": 1077,
+    "esami_totali": 2145
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE",
+    "corso_studio": "SCIENZE POLITICHE INTERCLASSE L-16 / L-36",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 2,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 2
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "FISIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI FISIOTERAPISTA) -  A.O. CARDARELLI NAPOLI",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 109,
+    "esami_sostenuti_mschi": 382,
+    "esami_totali": 491
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "FISIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI FISIOTERAPISTA) -  A.O. S. G. MOSCATI AVELLINO",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 91,
+    "esami_sostenuti_mschi": 352,
+    "esami_totali": 443
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "FISIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI FISIOTERAPISTA) -  A.S.L. AV - P.O. S. A. DEI LOMBARDI",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 351,
+    "esami_sostenuti_mschi": 611,
+    "esami_totali": 962
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "FISIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI FISIOTERAPISTA) -  ASL NA 1",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 0,
+    "esami_sostenuti_mschi": 5,
+    "esami_totali": 5
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "FISIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI FISIOTERAPISTA) -  VANVITELLI",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 316,
+    "esami_sostenuti_mschi": 530,
+    "esami_totali": 846
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "IGIENE DENTALE (ABILITANTE ALLA PROFESSIONE SANITARIA DI IGIENISTA DENTALE)",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 127,
+    "esami_sostenuti_mschi": 140,
+    "esami_totali": 267
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "ODONTOIATRIA E PROTESI DENTARIA",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 525,
+    "esami_sostenuti_mschi": 525,
+    "esami_totali": 1050
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "ORTOTTICA ED ASSISTENZA OFTALMOLOGICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI ORTOTTISTA ED ASSISTENTE DI OFTALMOLOGIA)",
+    "anno_solare": 2023,
+    "esami_sostenuti_femmine": 83,
+    "esami_sostenuti_mschi": 57,
+    "esami_totali": 140
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DELLA DONNA, DEL BAMBINO E DI CHIRURGIA GENERALE E SPECIALISTICA",
+    "corso_studio": "INFERMIERISTICA PEDIATRICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE PEDIATRICO)",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 1158,
+    "esami_sostenuti_mschi": 15,
+    "esami_totali": 1173
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DELLA DONNA, DEL BAMBINO E DI CHIRURGIA GENERALE E SPECIALISTICA",
+    "corso_studio": "OSTETRICIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI OSTETRICA/O)",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 855,
+    "esami_sostenuti_mschi": 5,
+    "esami_totali": 860
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DELLA DONNA, DEL BAMBINO E DI CHIRURGIA GENERALE E SPECIALISTICA",
+    "corso_studio": "OSTETRICIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI OSTETRICA/O) - A.O. S.SEBASTIANO E S.ANNA CASERTA",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 7,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 7
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "ARCHITETTURA",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 1868,
+    "esami_sostenuti_mschi": 1430,
+    "esami_totali": 3298
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "ARCHITETTURA - PROGETTAZIONE DEGLI INTERNI E PER L'AUTONOMIA",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 107,
+    "esami_sostenuti_mschi": 65,
+    "esami_totali": 172
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "ARCHITETTURA - RIGENERAZIONE DELL'AMBIENTE COSTRUITO",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 39,
+    "esami_sostenuti_mschi": 63,
+    "esami_totali": 102
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "ARCHITETTURA N.O.",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 1,
+    "esami_sostenuti_mschi": 4,
+    "esami_totali": 5
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "ARCHITETTURA (U.E.)",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 0,
+    "esami_sostenuti_mschi": 1,
+    "esami_totali": 1
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "ARCHITETTURA V.O.",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 1,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 1
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "DESIGN E COMUNICAZIONE",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 1979,
+    "esami_sostenuti_mschi": 1023,
+    "esami_totali": 3002
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "DESIGN PER LA MODA",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 2029,
+    "esami_sostenuti_mschi": 503,
+    "esami_totali": 2532
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "DESIGN PER L'INNOVAZIONE",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 784,
+    "esami_sostenuti_mschi": 264,
+    "esami_totali": 1048
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "SCIENZE E TECNICHE DELL'EDILIZIA",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 415,
+    "esami_sostenuti_mschi": 507,
+    "esami_totali": 922
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "corso_studio": "ECONOMIA AZIENDALE",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 1892,
+    "esami_sostenuti_mschi": 2279,
+    "esami_totali": 4171
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "corso_studio": "ECONOMIA E COMMERCIO",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 251,
+    "esami_sostenuti_mschi": 448,
+    "esami_totali": 699
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "corso_studio": "ECONOMIA E MANAGEMENT",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 765,
+    "esami_sostenuti_mschi": 619,
+    "esami_totali": 1384
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "corso_studio": "ECONOMIA, FINANZA E MERCATI",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 615,
+    "esami_sostenuti_mschi": 701,
+    "esami_totali": 1316
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "corso_studio": "Diritto della Sicurezza e dell'Innovazione Tecnologica (LM/SC- Giur)",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 27,
+    "esami_sostenuti_mschi": 20,
+    "esami_totali": 47
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "corso_studio": "GIURISPRUDENZA",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 2126,
+    "esami_sostenuti_mschi": 1138,
+    "esami_totali": 3264
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "corso_studio": "GIURISPRUDENZA (ONLINE)",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 14,
+    "esami_sostenuti_mschi": 6,
+    "esami_totali": 20
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "corso_studio": "SCIENZE DEI SERVIZI GIURIDICI",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 932,
+    "esami_sostenuti_mschi": 355,
+    "esami_totali": 1287
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA AEROSPAZIALE",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 51,
+    "esami_sostenuti_mschi": 107,
+    "esami_totali": 158
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA AEROSPAZIALE, MECCANICA, ENERGETICA",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 491,
+    "esami_sostenuti_mschi": 2608,
+    "esami_totali": 3099
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA AEROSPAZIALE-MECCANICA",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 22,
+    "esami_sostenuti_mschi": 43,
+    "esami_totali": 65
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA BIOMEDICA",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 238,
+    "esami_sostenuti_mschi": 176,
+    "esami_totali": 414
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA CIVILE",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 90,
+    "esami_sostenuti_mschi": 160,
+    "esami_totali": 250
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA CIVILE - EDILE -  AMBIENTALE",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 142,
+    "esami_sostenuti_mschi": 525,
+    "esami_totali": 667
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA CIVILE-AMBIENTALE",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 3,
+    "esami_sostenuti_mschi": 7,
+    "esami_totali": 10
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA ELETTRONICA",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 67,
+    "esami_sostenuti_mschi": 107,
+    "esami_totali": 174
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA ELETTRONICA E INFORMATICA",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 251,
+    "esami_sostenuti_mschi": 1576,
+    "esami_totali": 1827
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA GESTIONALE",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 262,
+    "esami_sostenuti_mschi": 469,
+    "esami_totali": 731
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA INFORMATICA",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 40,
+    "esami_sostenuti_mschi": 313,
+    "esami_totali": 353
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA MECCANICA",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 68,
+    "esami_sostenuti_mschi": 322,
+    "esami_totali": 390
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA PER L'ENERGIA E L'AMBIENTE",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 14,
+    "esami_sostenuti_mschi": 33,
+    "esami_totali": 47
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "TECNICHE PER L'EDILIZIA, IL TERRITORIO E L'AMBIENTE",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 0,
+    "esami_sostenuti_mschi": 16,
+    "esami_totali": 16
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "TECNICHE PER L'EDILIZIA, IL TERRITORIO E L'AMBIENTE",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 0,
+    "esami_sostenuti_mschi": 2,
+    "esami_totali": 2
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "corso_studio": "ARCHEOLOGIA E STORIA DELL'ARTE",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 308,
+    "esami_sostenuti_mschi": 136,
+    "esami_totali": 444
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "corso_studio": "CONSERVAZIONE DEI BENI CULTURALI",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 681,
+    "esami_sostenuti_mschi": 188,
+    "esami_totali": 869
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "corso_studio": "FILOLOGIA CLASSICA E MODERNA",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 791,
+    "esami_sostenuti_mschi": 124,
+    "esami_totali": 915
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "corso_studio": "LETTERE",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 2169,
+    "esami_sostenuti_mschi": 479,
+    "esami_totali": 2648
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "corso_studio": "DATA ANALYTICS",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 772,
+    "esami_sostenuti_mschi": 1044,
+    "esami_totali": 1816
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "corso_studio": "DATA SCIENCE",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 55,
+    "esami_sostenuti_mschi": 144,
+    "esami_totali": 199
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "corso_studio": "FISICA",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 82,
+    "esami_sostenuti_mschi": 198,
+    "esami_totali": 280
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "corso_studio": "MATEMATICA",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 705,
+    "esami_sostenuti_mschi": 250,
+    "esami_totali": 955
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "corso_studio": "MATEMATICA E INFORMATICA",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 5,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 5
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "corso_studio": "PHYSICS",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 21,
+    "esami_sostenuti_mschi": 48,
+    "esami_totali": 69
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "MEDICINA E CHIRURGIA -  IN LINGUA INGLESE",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 2159,
+    "esami_sostenuti_mschi": 1689,
+    "esami_totali": 3848
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI LABORATORIO BIOMEDICO (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI LABORATORIO BIOMEDICO) -  A.O. CARDARELLI - NAPOLI",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 171,
+    "esami_sostenuti_mschi": 80,
+    "esami_totali": 251
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI LABORATORIO BIOMEDICO (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI LABORATORIO BIOMEDICO) -  ASL CE - MARCIANISE",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 201,
+    "esami_sostenuti_mschi": 63,
+    "esami_totali": 264
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI LABORATORIO BIOMEDICO (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI LABORATORIO BIOMEDICO) -  VANVITELLI",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 171,
+    "esami_sostenuti_mschi": 115,
+    "esami_totali": 286
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI LABORATORIO BIOMEDICO SEDE S.U.N.",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 1,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 1
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI RADIOLOGIA MEDICA, PER IMMAGINI E RADIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI RADIOLOGIA MEDICA) -  A.O. CARDARELLI - NAPOLI",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 253,
+    "esami_sostenuti_mschi": 150,
+    "esami_totali": 403
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI RADIOLOGIA MEDICA, PER IMMAGINI E RADIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI RADIOLOGIA MEDICA) -  A.O. S. G. MOSCATI AVELLINO",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 134,
+    "esami_sostenuti_mschi": 179,
+    "esami_totali": 313
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI RADIOLOGIA MEDICA, PER IMMAGINI E RADIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI RADIOLOGIA MEDICA) -  A.O. S. SEBASTIANO E S. ANNA - CASERTA",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 165,
+    "esami_sostenuti_mschi": 169,
+    "esami_totali": 334
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI RADIOLOGIA MEDICA, PER IMMAGINI E RADIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI RADIOLOGIA MEDICA) -  VANVITELLI",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 235,
+    "esami_sostenuti_mschi": 344,
+    "esami_totali": 579
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "corso_studio": "ASSISTENZA SANITARIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI ASSISTENTE SANITARIO)",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 43,
+    "esami_sostenuti_mschi": 17,
+    "esami_totali": 60
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "corso_studio": "INFORMATORE MEDICO SCIENTIFICO",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 7,
+    "esami_sostenuti_mschi": 2,
+    "esami_totali": 9
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "corso_studio": "MEDICINA E CHIRURGIA",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 3,
+    "esami_sostenuti_mschi": 27,
+    "esami_totali": 30
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "corso_studio": "MEDICINA E CHIRURGIA -  NAPOLI",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 7635,
+    "esami_sostenuti_mschi": 4657,
+    "esami_totali": 12292
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "corso_studio": "MEDICINA E CHIRURGIA (N.O) SEDE DI NAPOLI",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 39,
+    "esami_sostenuti_mschi": 27,
+    "esami_totali": 66
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "corso_studio": "SCIENZE INFERMIERISTICHE E OSTETRICHE",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 723,
+    "esami_sostenuti_mschi": 397,
+    "esami_totali": 1120
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "corso_studio": "TECNICHE DELLA PREVENZIONE NELL'AMBIENTE E NEI LUOGHI DI LAVORO (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DELLA PREVENZIONE NELL'AMBIENTE E NEI LUOGHI DI LAVORO)",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 235,
+    "esami_sostenuti_mschi": 204,
+    "esami_totali": 439
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "PSICOLOGIA",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 1,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 1
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "PSICOLOGIA  APPLICATA",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 1067,
+    "esami_sostenuti_mschi": 179,
+    "esami_totali": 1246
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "PSICOLOGIA  APPLICATA AI CONTESTI ISTITUZIONALI",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 7,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 7
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "PSICOLOGIA CLINICA",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 709,
+    "esami_sostenuti_mschi": 101,
+    "esami_totali": 810
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "PSICOLOGIA CLINICA E DELLO SVILUPPO",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 1,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 1
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "PSICOLOGIA CLINICO-DINAMICA",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 557,
+    "esami_sostenuti_mschi": 100,
+    "esami_totali": 657
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "PSICOLOGIA DEI PROCESSI COGNITIVI",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 647,
+    "esami_sostenuti_mschi": 185,
+    "esami_totali": 832
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "SCIENZE E TECNICHE PSICOLOGICHE",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 5904,
+    "esami_sostenuti_mschi": 1055,
+    "esami_totali": 6959
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "SCIENZE E TECNICHE PSICOLOGICHE PER LA PERSONA E LA COMUNITA'",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 13,
+    "esami_sostenuti_mschi": 2,
+    "esami_totali": 15
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SALUTE MENTALE E FISICA E MEDICINA PREVENTIVA",
+    "corso_studio": "LOGOPEDIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI LOGOPEDISTA) -  ASL AV",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 608,
+    "esami_sostenuti_mschi": 67,
+    "esami_totali": 675
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SALUTE MENTALE E FISICA E MEDICINA PREVENTIVA",
+    "corso_studio": "LOGOPEDIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI LOGOPEDISTA) -  Vanvitelli",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 735,
+    "esami_sostenuti_mschi": 37,
+    "esami_totali": 772
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SALUTE MENTALE E FISICA E MEDICINA PREVENTIVA",
+    "corso_studio": "TECNICA DELLA RIABILITAZIONE PSICHIATRICA",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 1,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 1
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SALUTE MENTALE E FISICA E MEDICINA PREVENTIVA",
+    "corso_studio": "TECNICA DELLA RIABILITAZIONE PSICHIATRICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DELLA RIABILITAZIONE PSICHIATRICA)",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 421,
+    "esami_sostenuti_mschi": 21,
+    "esami_totali": 442
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SALUTE MENTALE E FISICA E MEDICINA PREVENTIVA",
+    "corso_studio": "TERAPIA DELLA NEURO E PSICOMOTRICITÀ DELL'ETÀ EVOLUTIVA (ABILITANTE ALLA PROFESSIONE SANITARIA  DI TERAPISTA DELLA NEURO E PSICOMOTRICITÀ DELL'ETÀ EVOLUTIVA) -  Vanvitelli",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 1340,
+    "esami_sostenuti_mschi": 62,
+    "esami_totali": 1402
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "BIOLOGIA",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 417,
+    "esami_sostenuti_mschi": 89,
+    "esami_totali": 506
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "BIOTECNOLOGIE",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 624,
+    "esami_sostenuti_mschi": 144,
+    "esami_totali": 768
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "BIOTECNOLOGIE PER LA SALUTE",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 0,
+    "esami_sostenuti_mschi": 1,
+    "esami_totali": 1
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "FARMACIA",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 997,
+    "esami_sostenuti_mschi": 264,
+    "esami_totali": 1261
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "MOLECULAR BIOTECHNOLOGY",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 87,
+    "esami_sostenuti_mschi": 63,
+    "esami_totali": 150
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "SCIENZE AGRARIE E FORESTALI",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 80,
+    "esami_sostenuti_mschi": 151,
+    "esami_totali": 231
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "SCIENZE AMBIENTALI",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 216,
+    "esami_sostenuti_mschi": 118,
+    "esami_totali": 334
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "SCIENZE BIOLOGICHE",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 1431,
+    "esami_sostenuti_mschi": 380,
+    "esami_totali": 1811
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "SCIENZE BIOLOGICHE (N.O.)",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 9,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 9
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "SCIENZE DEGLI ALIMENTI E DELLA NUTRIZIONE UMANA",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 647,
+    "esami_sostenuti_mschi": 160,
+    "esami_totali": 807
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "SCIENZE E TECNOLOGIE PER L'AMBIENTE E IL TERRITORIO",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 120,
+    "esami_sostenuti_mschi": 28,
+    "esami_totali": 148
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE E CHIRURGICHE AVANZATE",
+    "corso_studio": "MEDICINA E CHIRURGIA",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 1,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 1
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE E CHIRURGICHE AVANZATE",
+    "corso_studio": "MEDICINA E CHIRURGIA -  CASERTA",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 8898,
+    "esami_sostenuti_mschi": 5911,
+    "esami_totali": 14809
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE E CHIRURGICHE AVANZATE",
+    "corso_studio": "MEDICINA E CHIRURGIA (N.O) SEDE DI CASERTA",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 9,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 9
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  A.O. DEI COLLI - NAPOLI",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 936,
+    "esami_sostenuti_mschi": 514,
+    "esami_totali": 1450
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  A.O. S. G. MOSCATI AVELLINO",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 2909,
+    "esami_sostenuti_mschi": 852,
+    "esami_totali": 3761
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  A.O. S. SEBASTIANO E S. ANNA CASERTA",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 815,
+    "esami_sostenuti_mschi": 245,
+    "esami_totali": 1060
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  ARIANO IRPINO",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 1512,
+    "esami_sostenuti_mschi": 588,
+    "esami_totali": 2100
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  ASL CE AVERSA",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 832,
+    "esami_sostenuti_mschi": 510,
+    "esami_totali": 1342
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  ASL NA 1",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 1312,
+    "esami_sostenuti_mschi": 670,
+    "esami_totali": 1982
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  ISTITUTO PASCALE - NAPOLI",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 667,
+    "esami_sostenuti_mschi": 295,
+    "esami_totali": 962
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  Vanvitelli",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 1937,
+    "esami_sostenuti_mschi": 963,
+    "esami_totali": 2900
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA SEDE A.O. MONALDI - NAPOLI",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 0,
+    "esami_sostenuti_mschi": 1,
+    "esami_totali": 1
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "NURSING (INFERMIERISTICA IN LINGUA INGLESE)",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 279,
+    "esami_sostenuti_mschi": 62,
+    "esami_totali": 341
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE",
+    "corso_studio": "PROGETTAZIONE E GESTIONE DEI SISTEMI TURISTICI",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 141,
+    "esami_sostenuti_mschi": 69,
+    "esami_totali": 210
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE",
+    "corso_studio": "RELAZIONI E ORGANIZZAZIONI INTERNAZIONALI",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 150,
+    "esami_sostenuti_mschi": 121,
+    "esami_totali": 271
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE",
+    "corso_studio": "SCIENZE DEL TURISMO",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 403,
+    "esami_sostenuti_mschi": 166,
+    "esami_totali": 569
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE",
+    "corso_studio": "SCIENZE DELLA POLITICA",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 104,
+    "esami_sostenuti_mschi": 161,
+    "esami_totali": 265
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE",
+    "corso_studio": "SCIENZE DELLA POLITICA E DELLA COMUNICAZIONE ISTITUZIONALE",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 14,
+    "esami_sostenuti_mschi": 10,
+    "esami_totali": 24
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE",
+    "corso_studio": "SCIENZE E TECNICHE DELLE AMMINISTRAZIONI PUBBLICHE",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 555,
+    "esami_sostenuti_mschi": 479,
+    "esami_totali": 1034
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE",
+    "corso_studio": "SCIENZE POLITICHE",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 1097,
+    "esami_sostenuti_mschi": 1181,
+    "esami_totali": 2278
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE",
+    "corso_studio": "SCIENZE POLITICHE INTERCLASSE L-16 / L-36",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 1,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 1
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "FISIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI FISIOTERAPISTA) -  A.O. CARDARELLI NAPOLI",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 94,
+    "esami_sostenuti_mschi": 369,
+    "esami_totali": 463
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "FISIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI FISIOTERAPISTA) -  A.O. S. G. MOSCATI AVELLINO",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 97,
+    "esami_sostenuti_mschi": 322,
+    "esami_totali": 419
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "FISIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI FISIOTERAPISTA) -  A.S.L. AV - P.O. S. A. DEI LOMBARDI",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 349,
+    "esami_sostenuti_mschi": 824,
+    "esami_totali": 1173
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "FISIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI FISIOTERAPISTA) -  VANVITELLI",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 255,
+    "esami_sostenuti_mschi": 551,
+    "esami_totali": 806
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "IGIENE DENTALE (ABILITANTE ALLA PROFESSIONE SANITARIA DI IGIENISTA DENTALE)",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 184,
+    "esami_sostenuti_mschi": 98,
+    "esami_totali": 282
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "ODONTOIATRIA E PROTESI DENTARIA",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 645,
+    "esami_sostenuti_mschi": 579,
+    "esami_totali": 1224
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "ORTOTTICA ED ASSISTENZA OFTALMOLOGICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI ORTOTTISTA ED ASSISTENTE DI OFTALMOLOGIA)",
+    "anno_solare": 2024,
+    "esami_sostenuti_femmine": 127,
+    "esami_sostenuti_mschi": 110,
+    "esami_totali": 237
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DELLA DONNA, DEL BAMBINO E DI CHIRURGIA GENERALE E SPECIALISTICA",
+    "corso_studio": "INFERMIERISTICA PEDIATRICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE PEDIATRICO)",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 1147,
+    "esami_sostenuti_mschi": 33,
+    "esami_totali": 1180
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DELLA DONNA, DEL BAMBINO E DI CHIRURGIA GENERALE E SPECIALISTICA",
+    "corso_studio": "OSTETRICIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI OSTETRICA/O)",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 751,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 751
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "ARCHITETTURA",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 2151,
+    "esami_sostenuti_mschi": 1461,
+    "esami_totali": 3612
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "ARCHITETTURA - PROGETTAZIONE DEGLI INTERNI E PER L'AUTONOMIA",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 20,
+    "esami_sostenuti_mschi": 7,
+    "esami_totali": 27
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "ARCHITETTURA - RIGENERAZIONE DELL'AMBIENTE COSTRUITO",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 94,
+    "esami_sostenuti_mschi": 155,
+    "esami_totali": 249
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "ARCHITETTURA N.O.",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 0,
+    "esami_sostenuti_mschi": 2,
+    "esami_totali": 2
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "ARCHITETTURA (U.E.)",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 2,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 2
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "ARCHITETTURA V.O.",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 0,
+    "esami_sostenuti_mschi": 2,
+    "esami_totali": 2
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "DESIGN E COMUNICAZIONE",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 2001,
+    "esami_sostenuti_mschi": 955,
+    "esami_totali": 2956
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "DESIGN PER LA MODA",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 2071,
+    "esami_sostenuti_mschi": 458,
+    "esami_totali": 2529
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "DESIGN PER L'INNOVAZIONE",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 653,
+    "esami_sostenuti_mschi": 256,
+    "esami_totali": 909
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "SCIENZE DELL'ARCHITETTURA",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 0,
+    "esami_sostenuti_mschi": 2,
+    "esami_totali": 2
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ARCHITETTURA E DISEGNO INDUSTRIALE",
+    "corso_studio": "SCIENZE E TECNICHE DELL'EDILIZIA",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 403,
+    "esami_sostenuti_mschi": 496,
+    "esami_totali": 899
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "corso_studio": "ECONOMIA AZIENDALE",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 2042,
+    "esami_sostenuti_mschi": 2313,
+    "esami_totali": 4355
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "corso_studio": "ECONOMIA AZIENDALE (N.O.)",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 6,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 6
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "corso_studio": "ECONOMIA E COMMERCIO",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 240,
+    "esami_sostenuti_mschi": 449,
+    "esami_totali": 689
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "corso_studio": "ECONOMIA E MANAGEMENT",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 729,
+    "esami_sostenuti_mschi": 635,
+    "esami_totali": 1364
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI ECONOMIA",
+    "corso_studio": "ECONOMIA, FINANZA E MERCATI",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 526,
+    "esami_sostenuti_mschi": 528,
+    "esami_totali": 1054
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "corso_studio": "DIRITTO DELLA SICUREZZA E DELL'INNOVAZIONE TECNOLOGICA",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 6,
+    "esami_sostenuti_mschi": 1,
+    "esami_totali": 7
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "corso_studio": "Diritto della Sicurezza e dell'Innovazione Tecnologica (LM/SC- Giur)",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 40,
+    "esami_sostenuti_mschi": 30,
+    "esami_totali": 70
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "corso_studio": "GIURISPRUDENZA",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 2140,
+    "esami_sostenuti_mschi": 1293,
+    "esami_totali": 3433
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "corso_studio": "GIURISPRUDENZA (ONLINE)",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 27,
+    "esami_sostenuti_mschi": 15,
+    "esami_totali": 42
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "corso_studio": "SCIENZE DEI SERVIZI GIURIDICI",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 1026,
+    "esami_sostenuti_mschi": 402,
+    "esami_totali": 1428
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "corso_studio": "SCIENZE GIURIDICHE",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 0,
+    "esami_sostenuti_mschi": 1,
+    "esami_totali": 1
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI GIURISPRUDENZA",
+    "corso_studio": "SERV.GIURIDICI-OPERAT.ATTIV.GIUR.DELLE IMP.E P.A. EUR.E INT.",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 1,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 1
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA AEROSPAZIALE",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 43,
+    "esami_sostenuti_mschi": 120,
+    "esami_totali": 163
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA AEROSPAZIALE, MECCANICA, ENERGETICA",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 485,
+    "esami_sostenuti_mschi": 2761,
+    "esami_totali": 3246
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA AEROSPAZIALE-MECCANICA",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 11,
+    "esami_sostenuti_mschi": 38,
+    "esami_totali": 49
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA BIOMEDICA",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 470,
+    "esami_sostenuti_mschi": 263,
+    "esami_totali": 733
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA CIVILE",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 70,
+    "esami_sostenuti_mschi": 191,
+    "esami_totali": 261
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA CIVILE - EDILE -  AMBIENTALE",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 170,
+    "esami_sostenuti_mschi": 715,
+    "esami_totali": 885
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA CIVILE-AMBIENTALE",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 2,
+    "esami_sostenuti_mschi": 1,
+    "esami_totali": 3
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA ELETTRONICA",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 51,
+    "esami_sostenuti_mschi": 101,
+    "esami_totali": 152
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA ELETTRONICA E INFORMATICA",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 287,
+    "esami_sostenuti_mschi": 1773,
+    "esami_totali": 2060
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA GESTIONALE",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 466,
+    "esami_sostenuti_mschi": 846,
+    "esami_totali": 1312
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA INFORMATICA",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 15,
+    "esami_sostenuti_mschi": 257,
+    "esami_totali": 272
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA MECCANICA",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 96,
+    "esami_sostenuti_mschi": 313,
+    "esami_totali": 409
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "INGEGNERIA PER L'ENERGIA E L'AMBIENTE",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 41,
+    "esami_sostenuti_mschi": 38,
+    "esami_totali": 79
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "TECNICHE PER L'EDILIZIA, IL TERRITORIO E L'AMBIENTE",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 0,
+    "esami_sostenuti_mschi": 8,
+    "esami_totali": 8
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI INGEGNERIA",
+    "corso_studio": "TECNICHE PER L'EDILIZIA, IL TERRITORIO E L'AMBIENTE",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 0,
+    "esami_sostenuti_mschi": 1,
+    "esami_totali": 1
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "corso_studio": "ARCHEOLOGIA E STORIA DELL'ARTE",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 334,
+    "esami_sostenuti_mschi": 111,
+    "esami_totali": 445
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "corso_studio": "CONSERVAZIONE DEI BENI CULTURALI",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 544,
+    "esami_sostenuti_mschi": 188,
+    "esami_totali": 732
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "corso_studio": "FILOLOGIA CLASSICA E MODERNA",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 903,
+    "esami_sostenuti_mschi": 123,
+    "esami_totali": 1026
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "corso_studio": "LETTERE",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 2228,
+    "esami_sostenuti_mschi": 522,
+    "esami_totali": 2750
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI LETTERE E BENI CULTURALI (DILBEC)",
+    "corso_studio": "SCIENZE DELLA FORMAZIONE PRIMARIA",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 464,
+    "esami_sostenuti_mschi": 43,
+    "esami_totali": 507
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "corso_studio": "DATA ANALYTICS",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 554,
+    "esami_sostenuti_mschi": 716,
+    "esami_totali": 1270
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "corso_studio": "DATA SCIENCE",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 100,
+    "esami_sostenuti_mschi": 228,
+    "esami_totali": 328
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "corso_studio": "FISICA",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 107,
+    "esami_sostenuti_mschi": 200,
+    "esami_totali": 307
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "corso_studio": "MATEMATICA",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 697,
+    "esami_sostenuti_mschi": 267,
+    "esami_totali": 964
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "corso_studio": "MATEMATICA E INFORMATICA",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 1,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 1
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MATEMATICA E FISICA",
+    "corso_studio": "PHYSICS",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 29,
+    "esami_sostenuti_mschi": 59,
+    "esami_totali": 88
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "MEDICINA E CHIRURGIA -  IN LINGUA INGLESE",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 1936,
+    "esami_sostenuti_mschi": 1682,
+    "esami_totali": 3618
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI LABORATORIO BIOMEDICO (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI LABORATORIO BIOMEDICO) -  A.O. CARDARELLI - NAPOLI",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 177,
+    "esami_sostenuti_mschi": 99,
+    "esami_totali": 276
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI LABORATORIO BIOMEDICO (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI LABORATORIO BIOMEDICO) -  ASL CE - MARCIANISE",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 113,
+    "esami_sostenuti_mschi": 34,
+    "esami_totali": 147
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI LABORATORIO BIOMEDICO (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI LABORATORIO BIOMEDICO) -  VANVITELLI",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 160,
+    "esami_sostenuti_mschi": 90,
+    "esami_totali": 250
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI RADIOLOGIA MEDICA, PER IMMAGINI E RADIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI RADIOLOGIA MEDICA) -  A.O. CARDARELLI - NAPOLI",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 226,
+    "esami_sostenuti_mschi": 219,
+    "esami_totali": 445
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI RADIOLOGIA MEDICA, PER IMMAGINI E RADIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI RADIOLOGIA MEDICA) -  A.O. S. G. MOSCATI AVELLINO",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 149,
+    "esami_sostenuti_mschi": 169,
+    "esami_totali": 318
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI RADIOLOGIA MEDICA, PER IMMAGINI E RADIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI RADIOLOGIA MEDICA) -  A.O. S. SEBASTIANO E S. ANNA - CASERTA",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 250,
+    "esami_sostenuti_mschi": 158,
+    "esami_totali": 408
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA DI PRECISIONE",
+    "corso_studio": "TECNICHE DI RADIOLOGIA MEDICA, PER IMMAGINI E RADIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DI RADIOLOGIA MEDICA) -  VANVITELLI",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 225,
+    "esami_sostenuti_mschi": 464,
+    "esami_totali": 689
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "corso_studio": "ASSISTENZA SANITARIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI ASSISTENTE SANITARIO)",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 62,
+    "esami_sostenuti_mschi": 11,
+    "esami_totali": 73
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "corso_studio": "INFORMATORE MEDICO SCIENTIFICO",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 4,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 4
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "corso_studio": "MEDICINA E CHIRURGIA",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 2,
+    "esami_sostenuti_mschi": 23,
+    "esami_totali": 25
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "corso_studio": "MEDICINA E CHIRURGIA -  NAPOLI",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 7866,
+    "esami_sostenuti_mschi": 4551,
+    "esami_totali": 12417
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "corso_studio": "MEDICINA E CHIRURGIA (N.O.)",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 3,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 3
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "corso_studio": "MEDICINA E CHIRURGIA (N.O) SEDE DI NAPOLI",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 27,
+    "esami_sostenuti_mschi": 45,
+    "esami_totali": 72
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "corso_studio": "SCIENZE INFERMIERISTICHE E OSTETRICHE",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 797,
+    "esami_sostenuti_mschi": 357,
+    "esami_totali": 1154
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI MEDICINA SPERIMENTALE",
+    "corso_studio": "TECNICHE DELLA PREVENZIONE NELL'AMBIENTE E NEI LUOGHI DI LAVORO (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DELLA PREVENZIONE NELL'AMBIENTE E NEI LUOGHI DI LAVORO)",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 214,
+    "esami_sostenuti_mschi": 135,
+    "esami_totali": 349
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "PSICOLOGIA",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 1,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 1
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "PSICOLOGIA  APPLICATA",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 1342,
+    "esami_sostenuti_mschi": 216,
+    "esami_totali": 1558
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "PSICOLOGIA  APPLICATA AI CONTESTI ISTITUZIONALI",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 4,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 4
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "PSICOLOGIA CLINICA",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 222,
+    "esami_sostenuti_mschi": 27,
+    "esami_totali": 249
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "PSICOLOGIA CLINICA E DELLO SVILUPPO",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 1,
+    "esami_sostenuti_mschi": 0,
+    "esami_totali": 1
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "PSICOLOGIA CLINICO-DINAMICA",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 983,
+    "esami_sostenuti_mschi": 190,
+    "esami_totali": 1173
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "PSICOLOGIA DEI PROC. COGN. E DEL RECUP. FUNZ.",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 0,
+    "esami_sostenuti_mschi": 1,
+    "esami_totali": 1
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "PSICOLOGIA DEI PROCESSI COGNITIVI",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 805,
+    "esami_sostenuti_mschi": 225,
+    "esami_totali": 1030
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "SCIENZE E TECNICHE PSICOLOGICHE",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 5959,
+    "esami_sostenuti_mschi": 1256,
+    "esami_totali": 7215
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI PSICOLOGIA.",
+    "corso_studio": "SCIENZE E TECNICHE PSICOLOGICHE PER LA PERSONA E LA COMUNITA'",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 5,
+    "esami_sostenuti_mschi": 5,
+    "esami_totali": 10
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SALUTE MENTALE E FISICA E MEDICINA PREVENTIVA",
+    "corso_studio": "LOGOPEDIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI LOGOPEDISTA) -  ASL AV",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 740,
+    "esami_sostenuti_mschi": 107,
+    "esami_totali": 847
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SALUTE MENTALE E FISICA E MEDICINA PREVENTIVA",
+    "corso_studio": "LOGOPEDIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI LOGOPEDISTA) -  Vanvitelli",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 669,
+    "esami_sostenuti_mschi": 66,
+    "esami_totali": 735
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SALUTE MENTALE E FISICA E MEDICINA PREVENTIVA",
+    "corso_studio": "TECNICA DELLA RIABILITAZIONE PSICHIATRICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI TECNICO DELLA RIABILITAZIONE PSICHIATRICA)",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 404,
+    "esami_sostenuti_mschi": 33,
+    "esami_totali": 437
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SALUTE MENTALE E FISICA E MEDICINA PREVENTIVA",
+    "corso_studio": "TERAPIA DELLA NEURO E PSICOMOTRICITÀ DELL'ETÀ EVOLUTIVA (ABILITANTE ALLA PROFESSIONE SANITARIA  DI TERAPISTA DELLA NEURO E PSICOMOTRICITÀ DELL'ETÀ EVOLUTIVA) -  Vanvitelli",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 1163,
+    "esami_sostenuti_mschi": 49,
+    "esami_totali": 1212
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "BIOLOGIA",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 433,
+    "esami_sostenuti_mschi": 90,
+    "esami_totali": 523
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "BIOTECNOLOGIE",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 685,
+    "esami_sostenuti_mschi": 227,
+    "esami_totali": 912
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "FARMACIA",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 1122,
+    "esami_sostenuti_mschi": 273,
+    "esami_totali": 1395
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "MOLECULAR BIOTECHNOLOGY",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 94,
+    "esami_sostenuti_mschi": 72,
+    "esami_totali": 166
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "MOLECULAR BIOTECHNOLOGY",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 9,
+    "esami_sostenuti_mschi": 8,
+    "esami_totali": 17
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "SCIENZE AGRARIE E FORESTALI",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 62,
+    "esami_sostenuti_mschi": 138,
+    "esami_totali": 200
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "SCIENZE AMBIENTALI",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 164,
+    "esami_sostenuti_mschi": 100,
+    "esami_totali": 264
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "SCIENZE BIOLOGICHE",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 1398,
+    "esami_sostenuti_mschi": 500,
+    "esami_totali": 1898
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "SCIENZE BIOLOGICHE (N.O.)",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 0,
+    "esami_sostenuti_mschi": 1,
+    "esami_totali": 1
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "SCIENZE DEGLI ALIMENTI E DELLA NUTRIZIONE UMANA",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 486,
+    "esami_sostenuti_mschi": 91,
+    "esami_totali": 577
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE E TECNOLOGIE AMBIENTALI BIOLOGICHE E FARMACEUTICHE (DISTABIF)",
+    "corso_studio": "SCIENZE E TECNOLOGIE PER L'AMBIENTE E IL TERRITORIO",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 113,
+    "esami_sostenuti_mschi": 47,
+    "esami_totali": 160
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE E CHIRURGICHE AVANZATE",
+    "corso_studio": "MEDICINA E CHIRURGIA",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 0,
+    "esami_sostenuti_mschi": 4,
+    "esami_totali": 4
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE E CHIRURGICHE AVANZATE",
+    "corso_studio": "MEDICINA E CHIRURGIA -  CASERTA",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 9538,
+    "esami_sostenuti_mschi": 5700,
+    "esami_totali": 15238
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  A.O. DEI COLLI - NAPOLI",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 781,
+    "esami_sostenuti_mschi": 373,
+    "esami_totali": 1154
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  A.O. S. G. MOSCATI AVELLINO",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 2814,
+    "esami_sostenuti_mschi": 758,
+    "esami_totali": 3572
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  A.O. S. SEBASTIANO E S. ANNA CASERTA",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 996,
+    "esami_sostenuti_mschi": 362,
+    "esami_totali": 1358
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  ARIANO IRPINO",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 1298,
+    "esami_sostenuti_mschi": 575,
+    "esami_totali": 1873
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  ASL CE AVERSA",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 880,
+    "esami_sostenuti_mschi": 498,
+    "esami_totali": 1378
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  ASL NA 1",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 1545,
+    "esami_sostenuti_mschi": 639,
+    "esami_totali": 2184
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  Caivano",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 59,
+    "esami_sostenuti_mschi": 14,
+    "esami_totali": 73
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  ISTITUTO PASCALE - NAPOLI",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 741,
+    "esami_sostenuti_mschi": 319,
+    "esami_totali": 1060
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI INFERMIERE) -  Vanvitelli",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 1936,
+    "esami_sostenuti_mschi": 988,
+    "esami_totali": 2924
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "INFERMIERISTICA SEDE A.O. MONALDI - NAPOLI",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 0,
+    "esami_sostenuti_mschi": 6,
+    "esami_totali": 6
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE MEDICHE TRASLAZIONALI",
+    "corso_studio": "NURSING (INFERMIERISTICA IN LINGUA INGLESE)",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 222,
+    "esami_sostenuti_mschi": 85,
+    "esami_totali": 307
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE",
+    "corso_studio": "PROGETTAZIONE E GESTIONE DEI SISTEMI TURISTICI",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 171,
+    "esami_sostenuti_mschi": 23,
+    "esami_totali": 194
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE",
+    "corso_studio": "RELAZIONI E ORGANIZZAZIONI INTERNAZIONALI",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 244,
+    "esami_sostenuti_mschi": 164,
+    "esami_totali": 408
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE",
+    "corso_studio": "SCIENZE DEL TURISMO",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 435,
+    "esami_sostenuti_mschi": 144,
+    "esami_totali": 579
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE",
+    "corso_studio": "SCIENZE DELLA POLITICA",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 13,
+    "esami_sostenuti_mschi": 42,
+    "esami_totali": 55
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE",
+    "corso_studio": "SCIENZE DELLA POLITICA E DELLA COMUNICAZIONE ISTITUZIONALE",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 51,
+    "esami_sostenuti_mschi": 69,
+    "esami_totali": 120
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE",
+    "corso_studio": "SCIENZE E TECNICHE DELLE AMMINISTRAZIONI PUBBLICHE",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 656,
+    "esami_sostenuti_mschi": 608,
+    "esami_totali": 1264
+  },
+  {
+    "dipartimento": "DIPARTIMENTO DI SCIENZE POLITICHE",
+    "corso_studio": "SCIENZE POLITICHE",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 1019,
+    "esami_sostenuti_mschi": 1008,
+    "esami_totali": 2027
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "FISIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI FISIOTERAPISTA) -  A.O. CARDARELLI NAPOLI",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 118,
+    "esami_sostenuti_mschi": 306,
+    "esami_totali": 424
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "FISIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI FISIOTERAPISTA) -  A.O. S. G. MOSCATI AVELLINO",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 108,
+    "esami_sostenuti_mschi": 296,
+    "esami_totali": 404
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "FISIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI FISIOTERAPISTA) -  A.S.L. AV - P.O. S. A. DEI LOMBARDI",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 285,
+    "esami_sostenuti_mschi": 712,
+    "esami_totali": 997
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "FISIOTERAPIA (ABILITANTE ALLA PROFESSIONE SANITARIA DI FISIOTERAPISTA) -  VANVITELLI",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 293,
+    "esami_sostenuti_mschi": 663,
+    "esami_totali": 956
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "IGIENE DENTALE (ABILITANTE ALLA PROFESSIONE SANITARIA DI IGIENISTA DENTALE)",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 175,
+    "esami_sostenuti_mschi": 83,
+    "esami_totali": 258
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "ODONTOIATRIA E PROTESI DENTARIA",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 811,
+    "esami_sostenuti_mschi": 667,
+    "esami_totali": 1478
+  },
+  {
+    "dipartimento": "DIPARTIMENTO MULTIDISCIPLINARE DI SPECIALITA' MEDICO-CHIRURGICHE E ODONTOIATRICHE",
+    "corso_studio": "ORTOTTICA ED ASSISTENZA OFTALMOLOGICA (ABILITANTE ALLA PROFESSIONE SANITARIA DI ORTOTTISTA ED ASSISTENTE DI OFTALMOLOGIA)",
+    "anno_solare": 2025,
+    "esami_sostenuti_femmine": 104,
+    "esami_sostenuti_mschi": 54,
+    "esami_totali": 158
+  }
+]
